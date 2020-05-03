@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="agenda_count_down">
+        <item quantity="other">In %d minutes</item>
+        <item quantity="one">In %d minute</item>
+        <item quantity="few">In %d minutes</item>
+        <item quantity="many">In %d minutes</item>
+    </plurals>
+    <plurals name="assistant_day">
+        <item quantity="other">In %d days</item>
+        <item quantity="one">In %d day</item>
+        <item quantity="few">In %d days</item>
+        <item quantity="many">In %d days</item>
+    </plurals>
+    <plurals name="book_start_interval">
+        <item quantity="other">Departs in %d days</item>
+        <item quantity="one">Departs in %d day</item>
+        <item quantity="few">Departs in %d days</item>
+        <item quantity="many">Departs in %d days</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">%1$dd ago</item>
+        <item quantity="few">%1$dd ago</item>
+        <item quantity="many">%1$dd ago</item>
+        <item quantity="other">%1$dd ago</item>
+    </plurals>
+    <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Delete %s items from express?</item>
+        <item quantity="one">Delete %s item from express?</item>
+        <item quantity="few">Delete %s items from express?</item>
+        <item quantity="many">Delete %s items from express?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">Selected %s items</item>
+        <item quantity="one">Selected %s item</item>
+        <item quantity="few">Selected %s items</item>
+        <item quantity="many">Selected %s items</item>
+    </plurals>
+    <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">Added %d phone numbers</item>
+        <item quantity="one">Added %d phone number</item>
+        <item quantity="few">Added %d phone numbers</item>
+        <item quantity="many">Added %d phone numbers</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="one">%1$dhr ago</item>
+        <item quantity="few">%1$dhr ago</item>
+        <item quantity="many">%1$dhr ago</item>
+        <item quantity="other">%1$dhr ago</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Remove %s items from favorites?</item>
+        <item quantity="one">Remove %s item from favorites?</item>
+        <item quantity="few">Remove %s items from favorites?</item>
+        <item quantity="many">Remove %s items from favorites?</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">Marked %s items as important</item>
+        <item quantity="one">Marked %s item as important</item>
+        <item quantity="few">Marked %s items as important</item>
+        <item quantity="many">Marked %s items as important</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Selected %s items</item>
+        <item quantity="one">Selected %s item</item>
+        <item quantity="few">Selected %s items</item>
+        <item quantity="many">Selected %s items</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="one">%1$dmin ago</item>
+        <item quantity="few">%1$dmin ago</item>
+        <item quantity="many">%1$dmin ago</item>
+        <item quantity="other">%1$dmin ago</item>
+    </plurals>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">Delete %s items from payment?</item>
+        <item quantity="one">Delete %s item from payment?</item>
+        <item quantity="few">Delete %s items from payment?</item>
+        <item quantity="many">Delete %s items from payment?</item>
+    </plurals>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Selected %s items</item>
+        <item quantity="one">Selected %s item</item>
+        <item quantity="few">Selected %s items</item>
+        <item quantity="many">Selected %s items</item>
+    </plurals>
+    <plurals name="shopping_delete_num">
+        <item quantity="other">Delete %s selected items?</item>
+        <item quantity="one">Delete %s selected item?</item>
+        <item quantity="few">Delete %s selected items?</item>
+        <item quantity="many">Delete %s selected items?</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">Departs in %d days</item>
+        <item quantity="one">Departs in %d day</item>
+        <item quantity="few">Departs in %d days</item>
+        <item quantity="many">Departs in %d days</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">Departs in %d hrs</item>
+        <item quantity="one">Departs in %d hr</item>
+        <item quantity="few">Departs in %d hrs</item>
+        <item quantity="many">Departs in %d hrs</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">Departs in %d mins</item>
+        <item quantity="one">Departs in %d min</item>
+        <item quantity="few">Departs in %d mins</item>
+        <item quantity="many">Departs in %d mins</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+        <item quantity="few">%d hours</item>
+        <item quantity="many">%d hours</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+        <item quantity="few">%d minutes</item>
+        <item quantity="many">%d minutes</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|steps</item>
+        <item quantity="one">%d|step</item>
+        <item quantity="few">%d|steps</item>
+        <item quantity="many">%d|steps</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">%d hour ago</item>
+        <item quantity="few">%d hours ago</item>
+        <item quantity="many">%d hours ago</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">%d minute ago</item>
+        <item quantity="few">%d minutes ago</item>
+        <item quantity="many">%d minutes ago</item>
+    </plurals>
+</resources>
