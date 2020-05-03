@@ -1,0 +1,3 @@
+files:
+  - source: /pine_stable/*/*/*/*.xml
+    translation: /%language%/%original_path%
