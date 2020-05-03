@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s people</item>
+        <item quantity="one">%s person</item>
+        <item quantity="few">%s people</item>
+        <item quantity="many">%s people</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Redialed %d times</item>
+        <item quantity="one">Redialed %d time</item>
+        <item quantity="few">Redialed %d times</item>
+        <item quantity="many">Redialed %d times</item>
+    </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">Recorded %d calls.</item>
+        <item quantity="one">Recorded %d call.</item>
+        <item quantity="few">Recorded %d calls.</item>
+        <item quantity="many">Recorded %d calls.</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">Reported by %d MIUI users</item>
+        <item quantity="one">Reported by %d MIUI user</item>
+        <item quantity="few">Reported by %d MIUI users</item>
+        <item quantity="many">Reported by %d MIUI users</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+        <item quantity="few">%d seconds</item>
+        <item quantity="many">%d seconds</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+        <item quantity="few">%d minutes</item>
+        <item quantity="many">%d minutes</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+        <item quantity="few">%d hours</item>
+        <item quantity="many">%d hours</item>
+    </plurals>
+</resources>
