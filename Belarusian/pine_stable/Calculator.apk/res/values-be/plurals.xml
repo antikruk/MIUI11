@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d дзён</item>
+        <item quantity="one">%d дзень</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d дзён</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d месяцаў</item>
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяца</item>
+        <item quantity="many">%d месяцаў</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">гадоў</item>
+        <item quantity="one">год</item>
+        <item quantity="few">гады</item>
+        <item quantity="many">гадоў</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d аб\'ектаў</item>
+        <item quantity="one">%d аб\'ект</item>
+        <item quantity="few">%d аб\'екта</item>
+        <item quantity="many">%d аб\'ектаў</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Звесткі аб пагашэнні (%d гадоў)</item>
+        <item quantity="one">Звесткі аб пагашэнні (%d год)</item>
+        <item quantity="few">Звесткі аб пагашэнні (%d года)</item>
+        <item quantity="many">Звесткі аб пагашэнні (%d гадоў)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Звесткі аб пагашэнні (%d гадоў), CNY</item>
+        <item quantity="one">Звесткі аб пагашэнні (%d год), CNY</item>
+        <item quantity="few">Звесткі аб пагашэнні (%d года), CNY</item>
+        <item quantity="many">Звесткі аб пагашэнні (%d гадоў), CNY</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d года (%2$d мес.)</item>
+        <item quantity="one">%1$d год (%2$d мес.)</item>
+        <item quantity="few">%1$d гады (%2$d мес.)</item>
+        <item quantity="many">%1$d гадоў (%2$d мес.)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d месяцаў</item>
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяцы</item>
+        <item quantity="many">%d месяцаў</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 hour ago</item>
+        <item quantity="few">1 hour ago</item>
+        <item quantity="many">1 hour ago</item>
+        <item quantity="other">1 hour ago</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 hour ago</item>
+        <item quantity="few">1 hour ago</item>
+        <item quantity="many">1 hour ago</item>
+        <item quantity="other">1 hour ago</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Half an hour ago</item>
+        <item quantity="few">Half an hour ago</item>
+        <item quantity="many">Half an hour ago</item>
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">In 1 hour</item>
+        <item quantity="few">In 1 hour</item>
+        <item quantity="many">In 1 hour</item>
+        <item quantity="other">In 1 hour</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">In half an hour</item>
+        <item quantity="few">In half an hour</item>
+        <item quantity="many">In half an hour</item>
+        <item quantity="other">In half an hour</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Immediately</item>
+        <item quantity="few">Immediately</item>
+        <item quantity="many">Immediately</item>
+        <item quantity="other">Immediately</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d mins</item>
+        <item quantity="one">in 1 min</item>
+        <item quantity="few">in %d mins</item>
+        <item quantity="many">in %d mins</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Just now</item>
+        <item quantity="few">Just now</item>
+        <item quantity="many">Just now</item>
+        <item quantity="other">Just now</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d mins ago</item>
+        <item quantity="one">1 min ago</item>
+        <item quantity="few">%d mins ago</item>
+        <item quantity="many">%d mins ago</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Half an hour ago</item>
+        <item quantity="few">Half an hour ago</item>
+        <item quantity="many">Half an hour ago</item>
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">In 1 hour</item>
+        <item quantity="few">In 1 hour</item>
+        <item quantity="many">In 1 hour</item>
+        <item quantity="other">In 1 hour</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">In half an hour</item>
+        <item quantity="few">In half an hour</item>
+        <item quantity="many">In half an hour</item>
+        <item quantity="other">In half an hour</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediately</item>
+        <item quantity="few">Immediately</item>
+        <item quantity="many">Immediately</item>
+        <item quantity="other">Immediately</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minutes</item>
+        <item quantity="one">in 1 minute</item>
+        <item quantity="few">in %d minutes</item>
+        <item quantity="many">in %d minutes</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
+        <item quantity="few">%d items selected</item>
+        <item quantity="many">%d items selected</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Just now</item>
+        <item quantity="few">Just now</item>
+        <item quantity="many">Just now</item>
+        <item quantity="other">Just now</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">1 minute ago</item>
+        <item quantity="few">%d minutes ago</item>
+        <item quantity="many">%d minutes ago</item>
+    </plurals>
+</resources>
