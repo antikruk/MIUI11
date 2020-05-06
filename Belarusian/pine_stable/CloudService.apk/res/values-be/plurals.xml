@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="items_unsynced">
+        <item quantity="other">Items waiting to sync: %d</item>
+        <item quantity="one">Item waiting to sync: %d</item>
+        <item quantity="few">Items waiting to sync: %d</item>
+        <item quantity="many">Items waiting to sync: %d</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d contacts</item>
+        <item quantity="one">%d contact</item>
+        <item quantity="few">%d contacts</item>
+        <item quantity="many">%d contacts</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d messages</item>
+        <item quantity="one">%d message</item>
+        <item quantity="few">%d messages</item>
+        <item quantity="many">%d messages</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d notes</item>
+        <item quantity="one">%d note</item>
+        <item quantity="few">%d notes</item>
+        <item quantity="many">%d notes</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+        <item quantity="few">%d photos</item>
+        <item quantity="many">%d photos</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d call history records</item>
+        <item quantity="one">%d call history record</item>
+        <item quantity="few">%d call history records</item>
+        <item quantity="many">%d call history records</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+        <item quantity="few">%d WLAN networks</item>
+        <item quantity="many">%d WLAN networks</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d records</item>
+        <item quantity="one">%d record</item>
+        <item quantity="few">%d records</item>
+        <item quantity="many">%d records</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d song</item>
+        <item quantity="few">%d songs</item>
+        <item quantity="many">%d songs</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d browser items</item>
+        <item quantity="one">%d browser item</item>
+        <item quantity="few">%d browser items</item>
+        <item quantity="many">%d browser items</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d calendar items</item>
+        <item quantity="one">%d calendar item</item>
+        <item quantity="few">%d calendar items</item>
+        <item quantity="many">%d calendar items</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d blocklist entries</item>
+        <item quantity="one">%d blocklist entry</item>
+        <item quantity="few">%d blocklist entries</item>
+        <item quantity="many">%d blocklist entries</item>
+    </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d App vault entries</item>
+        <item quantity="one">%d App vault entry</item>
+        <item quantity="few">%d App vault entries</item>
+        <item quantity="many">%d App vault entries</item>
+    </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d frequent phrases</item>
+        <item quantity="one">%d frequent phrase</item>
+        <item quantity="few">%d frequent phrases</item>
+        <item quantity="many">%d frequent phrases</item>
+    </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">"%d hidden photos aren't synced. Sign out after all items are synced to keep them; otherwise, items will be deleted."</item>
+        <item quantity="one">"%d hidden photo isn't synced. Sign out after all items are synced to keep them; otherwise, items will be deleted."</item>
+        <item quantity="few">"%d hidden photos aren't synced. Sign out after all items are synced to keep them; otherwise, items will be deleted."</item>
+        <item quantity="many">"%d hidden photos aren't synced. Sign out after all items are synced to keep them; otherwise, items will be deleted."</item>
+    </plurals>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Resuming sync in %d minutes</item>
+        <item quantity="one">Resuming sync in %d minute</item>
+        <item quantity="few">Resuming sync in %d minutes</item>
+        <item quantity="many">Resuming sync in %d minutes</item>
+    </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%s mins ago</item>
+        <item quantity="one">%s min ago</item>
+        <item quantity="few">%s mins ago</item>
+        <item quantity="many">%s mins ago</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s hrs ago</item>
+        <item quantity="one">%s hr ago</item>
+        <item quantity="few">%s hrs ago</item>
+        <item quantity="many">%s hrs ago</item>
+    </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s services will be synced with Xiaomi Cloud</item>
+        <item quantity="one">%s service will be synced with Xiaomi Cloud</item>
+        <item quantity="few">%s services will be synced with Xiaomi Cloud</item>
+        <item quantity="many">%s services will be synced with Xiaomi Cloud</item>
+    </plurals>
+</resources>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d replies</item>
+        <item quantity="one">%d reply</item>
+        <item quantity="few">%d replies</item>
+        <item quantity="many">%d replies</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">%d hour ago</item>
+        <item quantity="few">%d hours ago</item>
+        <item quantity="many">%d hours ago</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">View %d comments</item>
+        <item quantity="one">View %d comment</item>
+        <item quantity="few">View %d comments</item>
+        <item quantity="many">View %d comments</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">%d minute ago</item>
+        <item quantity="few">%d minutes ago</item>
+        <item quantity="many">%d minutes ago</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Selected %d reasons</item>
+        <item quantity="one">Selected %d reason</item>
+        <item quantity="few">Selected %d reasons</item>
+        <item quantity="many">Selected %d reasons</item>
+    </plurals>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d views</item>
+        <item quantity="one">%d view</item>
+        <item quantity="few">%d views</item>
+        <item quantity="many">%d views</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Found %d new items for you</item>
+        <item quantity="one">Found %d new item for you</item>
+        <item quantity="few">Found %d new items for you</item>
+        <item quantity="many">Found %d new items for you</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="one">Папярэдні %d дзень</item>
+        <item quantity="few">Папярэднія %d дня</item>
+        <item quantity="many">Папярэднія %d дзен</item>
+        <item quantity="other">Папярэднія %d дзен</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d of %2$d</item>
+        <item quantity="one">1 супадзенне</item>
+        <item quantity="few">%1$d of %2$d</item>
+        <item quantity="many">%1$d of %2$d</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Праз %d секунды будзе аўтаматычна створана новая старонка</item>
+        <item quantity="one">Праз %d секунду будзе аўтаматычна створана новая старонка</item>
+        <item quantity="few">Праз %d секунды будзе аўтаматычна створана новая старонка</item>
+        <item quantity="many">Праз %d секунд будзе аўтаматычна створана новая старонка</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Прайграць відэа праз %1$d секунд</item>
+        <item quantity="one">Прайграць відэа праз %1$d секунду</item>
+        <item quantity="few">Прайграць відэа праз %1$d секунды</item>
+        <item quantity="many">Прайграць відэа праз %1$d секунд</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">Выбрана: %1$d</item>
+        <item quantity="one">Выбрана: %1$d</item>
+        <item quantity="few">Выбрана: %1$d</item>
+        <item quantity="many">Выбрана: %1$d</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Выдалена %1$d відэа.</item>
+        <item quantity="one">Выдалена %1$d відэа.</item>
+        <item quantity="few">Выдалена %1$d відэа.</item>
+        <item quantity="many">Выдалена %1$d відэа.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Выдаліць %1$d відэа?</item>
+        <item quantity="one">Выдаліць %1$d відэа?</item>
+        <item quantity="few">Выдаліць %1$d відэа?</item>
+        <item quantity="many">Выдаліць %1$d відэа?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d аб\'екта выдалена з гісторыі.</item>
+        <item quantity="one">%1$d аб\'ект выдалены з гісторыі.</item>
+        <item quantity="few">%1$d аб\'екты выдалены з гісторыі.</item>
+        <item quantity="many">%1$d аб\'ектаў выдалена з гісторыі.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Выдаліць %1$d аб\'екта з гісторыі?</item>
+        <item quantity="one">Выдаліць %1$d аб\'ект з гісторыі?</item>
+        <item quantity="few">Выдаліць %1$d аб\'екты з гісторыі?</item>
+        <item quantity="many">Выдаліць %1$d аб\'ектаў з гісторыі?</item>
+    </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Couldn't load video.
+Will play the next one in %d seconds…"</item>
+        <item quantity="one">"Couldn't load video.
+Will play the next one in %d second…"</item>
+        <item quantity="few">"Couldn't load video.
+Will play the next one in %d seconds…"</item>
+        <item quantity="many">"Couldn't load video.
+Will play the next one in %d seconds…"</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">Засталося %d хвіліны</item>
+        <item quantity="one">Засталася %d хвіліна</item>
+        <item quantity="few">Засталося %d хвіліны</item>
+        <item quantity="many">Засталося %d хвілін</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s comments</item>
+        <item quantity="one">%s comment</item>
+        <item quantity="few">%s comments</item>
+        <item quantity="many">%s comments</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d images</item>
+        <item quantity="one">%d image</item>
+        <item quantity="few">%d images</item>
+        <item quantity="many">%d images</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%s views</item>
+        <item quantity="one">%s view</item>
+        <item quantity="few">%s views</item>
+        <item quantity="many">%s views</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s comments</item>
+        <item quantity="one">%1$s | %2$s comment</item>
+        <item quantity="few">%1$s | %2$s comments</item>
+        <item quantity="many">%1$s | %2$s comments</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d people have already voted</item>
+        <item quantity="one">%d person has already voted</item>
+        <item quantity="few">%d people have already voted</item>
+        <item quantity="many">%d people have already voted</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· %s hrs ago</item>
+        <item quantity="one">· %s hr ago</item>
+        <item quantity="few">· %s hrs ago</item>
+        <item quantity="many">· %s hrs ago</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· %s mins ago</item>
+        <item quantity="one">· %s min ago</item>
+        <item quantity="few">· %s mins ago</item>
+        <item quantity="many">· %s mins ago</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d answers on Zhihu</item>
+        <item quantity="one">%d answer on Zhihu</item>
+        <item quantity="few">%d answers on Zhihu</item>
+        <item quantity="many">%d answers on Zhihu</item>
+    </plurals>
+</resources>

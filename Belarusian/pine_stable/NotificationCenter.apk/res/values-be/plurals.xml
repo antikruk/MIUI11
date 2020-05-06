@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="last_sent_time_day">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">%d day ago</item>
+        <item quantity="few">%d days ago</item>
+        <item quantity="many">%d days ago</item>
+    </plurals>
+    <plurals name="last_sent_time_hour">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">%d hour ago</item>
+        <item quantity="few">%d hours ago</item>
+        <item quantity="many">%d hours ago</item>
+    </plurals>
+    <plurals name="last_sent_time_minute">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">%d minute ago</item>
+        <item quantity="few">%d minutes ago</item>
+        <item quantity="many">%d minutes ago</item>
+    </plurals>
+    <plurals name="last_sent_time_month">
+        <item quantity="other">%d months ago</item>
+        <item quantity="one">%d month ago</item>
+        <item quantity="few">%d months ago</item>
+        <item quantity="many">%d months ago</item>
+    </plurals>
+    <plurals name="last_sent_time_week">
+        <item quantity="other">%d weeks ago</item>
+        <item quantity="one">%d week ago</item>
+        <item quantity="few">%d weeks ago</item>
+        <item quantity="many">%d weeks ago</item>
+    </plurals>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">%d notifications a day</item>
+        <item quantity="one">%d notification a day</item>
+        <item quantity="few">%d notifications a day</item>
+        <item quantity="many">%d notifications a day</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">%d notifications a week</item>
+        <item quantity="one">%d notification a week</item>
+        <item quantity="few">%d notifications a week</item>
+        <item quantity="many">%d notifications a week</item>
+    </plurals>
+</resources>
