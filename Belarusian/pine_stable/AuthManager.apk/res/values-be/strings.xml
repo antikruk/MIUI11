@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="HIPS_Action_Accept">Дазволіць</string>
-  <string name="HIPS_Action_Accept_Once">Дазволіць адзін раз</string>
+  <string name="HIPS_Action_Accept_Once">Дазволіць толькі цяпер</string>
   <string name="HIPS_Action_Reject">Забараніць</string>
-  <string name="HIPS_Action_Reject_Once">Забараніць адзін раз</string>
-  <string name="HIPS_Perm_AudioRecorder">Запіс аўдыя</string>
-  <string name="HIPS_Perm_AudioRecorder_Desc">доступ да запісу гуку і тэлефонных выклікаў</string>
+  <string name="HIPS_Action_Reject_Once">Забараніць толькі цяпер</string>
+  <string name="HIPS_Perm_AudioRecorder">Запіс аўдыё</string>
+  <string name="HIPS_Perm_AudioRecorder_Desc">запіс гуку і тэлефонных выклікаў</string>
   <string name="HIPS_Perm_AutoStart">Аўтазапуск</string>
   <string name="HIPS_Perm_AutoStart_Desc">аўтазапуск</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity">Змена Bluetooth падлучэння</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">уключэнне/адключэнне Bluetooth</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity">Змена Bluetooth-падлучэння</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">уключэнне/выключэнне Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Датчыкі цела</string>
   <string name="HIPS_Perm_Body_Sensors_Desc">датчыкі цела (напрыклад, сардэчнага рытму)</string>
   <string name="HIPS_Perm_Calendar">Чытанне падзей календара</string>
-  <string name="HIPS_Perm_Calendar_Desc">чытаць падзеі ў календары</string>
+  <string name="HIPS_Perm_Calendar_Desc">чытанне падзей календара</string>
   <string name="HIPS_Perm_Call">Выклікі</string>
-  <string name="HIPS_Perm_CallLog">Змяняць запісы ў журнале выклікаў</string>
-  <string name="HIPS_Perm_CallLog_Desc">змяняць запісы ў журнале выклікаў</string>
-  <string name="HIPS_Perm_Call_Desc">непасрэдна ажыццяўляць тэлефонныя выклікі</string>
+  <string name="HIPS_Perm_CallLog">Запіс і выдаленне запісаў у журнале выклікаў</string>
+  <string name="HIPS_Perm_CallLog_Desc">запіс і выдаленне запісаў у журнале выклікаў</string>
+  <string name="HIPS_Perm_Call_Desc">непасрэднае ажыццяўленне тэлефонных выклікаў</string>
   <string name="HIPS_Perm_Contact">Змяняць і выдаляць кантакты</string>
   <string name="HIPS_Perm_Contact_Desc">змяняць і выдаляць кантакты</string>
   <string name="HIPS_Perm_External_Storage">Доступ і змяненне файлаў ва ўнутраным сховішчы</string>
