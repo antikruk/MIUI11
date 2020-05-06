@@ -1,130 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
-        <item quantity="few">Immediately</item>
-        <item quantity="many">Immediately</item>
-        <item quantity="other">Immediately</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+        <item quantity="other">Неадкладна</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Just now</item>
-        <item quantity="few">Just now</item>
-        <item quantity="many">Just now</item>
-        <item quantity="other">Just now</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+        <item quantity="other">Толькі што</item>
     </plurals>
     <plurals name="batch_delete_msg">
-        <item quantity="other">Delete %1$d contacts?</item>
-        <item quantity="one">Delete %1$d contact?</item>
-        <item quantity="few">Delete %1$d contacts?</item>
-        <item quantity="many">Delete %1$d contacts?</item>
+        <item quantity="other">Выдаліць %1$d кантакта?</item>
+        <item quantity="one">Выдаліць %1$d кантакт?</item>
+        <item quantity="few">Выдаліць %1$d кантакты?</item>
+        <item quantity="many">Выдаліць %1$d кантактаў?</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Delete %1$d contacts</item>
-        <item quantity="one">Delete %1$d contact</item>
-        <item quantity="few">Delete %1$d contacts</item>
-        <item quantity="many">Delete %1$d contacts</item>
+        <item quantity="other">Выдаліць %1$d кантакта</item>
+        <item quantity="one">Выдаліць %1$d кантакт</item>
+        <item quantity="few">Выдаліць %1$d кантакты</item>
+        <item quantity="many">Выдаліць %1$d кантактаў</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Rang %1$d times</item>
-        <item quantity="one">Rang %1$d time</item>
-        <item quantity="few">Rang %1$d times</item>
-        <item quantity="many">Rang %1$d times</item>
+        <item quantity="other">Прапушчана %1$d гудка</item>
+        <item quantity="one">Прапушчаны %1$d гудок</item>
+        <item quantity="few">Прапушчана %1$d гудкі</item>
+        <item quantity="many">Прапушчана %1$d гудкоў</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%1$d contacts or photos haven't been synced"</item>
-        <item quantity="one">"%1$d contact or photo hasn't been synced"</item>
-        <item quantity="few">"%1$d contacts or photos haven't been synced"</item>
-        <item quantity="many">"%1$d contacts or photos haven't been synced"</item>
+        <item quantity="other">"%1$d канктакта або фота не сінхранізавана"</item>
+        <item quantity="one">"%1$d канктакт або фота не сінхранізаваны"</item>
+        <item quantity="few">"%1$d канктакты або фота не сінхранізавана"</item>
+        <item quantity="many">"%1$d канктактаў або фота не сінхранізавана"</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Delete %1$d contacts from SIM card?</item>
-        <item quantity="one">Delete %1$d contact from SIM card?</item>
-        <item quantity="few">Delete %1$d contacts from SIM card?</item>
-        <item quantity="many">Delete %1$d contacts from SIM card?</item>
+        <item quantity="other">Выдаліць %1$d кантакта з SIM-карты?</item>
+        <item quantity="one">Выдаліць %1$d кантакт з SIM-карты?</item>
+        <item quantity="few">Выдаліць %1$d кантакты з SIM-карты?</item>
+        <item quantity="many">Выдаліць %1$d кантактаў з SIM-карты?</item>
     </plurals>
     <plurals name="contacts_count">
-        <item quantity="other">%1$d contacts</item>
-        <item quantity="one">%1$d contact</item>
-        <item quantity="few">%1$d contacts</item>
-        <item quantity="many">%1$d contacts</item>
+        <item quantity="other">%1$d кантакта</item>
+        <item quantity="one">%1$d кантакт</item>
+        <item quantity="few">%1$d кантакты</item>
+        <item quantity="many">%1$d кантактаў</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">%1$d contacts imported</item>
-        <item quantity="one">%1$d contact imported</item>
-        <item quantity="few">%1$d contacts imported</item>
-        <item quantity="many">%1$d contacts imported</item>
+        <item quantity="other">Імпартавана %1$d кантакта</item>
+        <item quantity="one">Імпартаваны %1$d кантакт</item>
+        <item quantity="few">Імпартаваны %1$d кантакты</item>
+        <item quantity="many">Імпартавана %1$d кантактаў</item>
     </plurals>
     <plurals name="device_import_progress_toast_plurals">
-        <item quantity="other">Imported %1$d contacts</item>
-        <item quantity="one">Imported %1$d contact</item>
-        <item quantity="few">Imported %1$d contacts</item>
-        <item quantity="many">Imported %1$d contacts</item>
+        <item quantity="other">Імпартавана %1$d кантактаў</item>
+        <item quantity="one">Імпартаваны %1$d кантакт</item>
+        <item quantity="few">Імпартавана %1$d кантакты</item>
+        <item quantity="many">Імпартавана %1$d кантактаў</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
-        <item quantity="other">Block %1$d phone numbers?</item>
-        <item quantity="one">Block %1$d phone number?</item>
-        <item quantity="few">Block %1$d phone numbers?</item>
-        <item quantity="many">Block %1$d phone numbers?</item>
+        <item quantity="other">Дадаць %1$d нумара ў чорны спіс?</item>
+        <item quantity="one">Дадаць %1$d нумар у чорны спіс?</item>
+        <item quantity="few">Дадаць %1$d нумары ў чорны спіс?</item>
+        <item quantity="many">Дадаць %1$d нумароў у чорны спіс?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Unblock %1$d phone numbers?</item>
-        <item quantity="one">Unblock %1$d phone number?</item>
-        <item quantity="few">Unblock %1$d phone numbers?</item>
-        <item quantity="many">Unblock %1$d phone numbers?</item>
+        <item quantity="other">Выдаліць %1$d нумара з чорнага спісу?</item>
+        <item quantity="one">Выдаліць %1$d нумар з чорнага спісу?</item>
+        <item quantity="few">Выдаліць %1$d нумары з чорнага спісу?</item>
+        <item quantity="many">Выдаліць %1$d нумароў з чорнага спісу?</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM card can store %1$d contacts.</item>
-        <item quantity="one">SIM card can store %1$d contact.</item>
-        <item quantity="few">SIM card can store %1$d contacts.</item>
-        <item quantity="many">SIM card can store %1$d contacts.</item>
+        <item quantity="other">На SIM-карце можна захваць %1$d кантакта.</item>
+        <item quantity="one">На SIM-карце можна захваць %1$d кантакт.</item>
+        <item quantity="few">На SIM-карце можна захваць %1$d кантакты.</item>
+        <item quantity="many">На SIM-карце можна захваць %1$d кантактаў.</item>
     </plurals>
     <plurals name="foundTooManyContacts_plurals">
-        <item quantity="other">Found more than %d contacts.</item>
-        <item quantity="one">Found more than %d contact.</item>
-        <item quantity="few">Found more than %d contacts.</item>
-        <item quantity="many">Found more than %d contacts.</item>
+        <item quantity="other">Знойдзена больш за %d кантактаў.</item>
+        <item quantity="one">Знойдзена больш за %d кантакт.</item>
+        <item quantity="few">Знойдзена больш за %d кантакта.</item>
+        <item quantity="many">Знойдзена больш за %d кантактаў.</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">%1$d contacts added</item>
-        <item quantity="one">%1$d contact added</item>
-        <item quantity="few">%1$d contacts added</item>
-        <item quantity="many">%1$d contacts added</item>
+        <item quantity="other">Дададзена %1$d кантакта</item>
+        <item quantity="one">Дададзены %1$d кантакт</item>
+        <item quantity="few">Дададзена %1$d кантакты</item>
+        <item quantity="many">Дададзена %1$d кантактаў</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
-        <item quantity="few">%1$d people</item>
-        <item quantity="many">%1$d people</item>
+        <item quantity="other">Кантактаў: %1$d</item>
+        <item quantity="one">Кантактаў: %1$d</item>
+        <item quantity="few">Кантактаў: %1$d</item>
+        <item quantity="many">Кантактаў: %1$d</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">%1$d numbers</item>
-        <item quantity="one">%1$d number</item>
-        <item quantity="few">%1$d numbers</item>
-        <item quantity="many">%1$d numbers</item>
+        <item quantity="other">Нумароў: %1$d</item>
+        <item quantity="one">Нумароў: %1$d</item>
+        <item quantity="few">Нумароў: %1$d</item>
+        <item quantity="many">Нумароў: %1$d</item>
     </plurals>
     <plurals name="hint_account_contacts">
-        <item quantity="other">Found %1$d items</item>
-        <item quantity="one">Found %1$d item</item>
-        <item quantity="few">Found %1$d items</item>
-        <item quantity="many">Found %1$d items</item>
+        <item quantity="other">%1$d кантакта</item>
+        <item quantity="one">%1$d кантакт</item>
+        <item quantity="few">%1$d кантакты</item>
+        <item quantity="many">%1$d кантактаў</item>
     </plurals>
     <plurals name="hint_search_contacts">
-        <item quantity="other">%1$d contacts</item>
-        <item quantity="one">%1$d contact</item>
-        <item quantity="few">%1$d contacts</item>
-        <item quantity="many">%1$d contacts</item>
+        <item quantity="other">%1$d кантакта</item>
+        <item quantity="one">%1$d кантакт</item>
+        <item quantity="few">%1$d кантакты</item>
+        <item quantity="many">%1$d кантактаў</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d emails</item>
-        <item quantity="one">%1$d email</item>
-        <item quantity="few">%1$d emails</item>
-        <item quantity="many">%1$d emails</item>
+        <item quantity="other">%1$d адраса email</item>
+        <item quantity="one">%1$d адрас email</item>
+        <item quantity="few">%1$d адрасы email</item>
+        <item quantity="many">%1$d адрасоў email</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
-        <item quantity="other">%1$d numbers</item>
-        <item quantity="one">%1$d number</item>
-        <item quantity="few">%1$d numbers</item>
-        <item quantity="many">%1$d numbers</item>
+        <item quantity="other">%1$d нумара</item>
+        <item quantity="one">%1$d нумар</item>
+        <item quantity="few">%1$d нумары</item>
+        <item quantity="many">%1$d нумароў</item>
     </plurals>
     <plurals name="label_duplicate_count_plurals">
         <item quantity="other">(%1$d)</item>
@@ -133,99 +133,99 @@
         <item quantity="many">(%1$d)</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d contacts</item>
-        <item quantity="one">%d contact</item>
-        <item quantity="few">%d contacts</item>
-        <item quantity="many">%d contacts</item>
+        <item quantity="other">%d кантактаў</item>
+        <item quantity="one">%d кантакт</item>
+        <item quantity="few">%d кантакта</item>
+        <item quantity="many">%d кантактаў</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
-        <item quantity="other">%1$d contacts with partially identical info</item>
-        <item quantity="one">%1$d contacts with partially identical info</item>
-        <item quantity="few">%1$d contacts with partially identical info</item>
-        <item quantity="many">%1$d contacts with partially identical info</item>
+        <item quantity="other">%1$d кантактаў з аднолькавымі дадзенымі</item>
+        <item quantity="one">%1$d кантакт з аднолькавымі дадзенымі</item>
+        <item quantity="few">%1$d кантакту з аднолькавымі дадзенымі</item>
+        <item quantity="many">%1$d кантактаў з аднолькавымі дадзенымі</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">merged from %0$d sources</item>
-        <item quantity="one">not merged</item>
-        <item quantity="few">merged from %0$d sources</item>
-        <item quantity="many">merged from %0$d sources</item>
+        <item quantity="other">аб/\'яднаны з %0$d крыніцы</item>
+        <item quantity="one">не аб\'яднаны</item>
+        <item quantity="few">аб/\'яднаны з %0$d крыніц</item>
+        <item quantity="many">аб/\'яднаны з %0$d крыніц</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
-        <item quantity="few">%1$d selected</item>
-        <item quantity="many">%1$d selected</item>
+        <item quantity="other">Выбрана: %1$d</item>
+        <item quantity="one">Выбрана: %1$d</item>
+        <item quantity="few">Выбрана: %1$d</item>
+        <item quantity="many">Выбрана: %1$d</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d people from %2$s</item>
-        <item quantity="one">%1$d person from %2$s</item>
-        <item quantity="few">%1$d people from %2$s</item>
-        <item quantity="many">%1$d people from %2$s</item>
+        <item quantity="other">%1$d кантакта з %2$s</item>
+        <item quantity="one">%1$d кантакт з %2$s</item>
+        <item quantity="few">%1$d кантакты з %2$s</item>
+        <item quantity="many">%1$d кантактаў з %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%d groups</item>
-        <item quantity="one">%d group</item>
-        <item quantity="few">%d groups</item>
-        <item quantity="many">%d groups</item>
+        <item quantity="other">%d груп</item>
+        <item quantity="one">%d група</item>
+        <item quantity="few">%d групы</item>
+        <item quantity="many">%d груп</item>
     </plurals>
     <plurals name="number_of_items_available">
-        <item quantity="other">%1$d items remaining</item>
-        <item quantity="one">%1$d item remaining</item>
-        <item quantity="few">%1$d items remaining</item>
-        <item quantity="many">%1$d items remaining</item>
+        <item quantity="other">Засталося %1$d аб\'екта</item>
+        <item quantity="one">Застаўся %1$d аб\'ект</item>
+        <item quantity="few">Засталося %1$d аб\'екты</item>
+        <item quantity="many">Засталося %1$d аб\'ектаў</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
-        <item quantity="few">%1$d selected</item>
-        <item quantity="many">%1$d selected</item>
+        <item quantity="other">Выбрана: %1$d</item>
+        <item quantity="one">Выбрана: %1$d</item>
+        <item quantity="few">Выбрана: %1$d</item>
+        <item quantity="many">Выбрана: %1$d</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
-        <item quantity="few">%1$d favorites</item>
-        <item quantity="many">%1$d favorites</item>
+        <item quantity="other">%1$d выбранага</item>
+        <item quantity="one">%1$d абраны</item>
+        <item quantity="few">%1$d выбраных</item>
+        <item quantity="many">%1$d выбраных</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
-        <item quantity="few">%1$d favorites</item>
-        <item quantity="many">%1$d favorites</item>
+        <item quantity="other">%1$d выбрана</item>
+        <item quantity="one">%1$d абраны</item>
+        <item quantity="few">%1$d выбраных</item>
+        <item quantity="many">%1$d выбраных</item>
     </plurals>
     <plurals name="pick_recent_contacts_list_title">
-        <item quantity="other">%1$d recent contacts</item>
-        <item quantity="one">%1$d recent contact</item>
-        <item quantity="few">%1$d recent contacts</item>
-        <item quantity="many">%1$d recent contacts</item>
+        <item quantity="other">%1$d недаўняга кантакта</item>
+        <item quantity="one">%1$d недаўні кантакт</item>
+        <item quantity="few">%1$d недаўнія кантакты</item>
+        <item quantity="many">%1$d недаўніх кантактаў</item>
     </plurals>
     <plurals name="pick_recent_list_title">
-        <item quantity="other">%1$d recent contacts</item>
-        <item quantity="one">%1$d recent contact</item>
-        <item quantity="few">%1$d recent contacts</item>
-        <item quantity="many">%1$d recent contacts</item>
+        <item quantity="other">%1$d нядаўняга кантакта</item>
+        <item quantity="one">%1$d нядаўні кантакт</item>
+        <item quantity="few">%1$d нядаўнія кантакты</item>
+        <item quantity="many">%1$d нядаўніх кантактаў</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">%d found</item>
-        <item quantity="few">%d found</item>
-        <item quantity="many">%d found</item>
+        <item quantity="other">Знойдзена %d</item>
+        <item quantity="one">Знойдзен %d</item>
+        <item quantity="few">Знойдзена %d</item>
+        <item quantity="many">Знойдзена %d</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
-        <item quantity="other">"Select no more than %1$d, can't select all"</item>
-        <item quantity="one">"Select no more than %1$d, can't select all"</item>
-        <item quantity="few">"Select no more than %1$d, can't select all"</item>
-        <item quantity="many">"Select no more than %1$d, can't select all"</item>
+        <item quantity="other">"Выберыце не больш за %1$d, нельга выбраць усе"</item>
+        <item quantity="one">"Выберыце не больш за %1$d, нельга выбраць усе"</item>
+        <item quantity="few">"Выберыце не больш за %1$d, нельга выбраць усе"</item>
+        <item quantity="many">"Выберыце не больш за %1$d, нельга выбраць усе"</item>
     </plurals>
     <plurals name="select_exceed_plurals">
-        <item quantity="other">Select no more than %1$d</item>
-        <item quantity="one">Select no more than %1$d</item>
-        <item quantity="few">Select no more than %1$d</item>
-        <item quantity="many">Select no more than %1$d</item>
+        <item quantity="other">Выберыце не больш за %1$d</item>
+        <item quantity="one">Выберыце не больш за %1$d</item>
+        <item quantity="few">Выберыце не больш за %1$d</item>
+        <item quantity="many">Выберыце не больш за %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
-        <item quantity="few">%1$d people</item>
-        <item quantity="many">%1$d people</item>
+        <item quantity="other">%1$d кантакта</item>
+        <item quantity="one">%1$d кантакт</item>
+        <item quantity="few">%1$d кантакты</item>
+        <item quantity="many">%1$d кантактаў</item>
     </plurals>
 </resources>
