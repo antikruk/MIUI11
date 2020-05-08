@@ -18,9 +18,9 @@
   <string name="HIPS_Perm_CallLog">Запіс і выдаленне запісаў у журнале выклікаў</string>
   <string name="HIPS_Perm_CallLog_Desc">запіс і выдаленне запісаў у журнале выклікаў</string>
   <string name="HIPS_Perm_Call_Desc">непасрэднае ажыццяўленне тэлефонных выклікаў</string>
-  <string name="HIPS_Perm_Contact">Змяняць і выдаляць кантакты</string>
-  <string name="HIPS_Perm_Contact_Desc">змяняць і выдаляць кантакты</string>
-  <string name="HIPS_Perm_External_Storage">Доступ і змяненне файлаў ва ўнутраным сховішчы</string>
+  <string name="HIPS_Perm_Contact">Змена і выдаленне кантактаў</string>
+  <string name="HIPS_Perm_Contact_Desc">змена і выдаленне кантактаў</string>
+  <string name="HIPS_Perm_External_Storage">Доступ і змена файлаў ва ўнутраным сховішчы</string>
   <string name="HIPS_Perm_External_Storage_Desc">"дадаванне і выдаленне файлаў ва ўнутраным сховішчы"</string>
   <string name="HIPS_Perm_Location">Атрымліваць інфармацыю аб месцазнаходжанні</string>
   <string name="HIPS_Perm_Location_Desc">пошук дакладнага месцазнаходжання (праз GPS і дадзеныя мабільнай сеткі)</string>
