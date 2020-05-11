@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="cloud_backup_detail_frequence_day">
-        <item quantity="other">Back up every %d days</item>
-        <item quantity="one">Back up every day</item>
-        <item quantity="few">Back up every %d days</item>
-        <item quantity="many">Back up every %d days</item>
+        <item quantity="other">Ствараць рэзервовую копію кожныя %d дня</item>
+        <item quantity="one">Ствараць рэзервовую копію кожны дзень</item>
+        <item quantity="few">Ствараць рэзервовую копію кожныя %d дні</item>
+        <item quantity="many">Ствараць рэзервовую копію кожныя %d дзён</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
-        <item quantity="other">%1$s backups (%2$s)</item>
-        <item quantity="one">%1$s backup (%2$s)</item>
-        <item quantity="few">%1$s backups (%2$s)</item>
-        <item quantity="many">%1$s backups (%2$s)</item>
+        <item quantity="other">%1$s рэзервовай копіі (%2$s)</item>
+        <item quantity="one">%1$s рэзервовая копія (%2$s)</item>
+        <item quantity="few">%1$s рэзервовых копіі (%2$s)</item>
+        <item quantity="many">%1$s рэзервовых копій (%2$s)</item>
     </plurals>
     <plurals name="restoring_file_tile">
-        <item quantity="other">Restoring %d files</item>
-        <item quantity="one">Restoring %d file</item>
-        <item quantity="few">Restoring %d files</item>
-        <item quantity="many">Restoring %d files</item>
+        <item quantity="other">Аднаўленне %d файла</item>
+        <item quantity="one">Аднаўленне %d файла</item>
+        <item quantity="few">Аднаўленне %d файлаў</item>
+        <item quantity="many">Аднаўленне %d файлаў</item>
     </plurals>
     <plurals name="restore_app_order_prior">
-        <item quantity="other">High priority: %d apps</item>
-        <item quantity="one">High priority: %d app</item>
-        <item quantity="few">High priority: %d apps</item>
-        <item quantity="many">High priority: %d apps</item>
+        <item quantity="other">Высокі прыярытэт: %d праграмы</item>
+        <item quantity="one">Высокі прыярытэт: %d праграма</item>
+        <item quantity="few">Высокі прыярытэт: %d праграмы</item>
+        <item quantity="many">Высокі прыярытэт: %d праграм</item>
     </plurals>
     <plurals name="restore_app_order_normal">
-        <item quantity="other">Regular priority: %d apps</item>
-        <item quantity="one">Regular priority: %d app</item>
-        <item quantity="few">Regular priority: %d apps</item>
-        <item quantity="many">Regular priority: %d apps</item>
+        <item quantity="other">Звычайны прыярытэт: %d праграмы</item>
+        <item quantity="one">Звычайны прыярытэт: %d праграма</item>
+        <item quantity="few">Звычайны прыярытэт: %d праграмы</item>
+        <item quantity="many">Звычайны прыярытэт: %d праграм</item>
     </plurals>
     <plurals name="restore_app_order_installed">
-        <item quantity="other">%d apps on this device</item>
-        <item quantity="one">%d app on this device</item>
-        <item quantity="few">%d apps on this device</item>
-        <item quantity="many">%d apps on this device</item>
+        <item quantity="other">%d праграм на прыладзе</item>
+        <item quantity="one">%d праграма на прыладзе</item>
+        <item quantity="few">%d праграмы на прыладзе</item>
+        <item quantity="many">%d праграм на прыладзе</item>
     </plurals>
 </resources>

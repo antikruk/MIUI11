@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Delete %d downloads?</item>
-        <item quantity="one">Delete %d download?</item>
-        <item quantity="few">Delete %d downloads?</item>
-        <item quantity="many">Delete %d downloads?</item>
+        <item quantity="other">Выдаліць %d задачы?</item>
+        <item quantity="one">Выдаліць %d задачу?</item>
+        <item quantity="few">Выдаліць %d задачы?</item>
+        <item quantity="many">Выдаліць %d задач?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Deleted %s downloads successfully</item>
-        <item quantity="one">Deleted %s download successfully</item>
-        <item quantity="few">Deleted %s downloads successfully</item>
-        <item quantity="many">Deleted %s downloads successfully</item>
+        <item quantity="other">Выдалена %1$d спампоўкі</item>
+        <item quantity="one">Выдалена %1$d спампоўка</item>
+        <item quantity="few">Выдалена %1$d спампоўкі</item>
+        <item quantity="many">Выдалена %1$d спамповак</item>
     </plurals>
     <plurals name="sniff_find_resource">
         <item quantity="other">Found %d items</item>

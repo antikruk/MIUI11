@@ -12,8 +12,8 @@
         <item>@string/callrecordview_menu_show_stranger</item>
     </string-array>
     <string-array name="otherLabels">
-        <item>Organization</item>
-        <item>Note</item>
+        <item>Арганізацыя</item>
+        <item>Нататка</item>
     </string-array>
     <string-array name="preference_dial_pad_touch_tone_entries">
         <item>@string/preference_dial_pad_touch_tone_default</item>

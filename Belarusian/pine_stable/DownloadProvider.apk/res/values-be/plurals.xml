@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="notification_download_failed_more">
-        <item quantity="other">"Couldn't download %1$d items"</item>
-        <item quantity="one">"Couldn't download %1$d item"</item>
-        <item quantity="few">"Couldn't download %1$d items"</item>
-        <item quantity="many">"Couldn't download %1$d items"</item>
+        <item quantity="other">"Не атрымалася спампаваць %1$d аб'екта"</item>
+        <item quantity="one">"Не атрымалася спампаваць %1$d аб'ект"</item>
+        <item quantity="few">"Не атрымалася спампаваць %1$d аб'екты"</item>
+        <item quantity="many">"Не атрымалася спампаваць %1$d аб'ектаў"</item>
     </plurals>
     <plurals name="notif_summary_active">
-        <item quantity="other">%d files downloading</item>
-        <item quantity="one">%d file downloading</item>
-        <item quantity="few">%d files downloading</item>
-        <item quantity="many">%d files downloading</item>
+        <item quantity="other">%d файла пампуецца</item>
+        <item quantity="one">%d файл пампуецца</item>
+        <item quantity="few">%d файлы пампуецца</item>
+        <item quantity="many">%d файлаў пампуецца</item>
     </plurals>
     <plurals name="notif_summary_waiting">
-        <item quantity="other">%d files waiting</item>
-        <item quantity="one">%d file waiting</item>
-        <item quantity="few">%d files waiting</item>
-        <item quantity="many">%d files waiting</item>
+        <item quantity="other">%d файла ў чаканні</item>
+        <item quantity="one">%d файл у чаканні</item>
+        <item quantity="few">%d файлы ў чаканні</item>
+        <item quantity="many">%d файлаў у чаканні</item>
     </plurals>
 </resources>

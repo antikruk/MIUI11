@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_label">Settings Search</string>
-  <string name="application_desc">Application</string>
-  <string name="search_label">Settings</string>
-  <string name="settings_description">Settings</string>
+  <string name="app_label">Налады пошуку</string>
+  <string name="application_desc">Праграма</string>
+  <string name="search_label">Налады</string>
+  <string name="settings_description">Налады</string>
 </resources>
