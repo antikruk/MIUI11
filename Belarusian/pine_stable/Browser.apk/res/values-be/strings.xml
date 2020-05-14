@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
+  <string name="abc_action_bar_home_description">Перайсці на хатнюю старонку</string>
   <string name="abc_action_bar_up_description">Перайсці ўверх</string>
-  <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
-  <string name="abc_action_mode_done">Гатова</string>
+  <string name="abc_action_menu_overflow_description">Яшчэ</string>
+  <string name="abc_action_mode_done">Завершана</string>
   <string name="abc_action_mode_select_all">Select all</string>
   <string name="abc_activity_chooser_view_see_all">Паказаць усе</string>
-  <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
+  <string name="abc_activitychooserview_choose_application">Абраць праграму</string>
   <string name="abc_capital_off">ВЫКЛ.</string>
   <string name="abc_capital_on">УКЛ.</string>
   <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -16,7 +16,7 @@
   <string name="abc_menu_function_shortcut_label">Fn +</string>
   <string name="abc_menu_meta_shortcut_label">Meta +</string>
   <string name="abc_menu_shift_shortcut_label">Shift +</string>
-  <string name="abc_menu_space_shortcut_label">Прабел</string>
+  <string name="abc_menu_space_shortcut_label">Прагал</string>
   <string name="abc_menu_sym_shortcut_label">Sym +</string>
   <string name="abc_prepend_shortcut_label">Меню +</string>
   <string name="abc_search_hint">Пошук…</string>
@@ -25,8 +25,8 @@
   <string name="abc_searchview_description_search">Пошук</string>
   <string name="abc_searchview_description_submit">Адправіць запыт</string>
   <string name="abc_searchview_description_voice">Галасавы пошук</string>
-  <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
-  <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
+  <string name="abc_shareactionprovider_share_with">Падзяліцца праз</string>
+  <string name="abc_shareactionprovider_share_with_application">Падзяліцца праз \"%s\"</string>
   <string name="abc_toolbar_collapse_description">Згарнуць</string>
   <string name="accept_cookies_confirm_message">Turning this feature off may cause some websites to misbehave.</string>
   <string name="accessibility_button_clear">Clear input</string>
@@ -470,7 +470,7 @@ to view open tabs from other devices."</string>
   <string name="exit_browser_warning">Exit Browser now?</string>
   <string name="exit_fullscreen">Exit fullscreen</string>
   <string name="expand_article">View full article</string>
-  <string name="expand_button_title">Пашыраныя налады</string>
+  <string name="expand_button_title">Дадаткова</string>
   <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
   <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="fast_app_card_bottom_text" formatted="false">%s  %s</string>
