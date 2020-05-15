@@ -2,10 +2,10 @@
 <resources>
   <string name="accessibility_calllog_detail">Гісторыя выклікаў</string>
   <string name="accessibility_contact_detail">Інфармацыя пра кантакт</string>
-  <string name="account_container_title">З акаўнта</string>
+  <string name="account_container_title">Імпартавана з</string>
   <string name="account_default">На прыладзе</string>
   <string name="account_dual_sdn">SDN %s</string>
-  <string name="account_dual_sim">SIM-карта %s</string>
+  <string name="account_dual_sim">SIM-картка %s</string>
   <string name="account_phone">Толькі прылада</string>
   <string name="account_sdn">SDN</string>
   <string name="account_sim">SIM-карта</string>
