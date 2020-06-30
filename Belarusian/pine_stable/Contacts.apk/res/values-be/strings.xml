@@ -230,7 +230,7 @@
   <string name="contactSavedErrorToast">"Не атрымалася захаваць змены"</string>
   <string name="contactSavedToast">Кантакт захаваны</string>
   <string name="contact_clear_search_history">Ачысціць журнал</string>
-  <string name="contact_delete_toast">Кантакты выдалены</string>
+  <string name="contact_delete_toast">Кантакты выдаленыя</string>
   <string name="contact_detail_action_item_calllog">Журнал выклікаў</string>
   <string name="contact_detail_action_item_nocalllog">Журнал пусты</string>
   <string name="contact_detail_calllog_call_note_tips">Нататкі</string>
