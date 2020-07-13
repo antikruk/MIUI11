@@ -810,8 +810,8 @@
   <string name="keyguard_accessibility_expand_lock_area">Разгарнуць вобласць разблакавання.</string>
   <string name="keyguard_accessibility_face_unlock">Разблакаванне распазнаваннем твару.</string>
   <string name="keyguard_accessibility_password_unlock">Пароль разблакавання.</string>
-  <string name="keyguard_accessibility_pattern_area">Вобласць узору.</string>
-  <string name="keyguard_accessibility_pattern_unlock">Узор разблакавання.</string>
+  <string name="keyguard_accessibility_pattern_area">Вобласць графічнага ключа.</string>
+  <string name="keyguard_accessibility_pattern_unlock">Графічны ключ.</string>
   <string name="keyguard_accessibility_pin_unlock">Pin-код разблакавання.</string>
   <string name="keyguard_accessibility_sim_pin_unlock">Разблакаванне Sim-карткі пры дапамозе Pin-кода.</string>
   <string name="keyguard_accessibility_sim_puk_unlock">Разблакаванне Sim-карткі пры дапамозе Puk-кода.</string>
@@ -837,11 +837,11 @@
   <string name="keyguard_password_entry_touch_hint">&lt;font size=\"17\"&gt;Націсніце, каб увесці пароль&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Няправільны PIN-код.</string>
   <string name="kg_enter_confirm_pin_hint">Пацвердзіце патрэбны PIN-код</string>
-  <string name="kg_failed_attempts_almost_at_login">"Вы няправільна нарысавалі графічны ключ %1$d разоў. Пасля %2$d няўдалых спробаў вам будзе прапанавана разблакаваць тэлефон, увайшоўшы ў Google.
+  <string name="kg_failed_attempts_almost_at_login">"Вы няправільна нарысавалі графічны ключ %1$d разы(оў). Пасля %2$d няўдалых спробаў вам будзе прапанавана разблакаваць тэлефон увайшоўшы ў Google.
 
- Паўтарыце спробу праз %3$d с."</string>
-  <string name="kg_failed_attempts_almost_at_wipe">Вы няправільна спрабавалі разблакiраваць планшэт %1$d разоў. Пасля %2$d спробаў ён будзе скінуты да завадскіх налад i карыстальнiцкiя даныя страцяцца.</string>
-  <string name="kg_failed_attempts_now_wiping">Вы няправільна спрабавалі разблакаваць тэлефон %d разоў. Цяпер ён будзе скінуты да завадскіх налад.</string>
+ Паўтарыце спробу праз %3$d сек."</string>
+  <string name="kg_failed_attempts_almost_at_wipe">Вы няправільна спрабавалі разблакаваць тэлефон %1$d разы(оў). Пасля %2$d спробаў ён будзе скінуты да завадскіх налад i карыстальнiцкiя даныя страцяцца.</string>
+  <string name="kg_failed_attempts_now_wiping">Вы няправільна спрабавалі разблакаваць тэлефон %d разы(оў). Цяпер ён будзе скінуты да завадскіх налад.</string>
   <string name="kg_forgot_pattern_button_text">Забыліся на ключ</string>
   <string name="kg_invalid_confirm_pin_hint">PIN-коды не супадаюць</string>
   <string name="kg_invalid_puk">Паўторна увядзіце правільны PUK-код. Пры неаднаразовых няправільных спробах уводу SIM-картка адключыцца.</string>
@@ -854,7 +854,7 @@
   <string name="kg_login_invalid_input">Хібнае імя карыстальніка ці пароль.</string>
   <string name="kg_login_password_hint">Пароль</string>
   <string name="kg_login_submit_button">Увайсцi</string>
-  <string name="kg_login_too_many_attempts">Занадта шмат спробаў паўтарыць узор</string>
+  <string name="kg_login_too_many_attempts">Занадта шмат спробаў нарысаваць ключ</string>
   <string name="kg_login_username_hint">Імя карыстальніка (электронная пошта)</string>
   <string name="kg_password_instructions">Увядзіце пароль</string>
   <string name="kg_password_wrong_pin_code">Няправільны PIN-код.</string>
@@ -866,15 +866,15 @@
   <string name="kg_sim_pin_instructions">Увядзіце PIN-код SIM-карткі</string>
   <string name="kg_sim_unlock_progress_dialog_message">Разблакаванне SIM-карткі…</string>
   <string name="kg_text_message_separator">" — "</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль %1$d раз(оў). 
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль %1$d разы(оў). 
 
-Паўтарыце спробу праз %2$d с."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Вы няправільна ўвялі графічны ключ разблакiроўкi пэўную колькасць разоў: %1$d. 
+Паўтарыце спробу праз %2$d сек."</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Вы няправільна нарысавалі графічны ключ %1$d разы(оў). 
 
-Паўтарыце спробу праз %2$d с."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Вы няправільна ўвялі PIN-код пэўную колькасць разоў: %1$d. 
+Паўтарыце спробу праз %2$d сек."</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Вы няправільна ўвялі PIN-код %1$d разы(оў). 
 
-Паўтарыце спробу праз %2$d с."</string>
+Паўтарыце спробу праз %2$d сек."</string>
   <string name="kg_wrong_password">Няправiльны пароль</string>
   <string name="kg_wrong_pattern">Няправільны ўзор</string>
   <string name="kg_wrong_pin">Няправільны PIN-код</string>
@@ -894,43 +894,43 @@
   <string name="lock_pattern_view_aspect">квадрат</string>
   <string name="lock_to_app_description">"Замацаванне экрана фіксуе яго ў адпаведным становішчы.
 
-Каб адмацаваць экран, націсніце і ўтрымлівайце кнопкі \"Дадому\" і \"Сілкаванне\" адначасова."</string>
+Каб адмацаваць экран, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\"."</string>
   <string name="lock_to_app_description_accessible">"Замацаванне экрана фіксуе яго ў адпаведным становішчы.
 
-Каб адмацаваць экран, націсніце і ўтрымлівайце кнопкі \"Дадому\" і \"Сілкаванне\" адначасова."</string>
-  <string name="lock_to_app_toast">Каб адмацаваць экран, націсніце і ўтрымлівайце кнопкі \"Дадому\" і \"Сілкаванне\" адначасова.</string>
-  <string name="lock_to_app_toast_accessible">Каб адмацаваць экран, націсніце і ўтрымлівайце кнопкі \"Дадому\" і \"Сілкаванне\" адначасова.</string>
+Каб адмацаваць экран, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\"."</string>
+  <string name="lock_to_app_toast">Каб адмацаваць экран, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\".</string>
+  <string name="lock_to_app_toast_accessible">Каб адмацаваць экран, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\".</string>
   <string name="lock_to_app_unlock_password">Запытваць пароль перад адмацаваннем</string>
-  <string name="lock_to_app_unlock_pattern">Запытваць узор разблакіроўкі перад адмацаваннем</string>
+  <string name="lock_to_app_unlock_pattern">Запытваць графічны ключ перад адмацаваннем</string>
   <string name="lock_to_app_unlock_pin">Запытваць PIN-код перад адмацаваннем</string>
-  <string name="lockscreen_access_pattern_area">Вобласць узору.</string>
+  <string name="lockscreen_access_pattern_area">Вобласць графічнага ключа.</string>
   <string name="lockscreen_access_pattern_cell_added">Сотавы дададзены</string>
   <string name="lockscreen_access_pattern_cell_added_verbose">Дададзена ячэйка %1$s</string>
-  <string name="lockscreen_access_pattern_cleared">Узор ачышчаны</string>
-  <string name="lockscreen_access_pattern_detected">Узор вызначаны</string>
-  <string name="lockscreen_access_pattern_start">Узор вызначаны</string>
+  <string name="lockscreen_access_pattern_cleared">Графічны ключ ачышчаны</string>
+  <string name="lockscreen_access_pattern_detected">Графічны ключ завершаны</string>
+  <string name="lockscreen_access_pattern_start">Графічны ключ вызначаны</string>
   <string name="lockscreen_carrier_default">Не абслугоўваецца</string>
   <string name="lockscreen_emergency_call">Экстранны выклік</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">Вы няправільна спрабавалі разблакаваць планшэт некалькi разоў (%1$d). Пасля яшчэ некалькiх спробаў (%2$d) ён будзе скінуты да заводскіх налад i карыстальнiцкiя дадзеныя будуць згубленыя.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Вы няправільна ўвялі графічны ключ разблакавання пэўную колькасць разоў: %1$d. Пасля яшчэ некалькiх няўдалых спроб (%2$d) вам будзе прапанавана разблакаваць тэлефон з дапамогай уваходу ў Google.
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Вы няправільна спрабавалі разблакаваць тэлефон %1$d разы(оў). Пасля яшчэ %2$d спробаў ён будзе скінуты да завадскіх налад i карыстальнiцкiя даныя страцяцца.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"Вы няправільна нарысавалі графічны ключ %1$d разы(оў). Пасля яшчэ %2$d няўдалых спробаў вам будзе прапанавана разблакаваць тэлефон увайшоўшы ў Google.
 
- Паўтарыце спробу праз наступную колькасць секунд: %3$d."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Вы няправільна спрабавалі разблакаваць тэлефон некалькi разоў (%d). Цяпер ён будзе скінуты да заводскіх налад.</string>
+ Паўтарыце спробу праз %3$d сек."</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Вы няправільна спрабавалі разблакаваць тэлефон %d разы(оў). Цяпер ён будзе скінуты да завадскіх налад.</string>
   <string name="lockscreen_forgot_pattern_button_text">Забыліся на ўзор?</string>
   <string name="lockscreen_glogin_account_recovery_hint">\"Забыліся на імя карыстальніка або пароль?
-Наведайце \"<b>google.com/accounts/recovery</b></string>
+Наведайце \"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_glogin_checking_password">Праверка…</string>
   <string name="lockscreen_glogin_forgot_pattern">Разблакаванне акаўнта</string>
-  <string name="lockscreen_glogin_instructions">Каб разблакаваць, увайдзіце ў свой уліковы запіс Google.</string>
+  <string name="lockscreen_glogin_instructions">Каб разблакаваць, увайдзіце ў свой акаўнт Google.</string>
   <string name="lockscreen_glogin_invalid_input">Хібнае імя карыстальніка ці пароль.</string>
   <string name="lockscreen_glogin_password_hint">Пароль</string>
   <string name="lockscreen_glogin_submit_button">Увайсці</string>
-  <string name="lockscreen_glogin_too_many_attempts">Занадта шмат спроб паўтарыць узор</string>
+  <string name="lockscreen_glogin_too_many_attempts">Занадта шмат спробаў нарысаваць графічны ключ</string>
   <string name="lockscreen_glogin_username_hint">Імя карыстальніка (электронная пошта)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Націсніце \"Меню\", каб разблакаваць.</string>
-  <string name="lockscreen_instructions_when_pattern_enabled">Націсніце \"Меню\", каб разблакаваць, або зрабіце экстраны выклік.</string>
+  <string name="lockscreen_instructions_when_pattern_enabled">Націсніце \"Меню\", каб разблакаваць, або зрабіце экстранны выклік.</string>
   <string name="lockscreen_missing_sim_instructions">Устаўце SIM-картку.</string>
-  <string name="lockscreen_missing_sim_instructions_long">SIM-карта адсутнічае або не чытаецца. Устаўце SIM-карту.</string>
+  <string name="lockscreen_missing_sim_instructions_long">SIM-картка адсутнічае або не чытаецца. Устаўце SIM-картку.</string>
   <string name="lockscreen_missing_sim_message">У тэлефоне няма SIM-карткі.</string>
   <string name="lockscreen_missing_sim_message_short">Няма SIM-карткі</string>
   <string name="lockscreen_network_locked_message">Сетка заблакаваная</string>
@@ -938,28 +938,28 @@
   <string name="lockscreen_pattern_correct">Правільна!</string>
   <string name="lockscreen_pattern_instructions">Нарысуйце ўзор, каб разблакаваць</string>
   <string name="lockscreen_pattern_wrong">Паспрабуйце яшчэ раз</string>
-  <string name="lockscreen_permanent_disabled_sim_instructions">"Ваша SIM-карта назаўсёды адключана.
-Звярніцеся да аператара сувязі, каб атрымаць новую SIM-карту."</string>
+  <string name="lockscreen_permanent_disabled_sim_instructions">"Ваша SIM-картка назаўсёды адключана.
+Звярніцеся да аператара сувязі, каб атрымаць новую SIM-картку."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">SIM-картка непрыдатная.</string>
   <string name="lockscreen_return_to_call">Вярнуцца да выкліку</string>
   <string name="lockscreen_screen_locked">Экран заблакаваны.</string>
   <string name="lockscreen_sim_locked_message">SIM-картка заблакаваная.</string>
-  <string name="lockscreen_sim_puk_locked_instructions">Глядзіце \"Інструкцыю для карыстальніка\" або звяжыцеся са службай тэхнiчнай падтрымкі.</string>
+  <string name="lockscreen_sim_puk_locked_instructions">Глядзіце \"Інструкцыю для карыстальніка\" або звяжыцеся са службай падтрымкі.</string>
   <string name="lockscreen_sim_puk_locked_message">SIM-картка заблакаваная PUK-кодам.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Разблакаванне SIM-карткі…</string>
   <string name="lockscreen_sound_off_label">Гук выключаны</string>
   <string name="lockscreen_sound_on_label">Гук уключаны</string>
-  <string name="lockscreen_storage_locked">Разблакіраваць для ўсіх функцый і даных</string>
+  <string name="lockscreen_storage_locked">Разблакаваць для ўсіх функцый і даных</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Паўтарыце спробу праз %d секунд.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Вы няправільна ўвялі графічны ключ разблакавання пэўную колькасць разоў: %1$d. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Вы няправільна нарысавалі графічны ключ %1$d разы(оў). 
 
-Паўтарыце спробу праз наступную колькасць секунд: %2$d."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль пэўную колькасць разоў: %1$d. 
+Паўтарыце спробу праз %2$d сек."</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль %1$d разы(оў). 
 
-Паўтарыце спробу праз наступную колькасць секунд: %2$d."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Вы няправільна ўвялі PIN-код пэўную колькасць разоў: %1$d. 
+Паўтарыце спробу праз %2$d сек."</string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Вы няправільна ўвялі PIN-код %1$d разы(оў). 
 
-Паўтарыце спробу праз наступную колькасць секунд: %2$d."</string>
+Паўтарыце спробу праз %2$d сек."</string>
   <string name="lockscreen_transport_ffw_description">Перамотка ўперад</string>
   <string name="lockscreen_transport_next_description">Наступны шлях</string>
   <string name="lockscreen_transport_pause_description">Прыпыніць</string>
@@ -969,9 +969,9 @@
   <string name="lockscreen_transport_stop_description">Спыніць</string>
   <string name="lockscreen_unlock_label">Разблакаваць</string>
   <string name="low_internal_storage_view_text">Некаторыя сістэмныя функцыі могуць не працаваць</string>
-  <string name="low_internal_storage_view_text_no_boot">Не хапае сховішча для сістэмы. Пераканайцеся, што ў вас ёсць 250 МБ свабоднага месца, і перазапусціце.</string>
+  <string name="low_internal_storage_view_text_no_boot">Не стае вольнага месца для сістэмы. Пераканайцеся, што ў вас ёсць 250 Мб свабоднага месца, і перазапусціце.</string>
   <string name="low_internal_storage_view_title">Месца не хапае</string>
-  <string name="low_memory">Памяць тэлефона поўная. Выдаліце ​​некаторыя файлы, каб вызваліць месца.</string>
+  <string name="low_memory">Памяць тэлефона запоўненая. Выдаліце ​​некаторыя файлы, каб вызваліць месца.</string>
   <string name="managed_profile_label">Пераключыцца на працоўны профіль</string>
   <string name="managed_profile_label_badge">%1$s (праца)</string>
   <string name="managed_profile_label_badge_2">Другая праца %1$s</string>
@@ -1117,9 +1117,9 @@
   <string name="mmcc_imsi_unknown_in_hlr">Няма SIM-карткі для дзеянняў з голасам</string>
   <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d адсутнічае</string>
   <string name="mmiComplete">MMI завершаны.</string>
-  <string name="mmiError">Праблема падлучэння ці няправільны код MMI.</string>
-  <string name="mmiErrorWhileRoaming">Немагчыма змяніць налады пераадрасацыі выклікаў з тэлефона, пакуль вы знаходзіцеся ў роўмінгу.</string>
-  <string name="mmiFdnError">Выкарыстанне абмежаванае толькі дазволенымі нумарамі.</string>
+  <string name="mmiError">Праблема падлучэння ці хібны код MMI.</string>
+  <string name="mmiErrorWhileRoaming">Немагчыма змяніць налады перанакіравання выклікаў з тэлефона, пакуль вы знаходзіцеся ў роўмінгу.</string>
+  <string name="mmiFdnError">Аперацыя абмяжоўваецца толькі дазволенымі нумарамі.</string>
   <string name="mobile_provisioning_apn"></string>
   <string name="mobile_provisioning_url"></string>
   <string name="month_day_year" formatted="false">%B %-e, %Y</string>
@@ -1127,12 +1127,12 @@
   <string name="move_button_text">Tap the frame button to be able to move the whole window</string>
   <string name="multi_conn_to_same_pdn_not_allowed"></string>
   <string name="muted_by">%1$s выключае некаторыя гукі</string>
-  <string name="needPuk">Ваша SIM-карта заблакавана PUK-кодам. Увядзіце PUK, каб разблакаваць карту.</string>
+  <string name="needPuk">Ваша SIM-картка заблакаваная PUK-кодам. Увядзіце PUK, каб разблакаваць картку.</string>
   <string name="needPuk2">Увядзіце PUK2 для разблакавання SIM-карткі.</string>
   <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Увайдзіце ў сетку</string>
   <string name="network_available_sign_in_detailed">%1$s</string>
-  <string name="network_logging_notification_text">Ваша арганізацыя кіруе гэтай прыладай і можа сачыць за сеткавым трафікам. Дакраніцеся для атрымання дадатковай інфармацыі.</string>
+  <string name="network_logging_notification_text">Ваша арганізацыя кіруе гэтай прыладай і можа сачыць за сеткавым трафікам. Націсніце, каб праглядзець падрабязнасці.</string>
   <string name="network_logging_notification_title">Прылада знаходзіцца пад кіраваннем</string>
   <string name="network_partial_connectivity">%1$s мае абмежаваную магчымасць падключэння</string>
   <string name="network_partial_connectivity_detailed">Націсніце, каб падключыцца</string>
@@ -1146,7 +1146,7 @@
   <string name="new_sms_notification_title">У вас ёсць новыя паведамленні</string>
   <string name="next_button_label">Далей</string>
   <string name="no">Скасаваць</string>
-  <string name="noApplications">Няма прыкладанняў, якія могуць выконваць гэты працэс.</string>
+  <string name="noApplications">Няма праграм, якія могуць выканаць гэтае дзеянне.</string>
   <string name="no_file_chosen">Файл не абраны</string>
   <string name="no_matches">Няма супадзенняў</string>
   <string name="no_permissions">Дазволу не патрабуецца</string>
@@ -1157,7 +1157,7 @@
   <string name="notification_app_name_system">Сістэма</string>
   <string name="notification_appops_camera_active">Камера</string>
   <string name="notification_appops_microphone_active">Мікрафон</string>
-  <string name="notification_appops_overlay_active">паказваецца паверх іншых праграм на экране</string>
+  <string name="notification_appops_overlay_active">адлюстраванне паверх іншых праграм на экране</string>
   <string name="notification_channel_account">Статус акаўнта</string>
   <string name="notification_channel_alerts">Абвесткi</string>
   <string name="notification_channel_call_forward">Перанакіраванне выкліку</string>
@@ -1226,14 +1226,14 @@
   <string name="peerTtyModeOff">Запыт рэжыму TTY OFF</string>
   <string name="peerTtyModeVco">Запыт рэжыму TTY VCO</string>
   <string name="perm_costs_money">за гэта можа спаганяцца плата</string>
-  <string name="permdesc_acceptHandovers">Дазваляе праграме працягваць выклік, які пачаўся ў іншай праграме.</string>
+  <string name="permdesc_acceptHandovers">Дае праграме магчымасць працягваць выклік, які пачаўся ў іншай праграме.</string>
   <string name="permdesc_accessBackgroundLocation">Акрамя доступу да прыкладнага ці дакладнага месцазнаходжання праграма можа мець доступ да вызначэння геалакацыі ў фонавым рэжыме працы. На гэта патрабуецца дазвол.</string>
   <string name="permdesc_accessCoarseLocation">Гэта праграма можа атрымліваць звесткі пра ваша месцазнаходжанне толькі ў актыўным рэжыме на падставе даных сеткавых крыніц, такіх як вышкі сотавай сувязі і сеткі Wi-Fi. Каб праграма магла карыстацца гэтымі службамі геалакацыі, неабходна ўключыць і зрабіць іх даступнымі на тэлефоне.</string>
-  <string name="permdesc_accessDrmCertificates">Дазваляе праграме выконваць забеспячэнне і выкарыстанне сертыфікатаў DRM. Ніколі не павінна патрабавацца для звычайных праграм.</string>
+  <string name="permdesc_accessDrmCertificates">Дае праграме магчымасць пастаўляць і выкарыстоўваць сертыфікаты DRM. Ніколі не павінна патрабавацца для Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_accessFineLocation">Гэта праграма можа атрымліваць звесткі пра ваша дакладнае месцазнаходжанне толькі ў асноўным рэжыме. Службы геалакацыі павінны быць уключаны і даступныя на вашым тэлефоне, каб праграма магла імі карыстацца. Гэта можа павялічыць спажыванне зараду акумулятара.</string>
-  <string name="permdesc_accessImsCallService">Дазваляе праграмам выкарыстоўваць службу IMS, каб рабіць выклікі без вашага ўмяшання.</string>
-  <string name="permdesc_accessLocationExtraCommands">Дазваляе праграме атрымліваць доступ да дадатковых каманд службаў вызначэння месцазнаходжання. Гэта можа дазволіць праграме ўмешвацца ў функцыянаванне GPS або іншых крыніц даных аб месцазнаходжаннi.</string>
-  <string name="permdesc_accessNetworkConditions">Дазваляе праграме праслухоўваць даныя назіранняў за станам сеткі. Ніколі не павінна патрабавацца для звычайных праграм.</string>
+  <string name="permdesc_accessImsCallService">Дае праграме магчымасць выкарыстоўваць службу IMS, каб здзяйсняць выклікі без вашага ўмяшання.</string>
+  <string name="permdesc_accessLocationExtraCommands">Дае праграме магчымасць атрымліваць доступ да дадатковых загадаў службаў вызначэння месцазнаходжання. Гэта можа дазволіць праграме ўмешвацца ў дзейнасць GPS або іншых крыніц даных пра месцазнаходжанне.</string>
+  <string name="permdesc_accessNetworkConditions">Дае праграме магчымасць праслухоўваць даныя назіранняў за станам сеткі. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_accessNetworkState">Дазваляе прыкладанню праглядаць звесткi пра падключэннi да сеткi, напрыклад пра тое, якiя сеткi iснуюць i з якiмi ёсць сувязь.</string>
   <string name="permdesc_accessNotifications">Дазваляе прыкладанню атрымлiваць, правяраць i выдаляць апавяшчэннi, у тым лiку апублiкаваныя iншымi прыкладаннямi.</string>
   <string name="permdesc_accessWifiState">Дазваляе прыкладанню праглядаць звесткi пра падключэннi да сеткi, напрыклад пра тое, дзе ёсць сеткi Wi-Fi i якiя прылады Wi-Fi да iх падключаны.</string>
@@ -1243,11 +1243,11 @@
   <string name="permdesc_addVoicemail">Дазваляе прыкладанням дадаваць паведамленні ў вашу скрыню галасавой пошты.</string>
   <string name="permdesc_answerPhoneCalls">Дазваляе праграме адказваць на ўваходны тэлефонны выклік.</string>
   <string name="permdesc_audioWrite">Праграма зможа змяняць музычную калекцыю.</string>
-  <string name="permdesc_bindCarrierMessagingService">Дазваляе ўладальніку выконваць прывязку да інтэрфейсу верхняга ўзроўню службы паведамленняў аператара. Ніколі не павінна патрабавацца для звычайных праграм.</string>
-  <string name="permdesc_bindCarrierServices">Дазваляе ўладальніку ажыццяўляць прывязку да сэрвісаў аператара. Ніколі не павінна патрабавацца для звычайных праграм.</string>
-  <string name="permdesc_bindConditionProviderService">Дазваляе ўладальніку выконваць прывязку да інтэрфейсу верхняга ўзроўню пастаўшчыка ўмоў. Ніколі не павінна патрабавацца для звычайных праграм.</string>
-  <string name="permdesc_bindDreamService">Дазваляе ўладальніку выконваць прывязку да інтэрфейсу верхняга ўзроўню службы экраннай застаўкі. Ніколі не павінна патрабавацца для звычайных праграм.</string>
-  <string name="permdesc_bindNotificationListenerService">Дазваляе ўладальніку прывязвацца да верхняга ўзроўню інтэрфейсу службы  апавяшчэння слухачоў. Ніколі не патрэбнае для звычайных прыкладанняў.</string>
+  <string name="permdesc_bindCarrierMessagingService">Дае магчымасць выконваць прывязку да інтэрфейсу верхняга ўзроўню службы паведамленняў аператара. Не патрабуецца звычайным праграмам.</string>
+  <string name="permdesc_bindCarrierServices">Дае магчымасць ажыццяўляць прывязку да службаў аператара. Не патрабуецца звычайным праграмам.</string>
+  <string name="permdesc_bindConditionProviderService">Дае магчымасць выконваць прывязку да інтэрфейсу верхняга ўзроўню пастаўшчыка ўмоў. Не патрабуецца звычайным праграмам.</string>
+  <string name="permdesc_bindDreamService">Дае магчымасць выконваць прывязку да інтэрфейсу верхняга ўзроўню службы экраннай застаўкі. Не патрабуецца звычайным праграмам.</string>
+  <string name="permdesc_bindNotificationListenerService">Дае магчымасць прывязвацца да верхняга ўзроўню інтэрфейсу службы апавяшчэння слухачоў. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_bind_connection_service">Дазваляе праграме ўзаемадзейнічаць са службамі тэлефаніі, каб рабіць/прымаць выклікі.</string>
   <string name="permdesc_bind_incall_service">Дазваляе праграме кіраваць тым, калі і як карыстальнік бачыць экран бягучага выкліку.</string>
   <string name="permdesc_bluetooth">Дазваляе прыкладанню праглядаць канфігурацыю Bluetooth на тэлефоне , а таксама здзяйсняць і прымаць злучэнні са спалучанымі прыладамі.</string>
@@ -1264,7 +1264,7 @@
   <string name="permdesc_changeWimaxState">Дазваляе прыкладанням падключацца да сетак WiMAX і адключацца ад iх.</string>
   <string name="permdesc_connection_manager">Дазваляе праграме кіраваць падлучэннямі сувязі.</string>
   <string name="permdesc_control_incall_experience">Дазваляе праграме прапаноўваць аперацыі, звязаныя з выклікам.</string>
-  <string name="permdesc_createNetworkSockets">Дазваляе прыкладанням ствараць сеткавыя сокеты і выкарыстоўваць уласныя сеткавыя пратаколы. браўзер і іншыя прыкладаннi прадастаўляюць сродкі для перадачы дадзеных у Iнтэрнэт, так што гэты дазвол для перадачы дадзеных у Iнтэрнэце не патрабуецца.</string>
+  <string name="permdesc_createNetworkSockets">Дае праграме магчымасць ствараць сеткавыя сокеты і выкарыстоўваць уласныя сеткавыя пратаколы. Браўзер і іншыя праграмы падаюць сродкі для перадачы даных у інтэрнэт, таму гэты дазвол не патрабуецца для перадачы даных у інтэрнэце.</string>
   <string name="permdesc_disableKeyguard">Дазваляе прыкладанням адключаць блакiроўку клавіятуры і любыя сродкі абароны, звязаныя з паролем. Прыкладам гэтага з\'яўляецца адключэнне тэлефонам блакiроўкi клавіятуры пры атрыманні ўваходнага выкліку і паўторнае ўключэнне блакiроўкi клавіятуры, калі выклік завершаны.</string>
   <string name="permdesc_enableCarMode">Дазваляе прыкладанню ўключаць рэжым гучнай сувязi.</string>
   <string name="permdesc_expandStatusBar">Дазваляе прыкладанню разгортваць ці згортваць радок стану.</string>
@@ -1275,7 +1275,7 @@
   <string name="permdesc_handoverStatus">Дазваляе праграме атрымліваць інфармацыю аб бягучых перадачах Android Beam</string>
   <string name="permdesc_imagesWrite">Праграма зможа змяняць фотакалекцыю.</string>
   <string name="permdesc_install_shortcut">Дазваляе праграме дадаваць ярлыкі на Галоўны экран без умяшання карыстальніка.</string>
-  <string name="permdesc_invokeCarrierSetup">Дазваляе трымальніку выклікаць праграму аператарскай канфігурацыі. Ніколі не павінна патрабавацца для звычайных праграм.</string>
+  <string name="permdesc_invokeCarrierSetup">Дае магчымасць выклікаць праграму аператарскай канфігурацыі. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_killBackgroundProcesses">Дазваляе прыкладанню завяршаць фонавыя працэсы іншых прыкладанняў. Гэта можа спынiць працу iншых прыкладанняў.</string>
   <string name="permdesc_manageFace">Праграма зможа дадаваць і выдаляць шаблоны твару.</string>
   <string name="permdesc_manageFingerprint">Дазваляе праграме выкарыстоўваць спосабы дадання і выдалення шаблонаў адбіткаў пальцаў для выкарыстання.</string>
@@ -1307,7 +1307,7 @@
   <string name="permdesc_recordAudio">Гэта праграма можа у любы час запісваць аўдыя, выкарыстоўваючы мікрафон.</string>
   <string name="permdesc_register_call_provider">Дазваляе праграме рэгістраваць новыя падлучэнні сувязі.</string>
   <string name="permdesc_register_sim_subscription">Дазваляе праграме рэгістраваць новыя падлучэнні сувязі SIM.</string>
-  <string name="permdesc_removeDrmCertificates">Дазваляе праграме выдаляць сертыфікаты DRM. Ніколі не павінна патрабавацца для звычайных праграм.</string>
+  <string name="permdesc_removeDrmCertificates">Дае праграме магчымасць выдаляць сертыфікаты DRM. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_reorderTasks">Дазваляе прыкладанню перамяшчаць заданні на ​​пярэдні план і ў фон. Шкоднасныя прыкладанні могуць прымусова рабіць сябе асноўнымі без вашага ведама.</string>
   <string name="permdesc_requestDeletePackages">Дазваляе праграме запытваць выдаленне пакетаў.</string>
   <string name="permdesc_requestIgnoreBatteryOptimizations">Дазваляе праграме запытваць дазвол на ігнараванне аптымізацыі акумулятара для гэтай праграмы.</string>
@@ -1319,7 +1319,7 @@
   <string name="permdesc_sdcardWrite">Дазваляе праграме запісваць змесціва абагуленага сховішча.</string>
   <string name="permdesc_sendSms">Дазваляе прыкладанне для адпраўкі SMS паведамленняў. Гэта можа прывесці да нечаканых абвінавачванняў. Шкоднасныя праграмы могуць каштаваць вам грошай на адпраўку паведамленняў без вашага пацвярджэння.</string>
   <string name="permdesc_setAlarm">Дазваляе прыкладанню ўсталёўваць сігнал на ўсталяваным прыкладанні будзільніка. Пэўныя прыкладанні будзільніка не могуць рэалізоўваць гэтую магчымасць.</string>
-  <string name="permdesc_setInputCalibration">Дазваляе праграме змяняць параметры каліброўкі сэнсарнага экрана. Ніколі не павінна патрабавацца для звычайных праграм.</string>
+  <string name="permdesc_setInputCalibration">Дае праграме магчымасць змяняць параметры калібравання сэнсарнага экрана. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_setTimeZone">"Дазваляе праграме змяняць часавы пояс тэлефона."</string>
   <string name="permdesc_setWallpaper">Дазваляе прыкладанням ксталёўваць сiстэмныя шпалеры.</string>
   <string name="permdesc_setWallpaperHints">Дазваляе прыкладанням задаваць падказкі па памеры сістэмных шпалер.</string>
@@ -2030,7 +2030,7 @@
   <string name="work_mode_turn_on">Уключыць</string>
   <string name="work_profile_deleted">Працоўны профіль выдалены</string>
   <string name="work_profile_deleted_description_dpm_wipe">Ваш працоўны профіль больш не даступны на гэтай прыладзе</string>
-  <string name="work_profile_deleted_details">Праграма адміністратара для працоўнага профілю адсутнічае або пашкоджана. У выніку гэтага ваш працоўны профіль і звязаныя з ім даныя былі выдалены. Звярніцеся па дапамогу да адміністратара.</string>
+  <string name="work_profile_deleted_details">Праграма адміністратара для працоўнага профілю адсутнічае або пашкоджаная. У выніку гэтага ваш працоўны профіль і звязаныя з ім даныя былі выдаленыя. Звярніцеся па дапамогу да адміністратара.</string>
   <string name="work_profile_deleted_reason_maximum_password_failure">Занадта шмат спробаў уводу пароля</string>
   <string name="write_fail_reason_cancelled">Скасавана</string>
   <string name="write_fail_reason_cannot_write">Не атрымалася запісаць змесціва</string>
@@ -2045,11 +2045,11 @@
   <string name="zen_mode_downtime_feature_name">Час бяздзеяння</string>
   <string name="zen_mode_feature_name">Не турбаваць</string>
   <string name="zen_mode_forever">Пакуль не выключыце</string>
-  <string name="zen_mode_forever_dnd">Пакуль вы не выключыце рэжым «Не турбаваць»</string>
+  <string name="zen_mode_forever_dnd">Пакуль вы не адключыце рэжым \"Не турбаваць\"</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Да %1$s</string>
   <string name="zen_upgrade_notification_content">"Націсніце, каб паглядзець заблакаванае."</string>
   <string name="zen_upgrade_notification_title">Зменены налады рэжыму \"Не турбаваць\"</string>
   <string name="zen_upgrade_notification_visd_content">Націсніце, каб даведацца больш і змяніць.</string>
-  <string name="zen_upgrade_notification_visd_title">Новае: у рэжыме \"Не турбаваць\" апавяшчэнні не паказваюцца</string>
+  <string name="zen_upgrade_notification_visd_title">Новае: у рэжыме \"Не турбаваць\" хаваюцца апавяшчэнні</string>
 </resources>
