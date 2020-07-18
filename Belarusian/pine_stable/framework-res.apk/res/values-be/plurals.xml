@@ -1,213 +1,213 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="autofill_picker_some_suggestions">
-        <item quantity="other">%1$s autofill suggestions</item>
-        <item quantity="one">One autofill suggestion</item>
-        <item quantity="few">%1$s autofill suggestions</item>
-        <item quantity="many">%1$s autofill suggestions</item>
+        <item quantity="other">%1$s прапаноў аўтазапаўнення</item>
+        <item quantity="one">Адна прапанова аўтазапаўнення</item>
+        <item quantity="few">%1$s прапановы аўтазапаўнення</item>
+        <item quantity="many">%1$s прапаноў аўтазапаўнення</item>
     </plurals>
     <plurals name="bugreport_countdown">
-        <item quantity="other">Taking screenshot for bug report in %d seconds.</item>
-        <item quantity="one">Taking screenshot for bug report in %d second.</item>
-        <item quantity="few">Taking screenshot for bug report in %d seconds.</item>
-        <item quantity="many">Taking screenshot for bug report in %d seconds.</item>
+        <item quantity="other">Здымак экрана будзе зроблены праз %d секунд.</item>
+        <item quantity="one">Здымак экрана будзе зроблены праз %d секунду.</item>
+        <item quantity="few">Здымак экрана будзе зроблены праз %d секунды.</item>
+        <item quantity="many">Здымак экрана будзе зроблены праз %d секунд.</item>
     </plurals>
     <plurals name="duration_days_relative">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">%d day ago</item>
-        <item quantity="few">%d days ago</item>
-        <item quantity="many">%d days ago</item>
+        <item quantity="other">%d дзён таму</item>
+        <item quantity="one">%d дзень таму</item>
+        <item quantity="few">%d дні таму</item>
+        <item quantity="many">%d дзён таму</item>
     </plurals>
     <plurals name="duration_days_relative_future">
-        <item quantity="other">in %d days</item>
-        <item quantity="one">in %d day</item>
-        <item quantity="few">in %d days</item>
-        <item quantity="many">in %d days</item>
+        <item quantity="other">праз %d дзён</item>
+        <item quantity="one">праз %d дзень</item>
+        <item quantity="few">праз %d дні</item>
+        <item quantity="many">праз %d дзён</item>
     </plurals>
     <plurals name="duration_days_shortest">
-        <item quantity="other">%dd</item>
-        <item quantity="one">%dd</item>
-        <item quantity="few">%dd</item>
-        <item quantity="many">%dd</item>
+        <item quantity="other">%d дз</item>
+        <item quantity="one">%d дз</item>
+        <item quantity="few">%d д</item>
+        <item quantity="many">%d дз</item>
     </plurals>
     <plurals name="duration_days_shortest_future">
-        <item quantity="other">in %dd</item>
-        <item quantity="one">in %dd</item>
-        <item quantity="few">in %dd</item>
-        <item quantity="many">in %dd</item>
+        <item quantity="other">праз %d дз</item>
+        <item quantity="one">праз %d дз</item>
+        <item quantity="few">праз %d д</item>
+        <item quantity="many">праз %d дз</item>
     </plurals>
     <plurals name="duration_hours_relative">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">%d hour ago</item>
-        <item quantity="few">%d hours ago</item>
-        <item quantity="many">%d hours ago</item>
+        <item quantity="other">%d гадзін таму</item>
+        <item quantity="one">%d гадзіну таму</item>
+        <item quantity="few">%d гадзіны таму</item>
+        <item quantity="many">%d гадзін таму</item>
     </plurals>
     <plurals name="duration_hours_relative_future">
-        <item quantity="other">in %d hours</item>
-        <item quantity="one">in %d hour</item>
-        <item quantity="few">in %d hours</item>
-        <item quantity="many">in %d hours</item>
+        <item quantity="other">праз %d гадзін</item>
+        <item quantity="one">праз %d гадзіну</item>
+        <item quantity="few">праз %d гадзіны</item>
+        <item quantity="many">праз %d гадзін</item>
     </plurals>
     <plurals name="duration_hours_shortest">
-        <item quantity="other">%dh</item>
-        <item quantity="one">%dh</item>
-        <item quantity="few">%dh</item>
-        <item quantity="many">%dh</item>
+        <item quantity="other">%d г</item>
+        <item quantity="one">%d г</item>
+        <item quantity="few">%d г</item>
+        <item quantity="many">%d г</item>
     </plurals>
     <plurals name="duration_hours_shortest_future">
-        <item quantity="other">in %dh</item>
-        <item quantity="one">in %dh</item>
-        <item quantity="few">in %dh</item>
-        <item quantity="many">in %dh</item>
+        <item quantity="other">праз %d г</item>
+        <item quantity="one">праз %d г</item>
+        <item quantity="few">праз %d г</item>
+        <item quantity="many">праз %d г</item>
     </plurals>
     <plurals name="duration_minutes_relative">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">%d minute ago</item>
-        <item quantity="few">%d minutes ago</item>
-        <item quantity="many">%d minutes ago</item>
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">%d хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="duration_minutes_relative_future">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in %d minute</item>
-        <item quantity="few">in %d minutes</item>
-        <item quantity="many">in %d minutes</item>
+        <item quantity="other">праз %d хвілін</item>
+        <item quantity="one">праз %d хвіліну</item>
+        <item quantity="few">праз %d хвіліны</item>
+        <item quantity="many">праз %d хвілін</item>
     </plurals>
     <plurals name="duration_minutes_shortest">
-        <item quantity="other">%dm</item>
-        <item quantity="one">%dm</item>
-        <item quantity="few">%dm</item>
-        <item quantity="many">%dm</item>
+        <item quantity="other">%d хв</item>
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
     </plurals>
     <plurals name="duration_minutes_shortest_future">
-        <item quantity="other">in %dm</item>
-        <item quantity="one">in %dm</item>
-        <item quantity="few">in %dm</item>
-        <item quantity="many">in %dm</item>
+        <item quantity="other">праз %d хв</item>
+        <item quantity="one">праз %d хв</item>
+        <item quantity="few">праз %d хв</item>
+        <item quantity="many">праз %d хв</item>
     </plurals>
     <plurals name="duration_years_relative">
-        <item quantity="other">%d years ago</item>
-        <item quantity="one">%d year ago</item>
-        <item quantity="few">%d years ago</item>
-        <item quantity="many">%d years ago</item>
+        <item quantity="other">%d гадоў таму</item>
+        <item quantity="one">%d год таму</item>
+        <item quantity="few">%d гады таму</item>
+        <item quantity="many">%d гадоў таму</item>
     </plurals>
     <plurals name="duration_years_relative_future">
-        <item quantity="other">in %d years</item>
-        <item quantity="one">in %d year</item>
-        <item quantity="few">in %d years</item>
-        <item quantity="many">in %d years</item>
+        <item quantity="other">праз %d гадоў</item>
+        <item quantity="one">праз %d год</item>
+        <item quantity="few">праз %d гады</item>
+        <item quantity="many">праз %d гадоў</item>
     </plurals>
     <plurals name="duration_years_shortest">
-        <item quantity="other">%dy</item>
-        <item quantity="one">%dy</item>
-        <item quantity="few">%dy</item>
-        <item quantity="many">%dy</item>
+        <item quantity="other">%d г</item>
+        <item quantity="one">%d г</item>
+        <item quantity="few">%d г</item>
+        <item quantity="many">%d г</item>
     </plurals>
     <plurals name="duration_years_shortest_future">
-        <item quantity="other">in %dy</item>
-        <item quantity="one">in %dy</item>
-        <item quantity="few">in %dy</item>
-        <item quantity="many">in %dy</item>
+        <item quantity="other">праз %d г</item>
+        <item quantity="one">праз %d г</item>
+        <item quantity="few">праз %d г</item>
+        <item quantity="many">праз %d г</item>
     </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">Try again in %d seconds.</item>
-        <item quantity="one">Try again in 1 second.</item>
-        <item quantity="few">Try again in %d seconds.</item>
-        <item quantity="many">Try again in %d seconds.</item>
+        <item quantity="other">Паспрабуйце зноў праз %d секунд.</item>
+        <item quantity="one">Паспрабуйце зноў праз 1 секунду.</item>
+        <item quantity="few">Паспрабуйце зноў праз %d секунды.</item>
+        <item quantity="many">Паспрабуйце зноў праз %d секунд.</item>
     </plurals>
     <plurals name="last_num_days">
-        <item quantity="other">Папярэднія %d дзен</item>
-        <item quantity="one">Last %d day</item>
-        <item quantity="few">Папярэднія %d дзен</item>
-        <item quantity="many">Папярэднія %d дзен</item>
+        <item quantity="other">Папярэднія %d дзён</item>
+        <item quantity="one">Папярэдні %d дзень</item>
+        <item quantity="few">Папярэднія %d дні</item>
+        <item quantity="many">Папярэднія %d дзён</item>
     </plurals>
     <plurals name="matches_found">
-        <item quantity="other">%1$d of %2$d</item>
+        <item quantity="other">%1$d з %2$d</item>
         <item quantity="one">1 супадзенне</item>
-        <item quantity="few">%1$d of %2$d</item>
-        <item quantity="many">%1$d of %2$d</item>
+        <item quantity="few">%1$d з %2$d</item>
+        <item quantity="many">%1$d з %2$d</item>
     </plurals>
     <plurals name="pinpuk_attempts">
-        <item quantity="other">You have %d remaining attempts before SIM is locked.</item>
-        <item quantity="one">You have %d remaining attempt before SIM is locked.</item>
-        <item quantity="few">You have %d remaining attempts before SIM is locked.</item>
-        <item quantity="many">You have %d remaining attempts before SIM is locked.</item>
+        <item quantity="other">У вас засталося %d спробаў перад блакаваннем SIM-карткі.</item>
+        <item quantity="one">У вас засталася %d спроба перад блакаваннем SIM-карткі.</item>
+        <item quantity="few">У вас засталося %d спробы перад блакаваннем SIM-карткі.</item>
+        <item quantity="many">У вас засталося %d спробаў перад блакаваннем SIM-карткі.</item>
     </plurals>
     <plurals name="restr_pin_countdown">
-        <item quantity="other">Try again in %d seconds</item>
-        <item quantity="one">Try again in 1 second</item>
-        <item quantity="few">Try again in %d seconds</item>
-        <item quantity="many">Try again in %d seconds</item>
+        <item quantity="other">Паўтарыце спробу праз %d секунд</item>
+        <item quantity="one">Паспрабуйце зноў праз 1 секунду</item>
+        <item quantity="few">Паспрабуйце зноў праз %d секунды</item>
+        <item quantity="many">Паўтарыце спробу праз %d секунд</item>
     </plurals>
     <plurals name="selected_count">
-        <item quantity="other">Выбрана: %1$d</item>
-        <item quantity="one">Выбрана: %1$d</item>
-        <item quantity="few">Выбрана: %1$d</item>
-        <item quantity="many">Выбрана: %1$d</item>
+        <item quantity="other">Абрана: %1$d</item>
+        <item quantity="one">Абрана: %1$d</item>
+        <item quantity="few">Абрана: %1$d</item>
+        <item quantity="many">Абрана: %1$d</item>
     </plurals>
     <plurals name="ssl_ca_cert_warning">
-        <item quantity="other">Certificate authorities installed</item>
-        <item quantity="one">Certificate authority installed</item>
-        <item quantity="few">Certificate authorities installed</item>
-        <item quantity="many">Certificate authorities installed</item>
+        <item quantity="other">Цэнтры сертыфікацыі ўсталяваныя</item>
+        <item quantity="one">Цэнтр сертыфікацыі ўсталяваны</item>
+        <item quantity="few">Цэнтры сертыфікацыі ўсталяваныя</item>
+        <item quantity="many">Цэнтры сертыфікацыі ўсталяваныя</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">WLAN networks available</item>
-        <item quantity="one">WLAN network available</item>
-        <item quantity="few">WLAN networks available</item>
-        <item quantity="many">WLAN networks available</item>
+        <item quantity="other">Даступныя сеткі WLAN</item>
+        <item quantity="one">Даступная сетка WLAN</item>
+        <item quantity="few">Даступныя сеткі WLAN</item>
+        <item quantity="many">Даступныя сеткі WLAN</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Open WLAN networks available</item>
-        <item quantity="one">Open WLAN network available</item>
-        <item quantity="few">Open WLAN networks available</item>
-        <item quantity="many">Open WLAN networks available</item>
+        <item quantity="other">Даступныя адкрытыя сеткі WLAN</item>
+        <item quantity="one">Даступная адкрытая сетка WLAN</item>
+        <item quantity="few">Даступныя адкрытыя сеткі WLAN</item>
+        <item quantity="many">Даступныя адкрытыя сеткі WLAN</item>
     </plurals>
     <plurals name="zen_mode_duration_hours">
-        <item quantity="other">For %d hours</item>
-        <item quantity="one">For 1 hour</item>
-        <item quantity="few">For %d hours</item>
-        <item quantity="many">For %d hours</item>
+        <item quantity="other">%d гадзін</item>
+        <item quantity="one">%d гадзіна</item>
+        <item quantity="few">%d гадзіны</item>
+        <item quantity="many">%d гадзін</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_short">
-        <item quantity="other">For %d hr</item>
-        <item quantity="one">For 1 hr</item>
-        <item quantity="few">For %d hr</item>
-        <item quantity="many">For %d hr</item>
+        <item quantity="other">%d г</item>
+        <item quantity="one">%d г</item>
+        <item quantity="few">%d г</item>
+        <item quantity="many">%d г</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary">
-        <item quantity="other">For %1$d hours (until %2$s)</item>
-        <item quantity="one">For 1 hour (until %2$s)</item>
-        <item quantity="few">For %1$d hours (until %2$s)</item>
-        <item quantity="many">For %1$d hours (until %2$s)</item>
+        <item quantity="other">На %1$d гадзін (да %2$s)</item>
+        <item quantity="one">На 1 гадзіну (да %2$s)</item>
+        <item quantity="few">На %1$d гадзіны (да %2$s)</item>
+        <item quantity="many">На %1$d гадзін (да %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary_short">
-        <item quantity="other">For %1$d hr (until %2$s)</item>
-        <item quantity="one">For 1 hr (until %2$s)</item>
-        <item quantity="few">For %1$d hr (until %2$s)</item>
-        <item quantity="many">For %1$d hr (until %2$s)</item>
+        <item quantity="other">На %1$d гадзін (да %2$s)</item>
+        <item quantity="one">На 1 гадзіну (да %2$s)</item>
+        <item quantity="few">На %1$d гадзіны (да %2$s)</item>
+        <item quantity="many">На %1$d гадзін (да %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes">
-        <item quantity="other">For %d minutes</item>
-        <item quantity="one">For one minute</item>
-        <item quantity="few">For %d minutes</item>
-        <item quantity="many">For %d minutes</item>
+        <item quantity="other">%d хвілін</item>
+        <item quantity="one">%d хвіліна</item>
+        <item quantity="few">%d хвіліны</item>
+        <item quantity="many">%d хвілін</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_short">
-        <item quantity="other">For %d min</item>
-        <item quantity="one">For 1 min</item>
-        <item quantity="few">For %d min</item>
-        <item quantity="many">For %d min</item>
+        <item quantity="other">%d хв</item>
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary">
-        <item quantity="other">For %1$d minutes (until %2$s)</item>
-        <item quantity="one">For one minute (until %2$s)</item>
-        <item quantity="few">For %1$d minutes (until %2$s)</item>
-        <item quantity="many">For %1$d minutes (until %2$s)</item>
+        <item quantity="other">На %1$d хвілін (да %2$s)</item>
+        <item quantity="one">На 1 хвіліну (да %2$s)</item>
+        <item quantity="few">На %1$d хвіліны (да %2$s)</item>
+        <item quantity="many">На %1$d хвілін (да %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary_short">
-        <item quantity="other">For %1$d min (until %2$s)</item>
-        <item quantity="one">For 1 min (until %2$s)</item>
-        <item quantity="few">For %1$d min (until %2$s)</item>
-        <item quantity="many">For %1$d min (until %2$s)</item>
+        <item quantity="other">На %1$d хвілін (да %2$s)</item>
+        <item quantity="one">На 1 хвіліну (да %2$s)</item>
+        <item quantity="few">На %1$d хвіліны (да %2$s)</item>
+        <item quantity="many">На %1$d хвілін (да %2$s)</item>
     </plurals>
 </resources>
