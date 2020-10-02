@@ -229,7 +229,7 @@
   <string name="activating">Актывацыя…</string>
   <string name="active_device_admin_msg">Праграма адміністратара прылады</string>
   <string name="active_input_method_subtypes">Актыўныя спосабы ўводу</string>
-  <string name="activity_list_empty">No matching activities found.</string>
+  <string name="activity_list_empty">Адпаведных працэсаў не знойдзена.</string>
   <string name="activity_not_found">Праграма не ўсталяваная на вашым тэлефоне.</string>
   <string name="activity_picker_label">Абраць дзеянне</string>
   <string name="activity_title_power_manager">Эканомія энергіі;Эканомія зараду</string>
