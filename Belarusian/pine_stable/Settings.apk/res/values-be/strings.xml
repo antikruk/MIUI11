@@ -741,11 +741,11 @@
   <string name="battery_manager_off">Выключана</string>
   <string name="battery_manager_on">Уключэнне / выяўленне праграм, якія разраджаюць батарэю</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
-  <string name="battery_msg_unaccounted">Значэнне выкарыстання энергіі з\'яўляецца прыблізным і не ўключае ў сябе ўсе крыніцы выкарыстання энергіі. Іншае – гэта розніца паміж вылічаным прыблізным значэннем выкарыстання энергіі і фактычным выкарыстаннем.</string>
+  <string name="battery_msg_unaccounted">Значэнне выкарыстання энергіі прыблізнае, яно не ўключае аналіз выкарыстання ўсіх крыніц энергіі. Іншае – гэта розніца паміж вылічаным прыблізным значэннем выкарыстання энергіі і фактычным выкарыстаннем.</string>
   <string name="battery_overall_usage">%1$s ад усяго зараду</string>
-  <string name="battery_percentage">Працэнт зараду акумулятара</string>
-  <string name="battery_percentage_description">Паказваць працэнт зараду акумулятара на панэлі стану</string>
-  <string name="battery_power_management">Кіраванне энергаспажываннем</string>
+  <string name="battery_percentage">Адсотак зараду батарэі</string>
+  <string name="battery_percentage_description">Паказваць адсотак зараду батарэі на панэлі стану</string>
+  <string name="battery_power_management">Кіраванне сілкаваннем</string>
   <string name="battery_saver">Эканомія зараду</string>
   <string name="battery_saver_auto_title">Уключаць аўтаматычна</string>
   <string name="battery_saver_button_turn_off">Выключыць</string>
