@@ -45,8 +45,8 @@
   <string name="HIPS_Perm_Settings_Desc">змена сістэмных налад</string>
   <string name="HIPS_Perm_SystemAlert">Адлюстраванне выплыўных акон</string>
   <string name="HIPS_Perm_SystemAlert_Desc">адлюстраванне выплыўных акон</string>
-  <string name="HIPS_Perm_UDevice_ID">Вы згодныя дзяліцца некаторымі звесткамі пра прыладу з распрацоўшчыкамі гульняў, каб дапамагчы ім?</string>
-  <string name="HIPS_Perm_UDevice_ID_DESC">вы згодныя падзяліцца некаторымі звесткамі пра прыладу з распрацоўшчыкамі гульняў, каб дапамагчы ім?</string>
+  <string name="HIPS_Perm_UDevice_ID">Вы згодныя дзяліцца некаторымі звесткамі пра прыладу з распрацоўнікамі гульняў, каб дапамагчы ім?</string>
+  <string name="HIPS_Perm_UDevice_ID_DESC">вы згодныя падзяліцца некаторымі звесткамі пра прыладу з распрацоўнікамі гульняў, каб дапамагчы ім?</string>
   <string name="HIPS_Perm_VideoRecorder">Доступ да камеры</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">доступ да камеры для запісу фота і відэа</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Змена злучэння Wi-Fi</string>
