@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="comment_detail_title">
-        <item quantity="other">%d replies</item>
-        <item quantity="one">%d reply</item>
-        <item quantity="few">%d replies</item>
-        <item quantity="many">%d replies</item>
+        <item quantity="other">%d адказаў</item>
+        <item quantity="one">%d адказ</item>
+        <item quantity="few">%d адказы</item>
+        <item quantity="many">%d адказаў</item>
     </plurals>
     <plurals name="comment_hour_ago">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">%d hour ago</item>
-        <item quantity="few">%d hours ago</item>
-        <item quantity="many">%d hours ago</item>
+        <item quantity="other">%d гадзін таму</item>
+        <item quantity="one">%d гадзіну таму</item>
+        <item quantity="few">%d гадзіны таму</item>
+        <item quantity="many">%d гадзін таму</item>
     </plurals>
     <plurals name="comment_look_all">
-        <item quantity="other">View %d comments</item>
-        <item quantity="one">View %d comment</item>
-        <item quantity="few">View %d comments</item>
-        <item quantity="many">View %d comments</item>
+        <item quantity="other">Праглядзець %d каментароў</item>
+        <item quantity="one">Праглядзець %d каментар</item>
+        <item quantity="few">Праглядзець %d каментары</item>
+        <item quantity="many">Праглядзець %d каментароў</item>
     </plurals>
     <plurals name="comment_minute_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">%d minute ago</item>
-        <item quantity="few">%d minutes ago</item>
-        <item quantity="many">%d minutes ago</item>
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">%d хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="comment_selected">
-        <item quantity="other">Selected %d reasons</item>
-        <item quantity="one">Selected %d reason</item>
-        <item quantity="few">Selected %d reasons</item>
-        <item quantity="many">Selected %d reasons</item>
+        <item quantity="other">Абрана %d прычын</item>
+        <item quantity="one">Абраная %d прычына</item>
+        <item quantity="few">Абрана %d прычыны</item>
+        <item quantity="many">Абрана %d прычын</item>
     </plurals>
     <plurals name="hot_word_hot_count">
-        <item quantity="other">%d views</item>
-        <item quantity="one">%d view</item>
-        <item quantity="few">%d views</item>
-        <item quantity="many">%d views</item>
+        <item quantity="other">%d праглядаў</item>
+        <item quantity="one">%d прагляд</item>
+        <item quantity="few">%d прагляды</item>
+        <item quantity="many">%d праглядаў</item>
     </plurals>
     <plurals name="info_flow_tips">
-        <item quantity="other">Found %d new items for you</item>
-        <item quantity="one">Found %d new item for you</item>
-        <item quantity="few">Found %d new items for you</item>
-        <item quantity="many">Found %d new items for you</item>
+        <item quantity="other">Знойдзена %d новых аб\'ектаў</item>
+        <item quantity="one">Знойдзены %d новы аб\'ект</item>
+        <item quantity="few">Знойдзена %d новыя аб\'екты</item>
+        <item quantity="many">Знойдзена %d новых аб\'ектаў</item>
     </plurals>
     <plurals name="mw_last_num_days">
-        <item quantity="one">Папярэдні %d дзень</item>
-        <item quantity="few">Папярэднія %d дня</item>
-        <item quantity="many">Папярэднія %d дзен</item>
-        <item quantity="other">Папярэднія %d дзен</item>
+        <item quantity="one">%d папярэдні дзень</item>
+        <item quantity="few">%d папярэднія дні</item>
+        <item quantity="many">%d папярэдніх дзён</item>
+        <item quantity="other">%d папярэдніх дзён</item>
     </plurals>
     <plurals name="mw_matches_found">
-        <item quantity="other">%1$d of %2$d</item>
+        <item quantity="other">%1$d з %2$d</item>
         <item quantity="one">1 супадзенне</item>
-        <item quantity="few">%1$d of %2$d</item>
-        <item quantity="many">%1$d of %2$d</item>
+        <item quantity="few">%1$d з %2$d</item>
+        <item quantity="many">%1$d з %2$d</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
-        <item quantity="other">Праз %d секунды будзе аўтаматычна створана новая старонка</item>
-        <item quantity="one">Праз %d секунду будзе аўтаматычна створана новая старонка</item>
-        <item quantity="few">Праз %d секунды будзе аўтаматычна створана новая старонка</item>
-        <item quantity="many">Праз %d секунд будзе аўтаматычна створана новая старонка</item>
+        <item quantity="other">Праз %d секунды будзе аўтаматычна створаная новая старонка</item>
+        <item quantity="one">Праз %d секунду будзе аўтаматычна створаная новая старонка</item>
+        <item quantity="few">Праз %d секунды будзе аўтаматычна створаная новая старонка</item>
+        <item quantity="many">Праз %d секунд будзе аўтаматычна створаная новая старонка</item>
     </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Прайграць відэа праз %1$d секунд</item>
@@ -67,10 +67,10 @@
         <item quantity="many">Прайграць відэа праз %1$d секунд</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">Выбрана: %1$d</item>
-        <item quantity="one">Выбрана: %1$d</item>
-        <item quantity="few">Выбрана: %1$d</item>
-        <item quantity="many">Выбрана: %1$d</item>
+        <item quantity="other">Абрана: %1$d</item>
+        <item quantity="one">Абрана: %1$d</item>
+        <item quantity="few">Абрана: %1$d</item>
+        <item quantity="many">Абрана: %1$d</item>
     </plurals>
     <plurals name="video_download_clear_info">
         <item quantity="other">Выдалена %1$d відэа.</item>
@@ -87,7 +87,7 @@
     <plurals name="video_history_clear_info">
         <item quantity="other">%1$d аб\'екта выдалена з гісторыі.</item>
         <item quantity="one">%1$d аб\'ект выдалены з гісторыі.</item>
-        <item quantity="few">%1$d аб\'екты выдалены з гісторыі.</item>
+        <item quantity="few">%1$d аб\'екты выдаленыя з гісторыі.</item>
         <item quantity="many">%1$d аб\'ектаў выдалена з гісторыі.</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
@@ -97,14 +97,14 @@
         <item quantity="many">Выдаліць %1$d аб\'ектаў з гісторыі?</item>
     </plurals>
     <plurals name="video_playback_error">
-        <item quantity="other">"Couldn't load video.
-Will play the next one in %d seconds…"</item>
-        <item quantity="one">"Couldn't load video.
-Will play the next one in %d second…"</item>
-        <item quantity="few">"Couldn't load video.
-Will play the next one in %d seconds…"</item>
-        <item quantity="many">"Couldn't load video.
-Will play the next one in %d seconds…"</item>
+        <item quantity="other">"Не атрымалася загрузіць відэа.
+Наступнае прайграецца праз %d секунд…"</item>
+        <item quantity="one">"Не атрымалася загрузіць відэа.
+Наступнае прайграецца праз %d секунду…"</item>
+        <item quantity="few">"Не атрымалася загрузіць відэа.
+Наступнае прайграецца праз %d секунды…"</item>
+        <item quantity="many">"Не атрымалася загрузіць відэа.
+Наступнае прайграецца праз %d секунд…"</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">Засталося %d хвіліны</item>
@@ -113,51 +113,51 @@ Will play the next one in %d seconds…"</item>
         <item quantity="many">Засталося %d хвілін</item>
     </plurals>
     <plurals name="vo_comment">
-        <item quantity="other">%s comments</item>
-        <item quantity="one">%s comment</item>
-        <item quantity="few">%s comments</item>
-        <item quantity="many">%s comments</item>
+        <item quantity="other">%s каментароў</item>
+        <item quantity="one">%s каментар</item>
+        <item quantity="few">%s каментары</item>
+        <item quantity="many">%s каментароў</item>
     </plurals>
     <plurals name="vo_image_mark">
-        <item quantity="other">%d images</item>
-        <item quantity="one">%d image</item>
-        <item quantity="few">%d images</item>
-        <item quantity="many">%d images</item>
+        <item quantity="other">%d выяў</item>
+        <item quantity="one">%d выява</item>
+        <item quantity="few">%d выявы</item>
+        <item quantity="many">%d выяў</item>
     </plurals>
     <plurals name="vo_short_video_play_count">
-        <item quantity="other">%s views</item>
-        <item quantity="one">%s view</item>
-        <item quantity="few">%s views</item>
-        <item quantity="many">%s views</item>
+        <item quantity="other">%s праглядаў</item>
+        <item quantity="one">%s прагляд</item>
+        <item quantity="few">%s прагляды</item>
+        <item quantity="many">%s праглядаў</item>
     </plurals>
     <plurals name="vo_source_comment">
-        <item quantity="other">%1$s | %2$s comments</item>
-        <item quantity="one">%1$s | %2$s comment</item>
-        <item quantity="few">%1$s | %2$s comments</item>
-        <item quantity="many">%1$s | %2$s comments</item>
+        <item quantity="other">%1$s | %2$s каментароў</item>
+        <item quantity="one">%1$s | %2$s каментар</item>
+        <item quantity="few">%1$s | %2$s каментары</item>
+        <item quantity="many">%1$s | %2$s каментароў</item>
     </plurals>
     <plurals name="vo_vote_num">
-        <item quantity="other">%d people have already voted</item>
-        <item quantity="one">%d person has already voted</item>
-        <item quantity="few">%d people have already voted</item>
-        <item quantity="many">%d people have already voted</item>
+        <item quantity="other">%d чалавек ужо прагаласавала</item>
+        <item quantity="one">%d чалавек ужо прагаласаваў</item>
+        <item quantity="few">%d чалавекі ўжо прагаласавала</item>
+        <item quantity="many">%d чалавек ужо прагаласавала</item>
     </plurals>
     <plurals name="vo_wei_bo_publish_time_hour">
-        <item quantity="other">· %s hrs ago</item>
-        <item quantity="one">· %s hr ago</item>
-        <item quantity="few">· %s hrs ago</item>
-        <item quantity="many">· %s hrs ago</item>
+        <item quantity="other">· %s гадзін таму</item>
+        <item quantity="one">· %s гадзіну таму</item>
+        <item quantity="few">· %s гадзіны таму</item>
+        <item quantity="many">· %s гадзін таму</item>
     </plurals>
     <plurals name="vo_wei_bo_publish_time_minute">
-        <item quantity="other">· %s mins ago</item>
-        <item quantity="one">· %s min ago</item>
-        <item quantity="few">· %s mins ago</item>
-        <item quantity="many">· %s mins ago</item>
+        <item quantity="other">· %s хвілін таму</item>
+        <item quantity="one">· %s хвіліну таму</item>
+        <item quantity="few">· %s хвіліны таму</item>
+        <item quantity="many">· %s хвілін таму</item>
     </plurals>
     <plurals name="vo_zhi_hu_answer">
-        <item quantity="other">%d answers on Zhihu</item>
-        <item quantity="one">%d answer on Zhihu</item>
-        <item quantity="few">%d answers on Zhihu</item>
-        <item quantity="many">%d answers on Zhihu</item>
+        <item quantity="other">%d адказаў ад Zhihu</item>
+        <item quantity="one">%d адказ ад Zhihu</item>
+        <item quantity="few">%d адказы ад Zhihu</item>
+        <item quantity="many">%d адказаў ад Zhihu</item>
     </plurals>
 </resources>
