@@ -1927,14 +1927,14 @@
   <string name="devices_title">Прылады</string>
   <string name="dial_application_title">Набор</string>
   <string name="dial_pad_tones_title">Гукі панэлі набору</string>
-  <string name="dialog_background_check_message">"Ваш тэлефон не можа карэктна кіраваць батарэяй, бо %1$s пастаянна выводзіць яго з рэжыму сну.
+  <string name="dialog_background_check_message">"Ваш тэлефон не можа карэктна кіраваць батарэяй, бо %1$s выводзіць яго з рэжыму сну.
 
 Каб вырашыць гэтую праблему, вы можаце паспрабаваць спыніць праграму %1$s, каб яна не працавала ў фонавым рэжыме."</string>
   <string name="dialog_background_check_ok">Адключыць</string>
   <string name="dialog_background_check_title">Адключыць працу ў фонавым рэжыме і спыніць праграму?</string>
   <string name="dialog_chose_item">Абярыце аб\'ект для паказу</string>
   <string name="dialog_content_login">Увайсці ў акаўнт Mi для абнаўлення?</string>
-  <string name="dialog_location_message">"Ваш тэлефон не можа карэктна кіраваць батарэяй, бо %1$s пастаянна запытвае звесткі пра ваша месцазнаходжанне, калі вы не карыстаецеся праграмай.
+  <string name="dialog_location_message">"Ваш тэлефон не можа карэктна кіраваць батарэяй, бо %1$s запытвае звесткі пра ваша месцазнаходжанне, калі вы не карыстаецеся праграмай.
 
 Каб вырашыць гэтую праблему, можна адключыць функцыю вызначэння месцазнаходжання для гэтай праграмы."</string>
   <string name="dialog_location_ok">Адключыць</string>
@@ -1951,7 +1951,7 @@
 Каб вырашыць гэту праблему, патрэбна прымусова спыніць праграму.
 
 Калі гэта не дапамагло, трэба выдаліць праграму, каб павысіць прадукцыйнасць акумулятара."</string>
-  <string name="dialog_stop_message_wakeup_alarm">"Ваш тэлефон не можа карэктна кіраваць батарэяй, бо %1$s пастаянна выводзіць яго з рэжыму сну.
+  <string name="dialog_stop_message_wakeup_alarm">"Ваш тэлефон не можа карэктна кіраваць батарэяй, бо %1$s выводзіць яго з рэжыму сну.
 
 Каб вырашыць гэтую праблему, вы можаце паспрабаваць спыніць праграму %1$s.
 
@@ -2126,102 +2126,102 @@
   <string name="dump_log_title">Пра гэтую функцыю</string>
   <string name="eab_provisioned_switch_string">EAB/Presence уключана</string>
   <string name="edge_mode_back">Вярнуцца</string>
-  <string name="edge_mode_back_summary">Падвойны дотык на край тэлефона, каб вярнуцца назад</string>
+  <string name="edge_mode_back_summary">Двойчы націсніце на край тэлефона, каб вярнуцца назад</string>
   <string name="edge_mode_clean">Ачысціць сістэмны кэш</string>
   <string name="edge_mode_clean_summary">Працягніце адначасова па абодвух краях, каб ачысціць сістэмны кэш</string>
-  <string name="edge_mode_guide_title">Дакраніцеся да вылучанай зоны, каб кіраваць з дапамогай краю экрана</string>
+  <string name="edge_mode_guide_title">Дакраніцеся да вылучанай зоны, каб выкарыстаць элементы кіравання краю экрана</string>
   <string name="edge_mode_notification_summary">Націсніце, каб даведацца больш.</string>
   <string name="edge_mode_notification_title">Выкарыстоўваць элементы кіравання краю экрана</string>
-  <string name="edge_mode_photo">Зрабіць фота</string>
-  <string name="edge_mode_photo_summary">У праграме Камера націсніце край тэлефона для факусіроўкі. Націсніце яшчэ раз, каб зрабіць фота</string>
-  <string name="edge_mode_screenshot">Скрыншот</string>
-  <string name="edge_mode_screenshot_summary">Падвойны дотык да абодвух краёў, каб зрабіць здымак экрана</string>
-  <string name="edit_rule">Змяніць правілы</string>
-  <string name="edit_rules">Змяніць</string>
+  <string name="edge_mode_photo">Фатаграфаванне</string>
+  <string name="edge_mode_photo_summary">У праграме камеры націсніце на край тэлефона, каб сфакусавацца. Націсніце яшчэ раз, каб зрабіць фота</string>
+  <string name="edge_mode_screenshot">Здымак экрана</string>
+  <string name="edge_mode_screenshot_summary">Двойчы націсніце на абодва краі экрана, каб зрабіць здымак экрана</string>
+  <string name="edit_rule">Рэдагаваць правілы</string>
+  <string name="edit_rules">Рэдагаваць</string>
   <string name="eighthours">8 гадзін</string>
-  <string name="emergency_address_summary">Выкарыстоўваецца як ваша месцазнаходжанне, калі вы робіце экстранны выклік праз Wi‑Fi</string>
-  <string name="emergency_address_title">Экстранны адрас</string>
+  <string name="emergency_address_summary">Выкарыстоўваецца як ваша месцазнаходжанне, калі вы робіце экстранны выклік па Wi‑Fi</string>
+  <string name="emergency_address_title">Адрас для экстраных сітуацый</string>
   <string name="emergency_info_summary">Інфармацыя і кантакты карыстальніка %1$s</string>
-  <string name="emergency_info_title">Даныя для экстранных сітуацый</string>
+  <string name="emergency_info_title">Звесткі для экстранных сітуацый</string>
   <string name="emergency_sos_title">Экстраны SOS</string>
   <string name="emergency_tone_alert">Танальныя сігналы</string>
   <string name="emergency_tone_silent">Без гуку</string>
-  <string name="emergency_tone_summary">Задаць паводзіны на выпадак экстранага выкліку</string>
+  <string name="emergency_tone_summary">Вызначыць паводзіны на выпадак экстранага выкліку</string>
   <string name="emergency_tone_title">Сігнал набору нумару ў аварыйнай сітуацыі</string>
   <string name="emergency_tone_vibrate">Вібрацыя</string>
   <string name="empty_list_msg">You don’t have any third-party apps installed.</string>
   <string name="empty_title">" "</string>
   <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">Адладка па USB</string>
-  <string name="enable_adb_summary">Уключыць рэжым адладкі пры падключэнні да камп\'ютара па USB</string>
-  <string name="enable_compatibility">Шкала прыкладання</string>
-  <string name="enable_freeform_support">Дазволіць стварэнне акон вольнай формы</string>
-  <string name="enable_freeform_support_summary">Уключыць падтрымку для акон вольнай формы.</string>
+  <string name="enable_adb_summary">Уключыць рэжым адладкі пры падлучэнні да камп\'ютара па USB</string>
+  <string name="enable_compatibility">Шкала праграмы</string>
+  <string name="enable_freeform_support">Дазволіць стварэнне акон адвольнай формы</string>
+  <string name="enable_freeform_support_summary">Уключыць падтрымку для акон адвольнай формы.</string>
   <string name="enable_gnss_raw_meas_full_tracking">Прымусова правесці поўныя вымярэнні GNSS</string>
-  <string name="enable_gnss_raw_meas_full_tracking_summary">Адсочваць усе групы і частоты GNSS з выключаным працоўным цыклам</string>
-  <string name="enable_gpu_debug_layers">Уключыць слаі адладкі GPU</string>
-  <string name="enable_gpu_debug_layers_summary">Дазволіць спампаванне слаёў адладкі для адладніка</string>
+  <string name="enable_gnss_raw_meas_full_tracking_summary">Адсочваць усе групы і чашчыні GNSS з адключаным працоўным цыклам</string>
+  <string name="enable_gpu_debug_layers">Уключыць макет адладкі GPU</string>
+  <string name="enable_gpu_debug_layers_summary">Дазволіць загрузку макета адладкі для праграм адладкі</string>
   <string name="enable_mobile_data_when_opening_hotspot">Уключыць мабільны інтэрнэт?</string>
-  <string name="enable_opengl_traces_title">Уключыць OpenGL адсочванне</string>
-  <string name="enable_quick_setting">Паказваць у Хуткіх наладах</string>
-  <string name="enable_screen_projection_summary">Трансляваць выяву на экране на знешні манітор</string>
-  <string name="enable_service_encryption_warning">Калі вы ўключыце %1$s, прылада не будзе выкарыстоўваць блакіроўку экрана для паляпшэння шыфравання даных.</string>
-  <string name="enable_service_password_reason">Уключэнне %1$s уплывае на шыфраванне даных, таму вы павінны пацвердзіць свой пароль.</string>
-  <string name="enable_service_pattern_reason">Уключэнне %1$s уплывае на шыфраванне даных, таму вы павінны пацвердзіць свой графічны ключ.</string>
-  <string name="enable_service_pin_reason">Уключэнне %1$s уплывае на шыфраванне даных, таму вы павінны пацвердзіць свой PIN-код.</string>
-  <string name="enable_service_title">Сэрвіс будзе выконваць наступныя дзеянні:</string>
-  <string name="enable_snapshot_screenlock">Доўгае націсканне на кнопку Назад будзе рабіць фота</string>
+  <string name="enable_opengl_traces_title">Уключыць адсочванне OpenGL</string>
+  <string name="enable_quick_setting">Паказваць у хуткіх наладах</string>
+  <string name="enable_screen_projection_summary">Перадача выявы экрана на вонкавы манітор</string>
+  <string name="enable_service_encryption_warning">Калі вы ўключыце %1$s, прылада не будзе выкарыстоўваць блакаванне экрана для паляпшэння шыфравання даных.</string>
+  <string name="enable_service_password_reason">Уключэнне %1$s уплывае на шыфраванне даных, таму вам неабходна пацвердзіць свой пароль.</string>
+  <string name="enable_service_pattern_reason">Уключэнне %1$s уплывае на шыфраванне даных, таму вам неабходна пацвердзіць свой графічны ключ.</string>
+  <string name="enable_service_pin_reason">Уключэнне %1$s уплывае на шыфраванне даных, таму вам неабходна пацвердзіць свой PIN-код.</string>
+  <string name="enable_service_title">Служба будзе выконваць наступныя дзеянні:</string>
+  <string name="enable_snapshot_screenlock">Працягла націсніце на кнопку \"Назад\", каб сфатаграфаваць</string>
   <string name="enable_tcp_rtt_support">Display TCP RTT</string>
   <string name="enable_tcp_rtt_support_summary">Evaluate the performance of network communication quality</string>
-  <string name="enable_terminal_summary">Уключыць праграму тэрмінала, якая будзе прапаноўвае доступ да лакальнай абалонкі</string>
+  <string name="enable_terminal_summary">Уключыць праграму тэрмінала, якая будзе прапаноўваць доступ да лакальнай абалонкі</string>
   <string name="enable_terminal_title">Лакальны тэрмінал</string>
-  <string name="enable_text">Уключанае</string>
-  <string name="enable_wifi_display">Бесправадны дысплэй</string>
-  <string name="enabled_authorised_apps_summary">Дазвол будзе адкліканы пасля ўключэння перамыкачоў асобных праграм.</string>
-  <string name="enabled_authorised_apps_title">Дазвол прадастаўлены</string>
+  <string name="enable_text">Уключана</string>
+  <string name="enable_wifi_display">Бесправадны дысплей</string>
+  <string name="enabled_authorised_apps_summary">Дазвол будзе адкліканы пасля таго, як вы націснеце на пераключальнікі асобных праграм.</string>
+  <string name="enabled_authorised_apps_title">Дазвол дадзены</string>
   <string name="enabled_by_admin">Уключана адміністратарам</string>
   <string name="enalbe_identify_iPhone">Ідэнтыфікацыя прылады</string>
-  <string name="encrypt_talkback_dialog_message_password">Калі вы ўводзіце свой пароль для загрузкі прылады, службы доступу, такія як %1$s, яшчэ не будуць даступнымі.</string>
-  <string name="encrypt_talkback_dialog_message_pattern">Калі вы ўводзіце свой графічны ключ для загрузкі прылады, службы доступу, такія як %1$s, яшчэ не будуць даступнымі.</string>
-  <string name="encrypt_talkback_dialog_message_pin">Калі вы ўводзіце свой PIN-код для загрузкі прылады, службы доступу, такія як %1$s, яшчэ не будуць даступнымі.</string>
-  <string name="encrypt_talkback_dialog_require_password">Запытваць пароль?</string>
-  <string name="encrypt_talkback_dialog_require_pattern">Патрабаваць узор?</string>
-  <string name="encrypt_talkback_dialog_require_pin">Запытваць PIN-код?</string>
+  <string name="encrypt_talkback_dialog_message_password">Калі вы ўводзіце свой пароль для запуску прылады, службы кшталту %1$s яшчэ недаступныя.</string>
+  <string name="encrypt_talkback_dialog_message_pattern">Калі вы малюеце свой графічны ключ для запуску прылады, службы кшталту %1$s, яшчэ недаступныя.</string>
+  <string name="encrypt_talkback_dialog_message_pin">Калі вы ўводзіце свой PIN-код для запускк прылады, службы кшталту %1$s, яшчэ недаступныя.</string>
+  <string name="encrypt_talkback_dialog_require_password">Патрабаваць пароль?</string>
+  <string name="encrypt_talkback_dialog_require_pattern">Патрабаваць графічны ключ?</string>
+  <string name="encrypt_talkback_dialog_require_pin">Патрабаваць PIN-код?</string>
   <string name="encryption_and_credential_settings_summary">Тэлефон зашыфраваны</string>
   <string name="encryption_and_credential_settings_title">Шыфраванне і ўліковыя даныя</string>
-  <string name="encryption_continue_button">Далей</string>
+  <string name="encryption_continue_button">Працягнуць</string>
   <string name="encryption_interstitial_header">Бяспечны запуск</string>
-  <string name="encryption_interstitial_message_password">"Вы можаце абараніць сваю прыладу яшчэ надзейней, наладзіўшы функцыю патрабавання пароля пры запуску. Пакуль прылада не запушчана, на ёй нельга прымаць выклікі, паведамленні або апавяшчэнні, а таксама не працуе функцыя будзільніка. 
+  <string name="encryption_interstitial_message_password">"Вы можаце дадаткова абараніць сваю прыладу, калі ўключыце функцыю патрабавання пароля падчас запуску. Пакуль прылада не запусціцца, яна не можа прымаць выклікі, паведамленні, і апавяшчэнні, уключаючы будзільнік. 
 
-Гэта дапамагае абараніць даныя на страчаных або ўкрадзеных прыладах. Запытваць пароль для запуску вашай прылады?"</string>
-  <string name="encryption_interstitial_message_password_for_fingerprint">"У дадатак да выкарыстання адбітка пальца для разблакіроўкі прылады, вы можаце абараніць прыладу, наладзіўшы функцыю патрабавання пароля пры запуску. Пакуль прылада не запушчана, на ёй нельга прымаць выклікі, паведамленні або апавяшчэнні, а таксама не працуе функцыя будзільніка.
+Гэта дапаможа абараніць даныя на згубленых або скрадзеных прыладах. Патрабаваць пароль для запуску вашай прылады?"</string>
+  <string name="encryption_interstitial_message_password_for_fingerprint">"У дадатак да выкарыстання адбітка пальца вы можаце дадаткова абараніць сваю прыладу, калі ўключыце функцыю патрабавання пароля падчас запуску. Пакуль прылада не запусціцца, яна не можа прымаць выклікі, паведамленні, і апавяшчэнні, уключаючы будзільнік. 
 
-Гэта дапамагае абараніць даныя на страчаных або ўкрадзеных прыладах. Запытваць пароль для запуску вашай прылады?"</string>
-  <string name="encryption_interstitial_message_pattern">"Вы можаце абараніць сваю прыладу яшчэ надзейней, наладзіўшы функцыю патрабавання ўзору пры запуску. Пакуль прылада не запушчана, на ёй нельга прымаць выклікі, паведамленні або апавяшчэнні, а таксама не працуе функцыя будзільніка. 
+Гэта дапаможа абараніць даныя на згубленых або скрадзеных прыладах. Патрабаваць пароль для запуску вашай прылады?"</string>
+  <string name="encryption_interstitial_message_pattern">"Вы можаце дадаткова абараніць сваю прыладу, калі ўключыце функцыю патрабавання графічнага ключа падчас запуску. Пакуль прылада не запусціцца, яна не можа прымаць выклікі, паведамленні, і апавяшчэнні, уключаючы будзільнік. 
 
-Гэта дапамагае абараніць даныя на страчаных або ўкрадзеных прыладах. Запытваць узор для запуску вашай прылады?"</string>
-  <string name="encryption_interstitial_message_pattern_for_fingerprint">"У дадатак да выкарыстання адбітка пальца для разблакіроўкі прылады, вы можаце абараніць прыладу, наладзіўшы функцыю патрабавання ўзору пры запуску. Пакуль прылада не запушчана, на ёй нельга прымаць выклікі, паведамленні або апавяшчэнні, а таксама не працуе функцыя будзільніка.
+Гэта дапаможа абараніць даныя на згубленых або скрадзеных прыладах. Патрабаваць графічны ключ для запуску вашай прылады?"</string>
+  <string name="encryption_interstitial_message_pattern_for_fingerprint">"У дадатак да выкарыстання адбітка пальца вы можаце дадаткова абараніць сваю прыладу, калі ўключыце функцыю патрабавання графічнага ключа падчас запуску. Пакуль прылада не запусціцца, яна не можа прымаць выклікі, паведамленні, і апавяшчэнні, уключаючы будзільнік. 
 
-Гэта дапамагае абараніць даныя на страчаных або ўкрадзеных прыладах. Запытваць узор для запуску вашай прылады?"</string>
-  <string name="encryption_interstitial_message_pin">"Вы можаце абараніць сваю прыладу яшчэ надзейней, наладзіўшы функцыю патрабавання PIN-кода пры запуску. Пакуль прылада не запушчана, на ёй нельга прымаць выклікі, паведамленні або апавяшчэнні, а таксама не працуе функцыя будзільніка. 
+Гэта дапаможа абараніць даныя на згубленых або скрадзеных прыладах. Патрабаваць графічны ключ для запуску вашай прылады?"</string>
+  <string name="encryption_interstitial_message_pin">"Вы можаце дадаткова абараніць сваю прыладу, калі ўключыце функцыю патрабавання PIN-кода падчас запуску. Пакуль прылада не запусціцца, яна не можа прымаць выклікі, паведамленні, і апавяшчэнні, уключаючы будзільнік. 
 
-Гэта дапамагае абараніць даныя на страчаных або ўкрадзеных прыладах. Запытваць PIN-код для запуску вашай прылады?"</string>
-  <string name="encryption_interstitial_message_pin_for_fingerprint">"У дадатак да выкарыстання адбітка пальца для разблакіроўкі прылады, вы можаце абараніць прыладу, наладзіўшы функцыю патрабавання PIN-кода пры запуску. Пакуль прылада не запушчана, на ёй нельга прымаць выклікі, паведамленні або апавяшчэнні, а таксама не працуе функцыя будзільніка.
+Гэта дапаможа абараніць даныя на згубленых або скрадзеных прыладах. Патрабаваць PIN-код для запуску вашай прылады?"</string>
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"У дадатак да выкарыстання адбітка пальца вы можаце дадаткова абараніць сваю прыладу, калі ўключыце функцыю патрабавання PIN-кода падчас запуску. Пакуль прылада не запусціцца, яна не можа прымаць выклікі, паведамленні, і апавяшчэнні, уключаючы будзільнік. 
 
-Гэта дапамагае абараніць даныя на страчаных або ўкрадзеных прыладах. Запытваць PIN-код для запуску вашай прылады?"</string>
+Гэта дапаможа абараніць даныя на згубленых або скрадзеных прыладах. Патрабаваць PIN-код для запуску вашай прылады?"</string>
   <string name="encryption_interstitial_no">Не</string>
   <string name="encryption_interstitial_yes">Так</string>
-  <string name="encryption_progress_summary">"Шыфраванне. Не перазагружайце прыладу."</string>
-  <string name="enhanced_4g_lte_mode_summary">Карыстайцеся стандартам LTE, каб палепшыць якасць галасавога і іншых тыпаў сувязі (рэкамендуецца)</string>
-  <string name="enhanced_4g_lte_mode_title">VoLTE</string>
-  <string name="enter_password">Каб запусціць Android, увядзіце пароль</string>
-  <string name="enter_pattern">Каб запусціць Android, увядзіце графічны ключ</string>
-  <string name="enter_pin">Каб запусціць Android, увядзіце PIN-код</string>
-  <string name="enterprise_mode">Рэжым прадпрыемства</string>
-  <string name="enterprise_privacy_always_on_vpn_device">Заўсёды ўключаны VPN уключаны</string>
-  <string name="enterprise_privacy_always_on_vpn_personal">Заўсёды ўключаны VPN уключаны ў вашым асабістым профілі</string>
-  <string name="enterprise_privacy_always_on_vpn_work">Заўсёды ўключаны VPN уключаны ў вашым працоўным профілі</string>
-  <string name="enterprise_privacy_apps_count_estimation_info">Колькасць праграм – прыблізная. Сюды могуць не ўваходзіць праграмы, усталяваныя не з Крамы Play.</string>
+  <string name="encryption_progress_summary">"Выконваецца шыфраванне, не перазапускайце прыладу."</string>
+  <string name="enhanced_4g_lte_mode_summary">Выкарыстоўвайце стандарт LTE, каб палепшыць якасць галасавога і іншых тыпаў сувязі (рэкамендуецца)</string>
+  <string name="enhanced_4g_lte_mode_title">Enhanced 4G LTE Mode</string>
+  <string name="enter_password">Каб запусціць сістэму, увядзіце пароль</string>
+  <string name="enter_pattern">Каб запусціць сістэму, намалюйце графічны ключ</string>
+  <string name="enter_pin">Каб запусціць сістэму, увядзіце PIN-код</string>
+  <string name="enterprise_mode">Рэжым установы</string>
+  <string name="enterprise_privacy_always_on_vpn_device">Сталы VPN уключаны</string>
+  <string name="enterprise_privacy_always_on_vpn_personal">Сталы VPN уключаны ў вашым асабістым профілі</string>
+  <string name="enterprise_privacy_always_on_vpn_work">Сталы VPN уключаны ў вашым працоўным профілі</string>
+  <string name="enterprise_privacy_apps_count_estimation_info">Колькасць праграм прыблізная. Сюды могуць не ўваходзіць праграмы, усталяваныя не з Крамы Play.</string>
   <string name="enterprise_privacy_backups_enabled">"This device's data is being backed up"</string>
   <string name="enterprise_privacy_bug_reports">Апошняя справаздача пра памылку</string>
   <string name="enterprise_privacy_ca_certs_device">Давераныя ўліковыя даныя</string>
@@ -2229,30 +2229,30 @@
   <string name="enterprise_privacy_ca_certs_work">Давераныя ўліковыя даныя ў вашым працоўным профілі</string>
   <string name="enterprise_privacy_camera_access">Дазволы камеры</string>
   <string name="enterprise_privacy_device_access_category">Ваш доступ да гэтай прылады</string>
-  <string name="enterprise_privacy_enterprise_data">Даныя, звязаныя з вашым працоўным уліковым запісам, такія як электронная пошта і каляндар</string>
+  <string name="enterprise_privacy_enterprise_data">Даныя, звязаныя з вашым працоўным акаўнтам, такія як электронная пошта і каляндар</string>
   <string name="enterprise_privacy_enterprise_installed_packages">Усталяваныя праграмы</string>
-  <string name="enterprise_privacy_enterprise_set_default_apps">Стандартныя праграмы</string>
-  <string name="enterprise_privacy_exposure_category">Тыпы інфармацыі, якія можа бачыць ваша арганізацыя</string>
-  <string name="enterprise_privacy_exposure_changes_category">"Змяненні, зробленыя адміністратарам вашай арганізацыі"</string>
+  <string name="enterprise_privacy_enterprise_set_default_apps">Прадвызначаныя праграмы</string>
+  <string name="enterprise_privacy_exposure_category">Тыпы інфармацыі, якія можа бачыць ваша ўстанова</string>
+  <string name="enterprise_privacy_exposure_changes_category">"Змены, зробленыя адміністратарам вашай установы"</string>
   <string name="enterprise_privacy_failed_password_wipe_device">Няўдалыя спробы ўводу пароля перад выдаленнем усіх даных прылады</string>
   <string name="enterprise_privacy_failed_password_wipe_work">Няўдалыя спробы ўводу пароля перад выдаленнем даных працоўнага профілю</string>
-  <string name="enterprise_privacy_global_http_proxy">Глабальны HTTP-проксі зададзены</string>
-  <string name="enterprise_privacy_header">"Для забеспячэння доступу да вашых працоўных даных ваша арганізацыя можа змяніць налады і ўсталяваць пэўнае праграмнае забеспячэнне на вашу прыладу.
+  <string name="enterprise_privacy_global_http_proxy">Глабальны HTTP-проксі вызначаны</string>
+  <string name="enterprise_privacy_header">"Для забеспячэння доступу да вашых працоўных даных ваша ўстанова можа змяніць налады і ўсталяваць пэўнае праграмнае забеспячэнне на вашу прыладу.
 
-Для атрымання дадатковай інфармацыі звярніцеся да адміністратара сваёй арганізацыі."</string>
-  <string name="enterprise_privacy_input_method">Стандартная клавіятура</string>
-  <string name="enterprise_privacy_input_method_name">Усталявана на %s</string>
+Каб атрымаць дадатковыя звесткі, звярніцеся да адміністратара сваёй установы."</string>
+  <string name="enterprise_privacy_input_method">Прадвызначаная клавіятура</string>
+  <string name="enterprise_privacy_input_method_name">Вызначана на %s</string>
   <string name="enterprise_privacy_installed_packages">Спіс праграм на вашай прыладзе</string>
-  <string name="enterprise_privacy_location_access">Доступ да геаданых</string>
-  <string name="enterprise_privacy_lock_device">Адміністратар можа блакіраваць прыладу і скідваць пароль</string>
+  <string name="enterprise_privacy_location_access">Доступ да месцазнаходжання</string>
+  <string name="enterprise_privacy_lock_device">Адміністратар можа блакаваць прыладу і скідваць пароль</string>
   <string name="enterprise_privacy_microphone_access">Дазволы мікрафона</string>
   <string name="enterprise_privacy_network_logs">Самы апошні журнал сеткавага трафіка</string>
   <string name="enterprise_privacy_none">Няма</string>
   <string name="enterprise_privacy_security_logs">Апошні журнал бяспекі</string>
-  <string name="enterprise_privacy_settings">Інфармацыя пра прыладу пад кіраваннем</string>
-  <string name="enterprise_privacy_settings_summary_generic">Змяненні і налады знаходзяцца пад кіраваннем вашай арганізацыі</string>
-  <string name="enterprise_privacy_settings_summary_with_name">Змяненні і налады знаходзяцца пад кіраваннем %s</string>
-  <string name="enterprise_privacy_usage_stats">Час і трафік, патрачаныя ў кожнай праграме</string>
+  <string name="enterprise_privacy_settings">Інфармацыя пра кіраваную прыладу</string>
+  <string name="enterprise_privacy_settings_summary_generic">Змены і налады, якімі кіруе ваша ўстанова</string>
+  <string name="enterprise_privacy_settings_summary_with_name">Змены і налады знаходзяцца пад кіраваннем %s</string>
+  <string name="enterprise_privacy_usage_stats">Час і трафік кожнай праграме</string>
   <string name="enterprise_privacy_wipe_device">Адміністратар можа выдаляць усе даныя прылады</string>
   <string name="eq_auto">Custom</string>
   <string name="eq_blues">Blues</string>
@@ -2267,7 +2267,7 @@
   <string name="eq_hiphop">Hip Hop</string>
   <string name="eq_jazz">Jazz</string>
   <string name="eq_metal">Metal</string>
-  <string name="eq_ok">OK</string>
+  <string name="eq_ok">Добра</string>
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Create</string>
   <string name="eq_preset_format">User preset %d</string>
@@ -2282,30 +2282,30 @@
   <string name="erase_data">Выдаліць</string>
   <string name="erase_esim_storage">Erase eSIM</string>
   <string name="erase_esim_storage_description">Erase all eSIMs on the phone. This will not cancel your mobile service plan.</string>
-  <string name="erase_external_storage">Ачысціць USB-назапашвальнiк</string>
-  <string name="erase_external_storage_description">Выдаліць з унутранага USB-назапашвальнiка ўсе дадзеныя, напрыклад музыку i фатаграфіі</string>
-  <string name="erase_internal_storage">Ачысціць захаванае змесціва</string>
-  <string name="erase_internal_storage_description">Выдаліць музыку, фота, відэа і іншыя дадзеныя карыстальніка</string>
-  <string name="erase_optional">Неістотны</string>
+  <string name="erase_external_storage">Ачысціць SD-картку</string>
+  <string name="erase_external_storage_description">Выдаліць з SD-карткі ўсе даныя, напрыклад музыку i фота</string>
+  <string name="erase_internal_storage">Выдаліць захаванае змесціва</string>
+  <string name="erase_internal_storage_description">Выдаліць музыку, фота, відэа і іншыя даныя карыстальніка</string>
+  <string name="erase_optional">Неабавязкова</string>
   <string name="erase_personal_data">Усе файлы на тэлефоне</string>
-  <string name="erase_personal_data_description">Усе файлы і дадзеныя, уключаючы акаўнты, кантакты, фота ды праграмы</string>
-  <string name="erase_sd_data">Фарматаванне SD-карты</string>
-  <string name="erase_sd_data_description">Фарматаванне выдаліць усе дадзеныя на SD-карце</string>
+  <string name="erase_personal_data_description">Усе файлы і даныя, уключаючы акаўнты, кантакты, фота і праграмы</string>
+  <string name="erase_sd_data">Фарматаванне SD-карткі</string>
+  <string name="erase_sd_data_description">Фарматаванне выдаліць усе даныя на SD-картцы</string>
   <string name="erase_sure">Абавязкова</string>
   <string name="error_adding_apn_type">Аператар не дазваляе дадаваць APN тыпу %s.</string>
   <string name="error_apn_empty">Значэнне APN не можа быць пустым.</string>
   <string name="error_mcc_not3">У полі MCC павінна быць 3 сімвалы.</string>
-  <string name="error_mnc_not23">У полі MCC павінна быць 2 ці 3 сімвала.</string>
-  <string name="error_name_empty">Поле «Імя» не можа быць пустым.</string>
+  <string name="error_mnc_not23">У полі MCC павінна быць 2 ці 3 сімвалы.</string>
+  <string name="error_name_empty">Поле назвы не можа быць пустым.</string>
   <string name="error_title"></string>
-  <string name="estimated_charging_time_left">Да поўнай зарадкі</string>
-  <string name="estimated_time_description">Прыблізны час можа мяняцца ў залежнасці ад умоў выкарыстання</string>
+  <string name="estimated_charging_time_left">Да поўнага засілкоўвання</string>
+  <string name="estimated_time_description">Прыблізны час можа змяняцца ў залежнасці ад умоў выкарыстання</string>
   <string name="estimated_time_left">Прыблзіны час, які застаўся</string>
   <string name="ethernet">Ethernet</string>
-  <string name="ethernet_data_template">^1 трафіку Ethernet</string>
+  <string name="ethernet_data_template">^1 трафіка Ethernet</string>
   <string name="ethernet_data_usage">Выкарыстанне даных Ethernet</string>
   <string name="every_day">Штодня</string>
-  <string name="expand_button_title">Пашыраныя налады</string>
+  <string name="expand_button_title">Дадатковыя налады</string>
   <string name="expandable_under_keyguard_title">Адлюстроўваць на экране блакіроўкі</string>
   <string name="experimental_category_title">Эксперыментальныя функцыі</string>
   <string name="experimental_preference">(Эксперыментальныя)</string>
@@ -2331,7 +2331,7 @@
   <string name="fcc_equipment_id">Iдэнтыфiкатар абсталявання</string>
   <string name="feature_flags_dashboard_title">Эксперыментальныя функцыі</string>
   <string name="feedback">Зваротная сувязь</string>
-  <string name="feedback_settings">Сэрвісы і водгук</string>
+  <string name="feedback_settings">Службы і зваротная сувязь</string>
   <string name="file_privacy_password_role_instruction">Вашы асабістыя файлы будуць захоўвацца тут.</string>
   <string name="filter">Фільтр</string>
   <string name="filter_all_apps">Усе праграмы</string>
@@ -2455,7 +2455,7 @@
   <string name="font_size_preview_text_headline">Прыклад тэксту</string>
   <string name="font_size_preview_text_subtitle">Раздзел 11. Цудоўны Смарагдавы Горад у краіне Оз</string>
   <string name="font_size_preview_text_title">Чараўнік краіны Оз</string>
-  <string name="font_size_save">ОК</string>
+  <string name="font_size_save">Добра</string>
   <string name="font_size_small">Менш маленькі</string>
   <string name="font_size_summary">"Змяніць памер тэксту галоўнага экрана, шторкі паведамленняў, акна набору нумара і сістэмных меню.
 
@@ -2497,8 +2497,8 @@
   <string name="fourhours">2 гадзіны</string>
   <string name="fp_nav_center_back_to_home_title">Дотык да кнопкі «Дадому» для пераходу на галоўны экран</string>
   <string name="free_memory">Свабодна</string>
-  <string name="free_wifi_agreement_remind_never">"Не паказваць ізноў"</string>
-  <string name="free_wifi_confirm">OK</string>
+  <string name="free_wifi_agreement_remind_never">"Больш не паказваць"</string>
+  <string name="free_wifi_confirm">Добра</string>
   <string name="free_wifi_connect">Падлучыцца</string>
   <string name="free_wifi_connect_dialog_summary">Сетка Wi-Fi \"%1$s\" прадастаўлена %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Даступная сетка Wi-Fi</string>
@@ -2586,7 +2586,7 @@
   <string name="google_assistant_label">Google Асістэнт</string>
   <string name="google_backup_enable">Уключыць стварэнне рэзервовых копій</string>
   <string name="google_backup_section_title">Рэзервовае капіяванне ў сховішча Google</string>
-  <string name="google_service_title">Сэрвісы Google</string>
+  <string name="google_service_title">Службы Google</string>
   <string name="google_title">Google</string>
   <string name="got_it">Зразумела</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na Wi-Fi</string>
@@ -3251,7 +3251,7 @@
   <string name="lockpassword_illegal_character">"Не можа змяшчаць недапушчальны сімвал"</string>
   <string name="lockpassword_invalid_password">Няправільны пароль</string>
   <string name="lockpassword_invalid_pin">Няправільны код</string>
-  <string name="lockpassword_ok_label">OK</string>
+  <string name="lockpassword_ok_label">Добра</string>
   <string name="lockpassword_password_blacklisted_by_admin">IT адміністратар блакіруе папулярныя паролі. Паспрабуйце іншы пароль.</string>
   <string name="lockpassword_password_recently_used">"Адміністратар прылады не дазваляе выкарыстоўваць апошні пароль"</string>
   <string name="lockpassword_password_requires_alpha">Павінен змяшчаць не менш за адну літару</string>
@@ -3567,7 +3567,7 @@
   <string name="miui_sos_enable_switch_title">SOS для непрадбачанага выпадку</string>
   <string name="miui_sos_exit_dialog_cancel">Скасаваць</string>
   <string name="miui_sos_exit_dialog_message">Вы актывавалі экстраны SOS. Дадзеныя вашага месцазнаходжання адпраўляюцца экстраным кантактам. Адключыць яго?</string>
-  <string name="miui_sos_exit_dialog_ok">OK</string>
+  <string name="miui_sos_exit_dialog_ok">Добра</string>
   <string name="miui_sos_exit_dialog_title">Адключэнне экстранага SOS</string>
   <string name="miui_sos_green_guard_summary">Адпраўляць дадзеныя аб месцазнаходжанні ў рэжыме рэальнага часу</string>
   <string name="miui_sos_green_guard_title">Бацькоўскі кантроль</string>
@@ -3642,7 +3642,7 @@
   <string name="msd_help_title">Дапамога</string>
   <string name="msd_install">Пераўсталяваць драйвер?</string>
   <string name="msd_install_download_zhushou">"Mi Phone Manager спампаваны"</string>
-  <string name="msd_install_finish">OK</string>
+  <string name="msd_install_finish">Добра</string>
   <string name="msd_install_next">Далей</string>
   <string name="msd_install_retry">"Калі ваш камп'ютар па-ранейшаму не знаходзіць прыладу, паспрабуйце наступнае:"</string>
   <string name="msd_install_retry_connect">Падключыце USB-кабель ізноў.</string>
@@ -4009,7 +4009,7 @@
   <string name="notification_summary_none">Уключаны для ўсіх праграм</string>
   <string name="notification_switch_label">Уключыць апавяшчэнні</string>
   <string name="notification_toggle_off">Выключана</string>
-  <string name="notification_toggle_on">Уключаны</string>
+  <string name="notification_toggle_on">Укл</string>
   <string name="notification_unknown_sound_title">Гук з праграмы</string>
   <string name="notification_update_new_version">Даступна абнаўленне</string>
   <string name="notification_update_now">Абнавіць зараз</string>
@@ -4043,7 +4043,7 @@
   <string name="oem_unlock_enable_summary">Дазволіць разблакаванне загрузчыка</string>
   <string name="off">Выкл</string>
   <string name="ok_rules">Завершана</string>
-  <string name="okay">ОК</string>
+  <string name="okay">Добра</string>
   <string name="oldman_app_label">Палегчаны рэжым</string>
   <string name="oldman_installed_current_btn">Аднавіць першапачатковы</string>
   <string name="oldman_installed_current_des">"Вы ўсталявалі Палегчаны рэжым у якасці працоўнага стала па змаўчанні. Націсніце кнопку ніжэй, каб аднавіць зыходны працоўны стол."</string>
@@ -4075,7 +4075,7 @@
   <string name="ota_disable_automatic_update_summary">Ужыць абнаўленні падчас перазапуску прылады</string>
   <string name="otg_button">OTG</string>
   <string name="otg_closed">Адкл.</string>
-  <string name="otg_opened">Укл.</string>
+  <string name="otg_opened">Укл</string>
   <string name="otg_settings">OTG</string>
   <string name="otg_tip">"USB On-The-Go дазваляе USB-назапашвальнікам і партатыўным клавіятурам падлучацца да вашай мабільнай прылады і абменьвацца дадзенымі. 
 
@@ -4386,7 +4386,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="priority_summary">Паказваць апавяшчэнні ў верхней частцы спісу</string>
   <string name="priority_title">Прыярытэт</string>
   <string name="privacy_authorize_cloud_msg">"Для гарантыі бяспекі вашага акаўнта ўвайдзіце на i.mi.com, калі вы хочаце адклікаць аўтарызацыю сервісаў Xiaomi Cloud (уключаючы сінхранізацыю і рэзервовае капіраванне)."</string>
-  <string name="privacy_authorize_dialog_agree">Згадзіцца</string>
+  <string name="privacy_authorize_dialog_agree">Пагадзіцца</string>
   <string name="privacy_authorize_dialog_exit">Выхад</string>
   <string name="privacy_authorize_dialog_message">&lt;Data&gt;Для таго каб выкарыстоўваць асноўныя функцыі гэтага сэрвісу, вы павінны пагадзіцца, што Xiaomi будзе збіраць, апрацоўваць і выкарыстоўваць вашыя асабістыя дадзеныя. Звярніцеся да нашай Палітыкі прыватнасці, каб даведацца, як мы збіраем і апрацоўваем асабістыя дадзеныя. Выбар «Згадзіцца» азначае, што вы прачыталі нашу &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Палітыку прыватнасці&lt;/a&gt; і наша &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Карыстальніцкае пагадненне&lt;/a&gt; і згодныя з імі.&lt;/Data&gt;</string>
   <string name="privacy_authorize_network_error">Злучыцеся з сеткай і паўтарыце спробу.</string>
@@ -4507,7 +4507,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="proxy_clear_text">Ачысціць</string>
   <string name="proxy_defaultView_text">Усталяваць налады па змаўчанні</string>
   <string name="proxy_error">Увага</string>
-  <string name="proxy_error_dismiss">ОК</string>
+  <string name="proxy_error_dismiss">Добра</string>
   <string name="proxy_error_empty_host_set_port">Поле парта павінна быць пустым, калі поле хоста пустое.</string>
   <string name="proxy_error_empty_port">Трэба запоўніць поле порта.</string>
   <string name="proxy_error_invalid_exclusion_list">Спіс выключэнняў, які вы ўвялі, мае няправільны фармат. Выключаныя дамены павінны быць пералічаныя праз коску.</string>
@@ -4991,7 +4991,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="search_bluetooth_enable">Bluetooth;Уключыць Bluetooth;Bluetooth уключаны</string>
   <string name="search_bluetooth_settings_title">Bluetooth;Бачнасць</string>
   <string name="search_bluetooth_tether_checkbox_text">Bluetooth-мадэм;мадэм</string>
-  <string name="search_breadcrumb_connector">%1$s &gt; %2$s</string>
+  <string name="search_breadcrumb_connector">%1$s і %2$s</string>
   <string name="search_brightness">Яркасць;Яркасць экрана;Яркасць дысплэя</string>
   <string name="search_button_light_timeout">Працягласць падсвятлення кнопкі;Падсвятленне кнопкі</string>
   <string name="search_calendar_sound_title">Гук календара;мелодыя календара;каляндар</string>
@@ -5007,7 +5007,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="search_date_and_time_settings_title">Дата і час;Дата і час;Дата;Час</string>
   <string name="search_description">Налады пошуку</string>
   <string name="search_development_settings_title">Рэжым распрацоўшчыка;Дапамога;Распрацоўшчык;Распрацоўшчыкі;Распрацоўка;Распрацоўка;Ліквідацыя непаладак;Адладжваць;Дыягностыка; Дыягностыка праз USB;Адладжваць праз USB</string>
-  <string name="search_device_name">Імя прылады</string>
+  <string name="search_device_name">Назва прылады</string>
   <string name="search_device_status">Статус</string>
   <string name="search_display_settings">Дысплей;Экран;Прыглушанае святло;Кішэня;Папярэджанне выпадковых выклікаў;Каляровая тэмпература;Колер;Колеры;Насычанасць;Аўтапаварот;Аўтапаварот;Аўтапаварот;Паварот экрана;Яркасць;Шрыфт;Шрыфты;Памер шрыфта;Паварот;Аўтопаварот;Шрыфт;Тэкст;Памер тэксту;Памер шрыфта;Вырашэнне экрана</string>
   <string name="search_dndm_alarm_content">Выняткі</string>
@@ -5200,7 +5200,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="security_settings_desc_multi">This app can access the following on your phone. In order to improve performance and reduce memory usage, some of these permissions are available to %1$s because it runs in the same process as %2$s:</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">Выдаліць</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Імя</string>
-  <string name="security_settings_fingerprint_enroll_dialog_ok">ОК</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">Добра</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">Акрамя разблакіроўкі тэлефона вы можаце выкарыстоўваць свае адбіткі пальцаў для аўтарызацыі пакупак і доступу да дадаткаў. <annotation id="url">Даведацца больш</annotation></string>
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">\" Опцыя блакіроўкі экрана адключана. Звяжыцеся з адміністратарам сваёй арганізацыі, каб даведацца больш. \"<annotation id="admin_details">Дадатковая інфармацыя</annotation>\"
 
@@ -5243,7 +5243,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="security_settings_premium_sms_desc">Send premium SMS</string>
   <string name="security_settings_summary">Задаць Маё месцазнаходжанне, разблакаванне экрана, блакаванне SIM-карты, блакаванне сховішча ўліковых дадзеных</string>
   <string name="security_settings_title">Бяспека</string>
-  <string name="security_status">Статус бяспекі</string>
+  <string name="security_status">Стан бяспекі</string>
   <string name="security_status_title">Стан бяспекі</string>
   <string name="security_update">Абнаўленне бяспекі</string>
   <string name="see_all_apps_title">Паказаць усе праграмы (%1$d шт.)</string>
@@ -5366,7 +5366,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="show_operator_name_title">Імя сеткі</string>
   <string name="show_owner_info_on_lockscreen_label">Паказваць подпіс на экране блакавання</string>
   <string name="show_password">Паказваць паролі</string>
-  <string name="show_password_summary">Падчас уводу сімвалаў на кароткі час паказваць іх</string>
+  <string name="show_password_summary">Падчас уводу сімвалаў пароля яны некаторы час будуць бачнныя</string>
   <string name="show_profile_info_on_lockscreen_label">Паказваць звесткi профiлю на экране блакiроўкі</string>
   <string name="show_rounded_corners">Паказваць закругленыя вуглы</string>
   <string name="show_running_services">Паказаць запушчаныя службы</string>
@@ -5376,7 +5376,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="show_touches_summary">Візуальна адлюстроўваць дотыкі</string>
   <string name="show_user_info_on_lockscreen_label">Паказваць інфармацыю аб карыстальніку на экране блакавання</string>
   <string name="show_wifi_name_title">Паказаць Wi-Fi</string>
-  <string name="shut_down_find_device_failure_confirm">ОК</string>
+  <string name="shut_down_find_device_failure_confirm">Добра</string>
   <string name="shut_down_find_device_network_failure_content">"Не атрымалася адключыць Пошук прылады. Пераканайцеся, што прылада падлучана да інтэрнэту."</string>
   <string name="shut_down_find_device_network_failure_title">"Немагчыма злучыцца з сеткай"</string>
   <string name="shuting_down_find_device">Выключэнне Пошуку прылады…</string>
@@ -5414,7 +5414,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="sim_enable_sim_lock">Заблакіраваць SIM-карту</string>
   <string name="sim_enter_cancel">Скасаваць</string>
   <string name="sim_enter_new">Новы PIN-код SIM-карты</string>
-  <string name="sim_enter_ok">ОК</string>
+  <string name="sim_enter_ok">Добра</string>
   <string name="sim_enter_old">Стары PIN-код SIM-карты</string>
   <string name="sim_enter_pin">PIN-код SIM-карты</string>
   <string name="sim_lock_change_not_supported">"Немагчыма змяніць блакаванне SIM-карты."</string>
@@ -5535,7 +5535,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="sort_order_size">Сартаваць па памеры</string>
   <string name="sos_privacy_and_content_policy">Карыстальніцкае пагадненне і Палітыка прыватнасці</string>
   <string name="sos_privacy_dialog_button_cancel">Скасаваць</string>
-  <string name="sos_privacy_dialog_button_ok">Згадзіцца</string>
+  <string name="sos_privacy_dialog_button_ok">Пагадзіцца</string>
   <string name="sos_privacy_dialog_message">"Прачытайце і прыміце нашы %s перад выкарыстаннем гэтай функцыі.
 Гэтай функцыі патрабуюцца дазвалення для доступу да вашага месцазнаходжання, выкарыстання мабільных сетак і чытання вашых кантактаў. Вы згодны?"</string>
   <string name="sos_privacy_dialog_title">Умовы і палажэнні</string>
@@ -5839,7 +5839,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="suggested_lock_settings_title">Абараніце тэлефон</string>
   <string name="suggestion_additional_fingerprints">Дадаць яшчэ адзін адбітак</string>
   <string name="suggestion_additional_fingerprints_summary">Разблакіруйце з дапамогай іншага адбітка</string>
-  <string name="suggestion_button_text">ОК</string>
+  <string name="suggestion_button_text">Добра</string>
   <string name="suggestion_for_phone_recycled">Дадаць яшчэ нумар</string>
   <string name="suggestion_remove">Выдаліць</string>
   <string name="suggestions_more_title">яшчэ +%1$d</string>
@@ -6408,7 +6408,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="user_credentials_summary">Прагляд і рэдагаванне захаваных уліковых даных</string>
   <string name="user_delete_button">Выдаліць</string>
   <string name="user_delete_user_description">Выдалiць карыстальніка</string>
-  <string name="user_dict_settings_add_dialog_confirm">ОК</string>
+  <string name="user_dict_settings_add_dialog_confirm">Добра</string>
   <string name="user_dict_settings_add_dialog_less_options">Асн. параметры</string>
   <string name="user_dict_settings_add_dialog_more_options">Дад. параметры</string>
   <string name="user_dict_settings_add_dialog_title">Дадаць у слоўнік</string>
@@ -6523,7 +6523,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="virus_scanner_scan">Націсніце, каб адсканаваць</string>
   <string name="virus_scanner_scanning">Сканаванне…</string>
   <string name="virus_scanner_select_Cancel">Скасаваць</string>
-  <string name="virus_scanner_select_OK">ОК</string>
+  <string name="virus_scanner_select_OK">Добра</string>
   <string name="virus_scanner_select_lib">Выбраць антывірусную базу</string>
   <string name="virus_scanner_select_multi">Выкарыстанне некалькіх антывірусных баз запаволіць усталёўку і праверку</string>
   <string name="virus_scanner_select_single">Выкарыстоўвайце антывірусныя базы толькі з надзейных крыніц.</string>
@@ -6710,7 +6710,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="wfd_menu_search">Пошук прылад</string>
   <string name="wfd_menu_searching">Пошук…</string>
   <string name="wfd_menu_teardown">Спыніць</string>
-  <string name="wfd_settings_description">Вывядзенне выявы на экран па сетцы Wi-Fi</string>
+  <string name="wfd_settings_description">Падлучэнне да экрана па сетцы Wi-Fi</string>
   <string name="wfd_settings_title">Бесправадны дысплэй</string>
   <string name="wfd_status_dialog_disconnect">Адключыцца</string>
   <string name="wfd_status_dialog_message">Змесціва экрана ў цяперашні час адлюстроўваецца на экране іншай прылады праз бесправадное злучэнне</string>
@@ -6760,9 +6760,9 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="wifi_assistant_off">Адкл</string>
   <string name="wifi_assistant_ok">OK</string>
   <string name="wifi_assistant_on">Укл</string>
-  <string name="wifi_assistant_setup_wifi_assistant">Наладзіць</string>
+  <string name="wifi_assistant_setup_wifi_assistant">Наладка</string>
   <string name="wifi_assistant_summary">Аўтаматычны выбар паміж сеткай Wi-Fi або мабільным інтэрнэтам пры слабым сігнале Wi-Fi</string>
-  <string name="wifi_assistant_switch_data">Выкарыстоўваць</string>
+  <string name="wifi_assistant_switch_data">Выкарыстоўваць мабільны трафік</string>
   <string name="wifi_assistant_switch_wifi">Пераключыць сетку</string>
   <string name="wifi_auto_connect">Аўтападлучэнне</string>
   <string name="wifi_auto_sel_wapi_cert">Выбраць аўтаматычна</string>
@@ -6788,56 +6788,56 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="wifi_cancel">Скасаваць</string>
   <string name="wifi_cant_connect">"Немагчыма падлучыцца"</string>
   <string name="wifi_cant_connect_to_ap">"Не атрымалася злучыцца з %1$s"</string>
-  <string name="wifi_carrier_connect">Сетка Wi‑Fi аператара</string>
-  <string name="wifi_carrier_content">Падключыцца праз %1$s</string>
-  <string name="wifi_cellular_data_fallback_summary">Выкарыстоўваць мабільную перадачу даных, калі сетка Wi-Fi страчвае доступ да інтэрнэту. Можа спаганяцца плата за выкарыстанне трафіка.</string>
-  <string name="wifi_cellular_data_fallback_title">Пераключацца на мабільную перадачу даных аўтаматычна</string>
+  <string name="wifi_carrier_connect">Сетка аператара Wi‑Fi</string>
+  <string name="wifi_carrier_content">Падлучыцца праз %1$s</string>
+  <string name="wifi_cellular_data_fallback_summary">Выкарыстоўваць мабільную сетку, калі сетка Wi-Fi страчвае доступ да інтэрнэту. Можа спаганяцца плата за выкарыстанне трафіка.</string>
+  <string name="wifi_cellular_data_fallback_title">Аўтаматычна пераключацца на мабільную сетку</string>
   <string name="wifi_certificate">Сертыфікат</string>
   <string name="wifi_check_password_try_again">Праверце пароль і паўтарыце спробу</string>
-  <string name="wifi_click_login_wlan">Патрэбна аўтарызацыя</string>
+  <string name="wifi_click_login_wlan">Патрабуецца аўтарызацыя</string>
   <string name="wifi_click_share_wlan">Націсніце, каб падзяліцца паролем</string>
   <string name="wifi_config_info">WLAN config</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_off">"Wi‑Fi не ўключаецца аўтаматычна"</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_on">Wi‑Fi уключаецца аўтаматычна</string>
-  <string name="wifi_configure_settings_preference_title">Параметры Wi‑Fi</string>
-  <string name="wifi_configured_ap_list">Нядаўні спіс пунктаў доступу</string>
-  <string name="wifi_connect">Падключыцца</string>
+  <string name="wifi_configure_settings_preference_title">Налады Wi‑Fi</string>
+  <string name="wifi_configured_ap_list">Папярэдне наладжаныя пункты доступу</string>
+  <string name="wifi_connect">Падлучыцца</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Скасаваць</string>
-  <string name="wifi_connect_cmcc_dialog_confirm">ОК</string>
-  <string name="wifi_connect_cmcc_dialog_content">"Падключэнне да сеткі перадачы дадзеных Cmcc. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, ваш аператар сувязі можа спаганяць дадатковую плату."</string>
-  <string name="wifi_connect_cmcc_dialog_not_remind">"Не паказваць ізноў"</string>
-  <string name="wifi_connect_cmcc_dialog_title">CMCC падключана</string>
-  <string name="wifi_connect_failed_message">"Не атрымалася падключэнне да сеткі Wi-Fi"</string>
-  <string name="wifi_connected_mac_randomization">Рандамізацыя MAC-адраса</string>
+  <string name="wifi_connect_cmcc_dialog_confirm">Добра</string>
+  <string name="wifi_connect_cmcc_dialog_content">"Падлучана да мабільнай сеткі. Калі вы перавысіце ліміт трафіка, вызначаны вашым тарыфам, ваш аператар можа спагнаць дадатковую плату."</string>
+  <string name="wifi_connect_cmcc_dialog_not_remind">"Больш не паказваць"</string>
+  <string name="wifi_connect_cmcc_dialog_title">CMCC падлучана</string>
+  <string name="wifi_connect_failed_message">"Не атрымалася падлучыцца да сеткі Wi-Fi"</string>
+  <string name="wifi_connected_mac_randomization">Рандамізацыя MAC-адрасоў</string>
   <string name="wifi_connected_mac_randomization_summary">Randomize MAC address when connecting to WLAN networks</string>
   <string name="wifi_connected_no_internet">Падлучана, няма інтэрнэту</string>
-  <string name="wifi_connection_management">Кіраванне злучэннямі</string>
+  <string name="wifi_connection_management">Кіраванне злучэннямі WiFi</string>
   <string name="wifi_context_menu_change_password">Змяніць пароль</string>
-  <string name="wifi_context_menu_change_wapi_certificate">Змяніць WAPI сертыфікат</string>
+  <string name="wifi_context_menu_change_wapi_certificate">Змяніць сертыфікат WAPI</string>
   <string name="wifi_context_menu_connect">Падлучыцца</string>
-  <string name="wifi_context_menu_forget">Забыць</string>
+  <string name="wifi_context_menu_forget">Забыцца</string>
   <string name="wifi_coverage_extend">Уключыць пашырэнне пакрыцця Wi‑Fi</string>
-  <string name="wifi_coverage_extend_summary">Уключыць пашырэнне пакрыцця Wi‑Fi з дапамогай пункту доступу</string>
-  <string name="wifi_data_template">^1 трафіку Wi-Fi</string>
+  <string name="wifi_coverage_extend_summary">Уключыць пашырэнне пакрыцця Wi‑Fi пры дапамозе пункта доступу</string>
+  <string name="wifi_data_template">^1 трафіка Wi-Fi</string>
   <string name="wifi_data_usage">Выкарыстанне трафіка Wi-Fi</string>
-  <string name="wifi_datanetwork_switch_not_remind">"Не паказваць ізноў"</string>
+  <string name="wifi_datanetwork_switch_not_remind">"Больш не паказваць"</string>
   <string name="wifi_details_dns">DNS</string>
   <string name="wifi_details_ipv6_address_header">IPv6-адрасы</string>
   <string name="wifi_details_subnet_mask">Маска падсеткі</string>
-  <string name="wifi_details_title">Інфармацыя аб сетцы</string>
+  <string name="wifi_details_title">Звесткі пра сетку</string>
   <string name="wifi_dialog_remind_type_title">Мабільны інтэрнэт</string>
-  <string name="wifi_disabled_by_recommendation_provider">Не падлучана з-за нізкай якасці сеткі</string>
+  <string name="wifi_disabled_by_recommendation_provider">Не падлучана праз нізкую якасць сеткі</string>
   <string name="wifi_disabled_generic">Адключана</string>
-  <string name="wifi_disabled_help">Wi-Fi быў адключаны з-за дрэннага сігналу</string>
-  <string name="wifi_disabled_network_failure">Немагчыма наладзіць IP</string>
-  <string name="wifi_disabled_password_failure">Праблема праверкі логіна і пароля</string>
+  <string name="wifi_disabled_help">Wi-Fi быў адключаны праз слабы сігнал</string>
+  <string name="wifi_disabled_network_failure">Не атрымалася наладзіць IP</string>
+  <string name="wifi_disabled_password_failure">Праблема аўтэнтыфікацыі</string>
   <string name="wifi_disabled_wifi_failure">Немагчыма падлучыцца да Wi-Fi</string>
   <string name="wifi_disconnected_notification_summary">"Вы не падлучаныя да Wi-Fi."</string>
   <string name="wifi_disconnected_notification_title">Wi-Fi адключаны</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
-  <string name="wifi_display_certification">Сертыфікацыя бесправаднога дысплэя</string>
+  <string name="wifi_display_certification">Сертыфікацыя бесправаднога дысплея</string>
   <string name="wifi_display_certification_heading">Certification</string>
-  <string name="wifi_display_certification_summary">Паказваць налады для сертыфікацыі бесправаднога дысплэя</string>
+  <string name="wifi_display_certification_summary">Паказваць параметры для сертыфікацыі бесправаднога дысплея</string>
   <string name="wifi_display_details">Налады дысплея</string>
   <string name="wifi_display_enable_menu_item">Уключыць бесправадны дысплей</string>
   <string name="wifi_display_listen_channel">Listen channel</string>
@@ -6851,10 +6851,10 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="wifi_display_pause">Паўза</string>
   <string name="wifi_display_resume">Resume</string>
   <string name="wifi_display_session_info">Session info</string>
-  <string name="wifi_display_settings_empty_list_wifi_display_disabled">"Нельга выкарыстоўваць бесправадны дысплэй, калі Wi-Fi адлучаны"</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">"Нельга выкарыстоўваць бесправадны дысплей, калі Wi-Fi адключаны"</string>
   <string name="wifi_display_settings_title">Перадача</string>
-  <string name="wifi_display_status_connected">Падключана</string>
-  <string name="wifi_display_status_connecting">Падключэнне</string>
+  <string name="wifi_display_status_connected">Падлучана</string>
+  <string name="wifi_display_status_connecting">Падлучэнне</string>
   <string name="wifi_display_status_in_use">Выкарыстоўваецца</string>
   <string name="wifi_display_status_not_available">Недаступна</string>
   <string name="wifi_display_wps_config">WPS configuration</string>
@@ -6862,55 +6862,55 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">8.8.4.4</string>
-  <string name="wifi_do_not_provide_eap_user_cert">Не даваць</string>
+  <string name="wifi_do_not_provide_eap_user_cert">Не падаваць</string>
   <string name="wifi_do_not_validate_eap_server">Не правяраць</string>
-  <string name="wifi_do_not_validate_eap_server_warning">Сертыфікат не пазначаны. Ваша падлучэнне не будзе прыватным.</string>
+  <string name="wifi_do_not_validate_eap_server_warning">Сертыфікат не вызначаны. Ваша падлучэнне не будзе прыватным.</string>
   <string name="wifi_eap_anonymous">Ананімны ідэнтыфікатар</string>
   <string name="wifi_eap_ca_cert">Сертыфікат CA</string>
   <string name="wifi_eap_domain">Дамен</string>
   <string name="wifi_eap_identity">Ідэнтыфікатар</string>
   <string name="wifi_eap_method">Метад EAP</string>
-  <string name="wifi_eap_options_advanced">Пашыраныя налады</string>
+  <string name="wifi_eap_options_advanced">Дадатковыя налады</string>
   <string name="wifi_eap_options_simple">Простыя налады</string>
-  <string name="wifi_eap_sim_simcard">Выберыце SIM</string>
+  <string name="wifi_eap_sim_simcard">Абярыце SIM-картку</string>
   <string name="wifi_eap_user_cert">Сертыфікат карыстальніка</string>
-  <string name="wifi_empty_list_user_restricted">"У вас няма дазволу на змену сеткі."</string>
+  <string name="wifi_empty_list_user_restricted">"У вас няма правоў на змену сеткі."</string>
   <string name="wifi_empty_list_wifi_off">Для прагляду даступных сетак уключыце Wi-Fi</string>
   <string name="wifi_empty_list_wifi_on">Пошук сетак Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
-  <string name="wifi_enable_watchdog_service_summary">Не карыстаць сеткі з дрэнным сігналам</string>
+  <string name="wifi_enable_watchdog_service_summary">Пазбягаць сетак з дрэнным сігналам</string>
   <string name="wifi_error">Памылка</string>
   <string name="wifi_fail_to_scan">"Немагчыма выканаць пошук сетак"</string>
-  <string name="wifi_failed_connect_message">Не атрымалася падключыцца да сеткі</string>
-  <string name="wifi_failed_forget_message">Не атрымалася iгнараваць сетку</string>
+  <string name="wifi_failed_connect_message">Не атрымалася падлучыцца да сеткі</string>
+  <string name="wifi_failed_forget_message">Не атрымалася забыцца на сетку</string>
   <string name="wifi_failed_save_message">Не атрымалася захаваць сетку</string>
-  <string name="wifi_forget">Забыць</string>
-  <string name="wifi_forget_dialog_message">Усе паролі для гэтай сеткі будуць выдалены</string>
-  <string name="wifi_forget_dialog_title">Выдаліць сетку?</string>
-  <string name="wifi_frequency">Частата</string>
+  <string name="wifi_forget">Забыцца</string>
+  <string name="wifi_forget_dialog_message">Усе паролі для гэтай сеткі будуць выдаленыя</string>
+  <string name="wifi_forget_dialog_title">Забыцца на сетку?</string>
+  <string name="wifi_frequency">Чашчыня</string>
   <string name="wifi_gateway">Шлюз</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hand_sel_wapi_cert">Сертыфікат WAPI</string>
   <string name="wifi_hidden_network">Схаваная сетка</string>
-  <string name="wifi_hidden_network_warning">"Калі маршрутызатар не перадае ідэнтыфікатар сеткі, але дапускаецца падключэнне да яе ў будучыні, сетку можна \"схаваць\".
+  <string name="wifi_hidden_network_warning">"Калі роўтар не перадае ідэнтыфікатар сеткі, але ёсць магчымасць, што вы падлучыцеся да яе ў будучыні, сетку можна \"схаваць\".
 
-Гэта пагражае бяспецы, таму што тэлефон будзе рэгулярна перадаваць сігнал для пошуку сеткі.
+Гэта пагражае бяспецы, бо тэлефон будзе рэгулярна перадаваць сігнал для пошуку сеткі.
 
-\"Схаваная\" сетка не зменіць налады маршрутызатара."</string>
+Гэтая аперацыя сетка не зменіць налады роўтара."</string>
   <string name="wifi_hide_password">Схаваць пароль</string>
-  <string name="wifi_hotspot_ap_band_title">Дыяпазон частот Wi-Fi</string>
-  <string name="wifi_hotspot_auto_off_summary">Хот-спот Wi‑Fi выключыцца, калі прылады непадключаныя</string>
-  <string name="wifi_hotspot_auto_off_title">Аўтаматычна выключыць хот-спот</string>
-  <string name="wifi_hotspot_checkbox_text">Хот-спот Wi-Fi</string>
-  <string name="wifi_hotspot_configure_ap_text">Усталёўка хот-спота Wi‑Fi</string>
-  <string name="wifi_hotspot_configure_ap_text_summary">Хот-спот AndroidAP WPA2 PSK</string>
-  <string name="wifi_hotspot_connect">ПАДКЛЮЧЫЦЦА</string>
-  <string name="wifi_hotspot_footer_info_local_only">Праграмы могуць ствараць хот-спот для абагульвання змесціва з прыладамі паблізу.</string>
-  <string name="wifi_hotspot_footer_info_regular">Выкарыстоўвайце хот-спот для стварэння сеткі Wi‑Fi для іншых прылад. Хот-спот дае доступ да інтэрнэту праз падключэнне да мабільнай перадачы даных. Мабільны аператар можа спаганяць дадатковую плату.</string>
-  <string name="wifi_hotspot_message">Для %1$s патраб. уваход анлайн перад падлуч. да сеткі.</string>
-  <string name="wifi_hotspot_name_summary_connected">Іншыя прылады могуць падключацца да %1$s</string>
-  <string name="wifi_hotspot_name_summary_connecting">Ідзе ўключэнне %1$s…</string>
-  <string name="wifi_hotspot_name_title">Назва хот-спота</string>
+  <string name="wifi_hotspot_ap_band_title">Дыяпазон чашчынь Wi-Fi</string>
+  <string name="wifi_hotspot_auto_off_summary">Пункт доступу Wi‑Fi будзе адключыцца, калі да яго не будзе падлучана прылад</string>
+  <string name="wifi_hotspot_auto_off_title">Аўтаматычнае адключэнне пункта доступу</string>
+  <string name="wifi_hotspot_checkbox_text">Пункт доступу Wi-Fi</string>
+  <string name="wifi_hotspot_configure_ap_text">Наладка пункта доступу Wi‑Fi</string>
+  <string name="wifi_hotspot_configure_ap_text_summary">Пункт доступу AndroidAP WPA2 PSK</string>
+  <string name="wifi_hotspot_connect">ПАДЛУЧЫЦЦА</string>
+  <string name="wifi_hotspot_footer_info_local_only">Праграмы могуць ствараць пункт доступу, каб падзяліцца змесцівам з іншымі прыладамі.</string>
+  <string name="wifi_hotspot_footer_info_regular">Выкарыстоўвайце пункт доступу для стварэння сеткі Wi‑Fi для іншых прылад. Пункт доступ забяспечвае доступ да мабільнага інтэрнэту прылады. Мабільны аператар можа спаганяць дадатковую плату.</string>
+  <string name="wifi_hotspot_message">%1$s патрабуецца, каб вы ўвайшлі перад падлучэннем да сеткі.</string>
+  <string name="wifi_hotspot_name_summary_connected">Іншыя прылады могуць падлучацца да %1$s</string>
+  <string name="wifi_hotspot_name_summary_connecting">Уключэнне %1$s...</string>
+  <string name="wifi_hotspot_name_title">Назва пункта доступу</string>
   <string name="wifi_hotspot_no_password_subtext">Пароль не прызначаны</string>
   <string name="wifi_hotspot_off_subtext">Інтэрнэт і змесціва не абагульваецца з іншымі прыладамі</string>
   <string name="wifi_hotspot_on_local_only_subtext">Праграма дзеліцца змесцівам. Каб падзяліцца інтэрнэтам, адключыце, а потым зноў уключыце пункт доступу</string>
@@ -6960,7 +6960,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="wifi_off_airplane_on_cancel">Скасаваць</string>
   <string name="wifi_off_airplane_on_confirm">Добра</string>
   <string name="wifi_off_airplane_on_content">У рэжыме \"У самалёце\" вы можаце ўключыць Wi-Fi уласнаручна.</string>
-  <string name="wifi_off_airplane_on_not_remind">"Не паказваць зноў"</string>
+  <string name="wifi_off_airplane_on_not_remind">"Больш не паказваць"</string>
   <string name="wifi_off_airplane_on_title">Увага</string>
   <string name="wifi_on_time">Час працы Wi-Fi</string>
   <string name="wifi_other_connection_mode">Іншы тып злучэння</string>
@@ -7004,7 +7004,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="wifi_save">Захаваць</string>
   <string name="wifi_saved_access_points_label">Захаваныя сеткі</string>
   <string name="wifi_saved_access_points_titlebar">Saved networks</string>
-  <string name="wifi_scan_always_available">Пастаянны пошук сетак</string>
+  <string name="wifi_scan_always_available">Сталы пошук сетак</string>
   <string name="wifi_scan_always_available_summary">"Дазвольце службе вызначэння месцазнаходжання Google і іншым праграмам шукаць даступныя сеткі нават, калі Wi-Fi выключаны"</string>
   <string name="wifi_scan_always_confirm_allow">Дазволіць</string>
   <string name="wifi_scan_always_confirm_deny">Адхіліць</string>
@@ -7062,14 +7062,14 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="wifi_settings_scanning_required_turn_on">Уключыць</string>
   <string name="wifi_settings_summary">Кіраванне пунктамі доступу</string>
   <string name="wifi_settings_title">Wi‑Fi</string>
-  <string name="wifi_setup_add_network">Add network</string>
+  <string name="wifi_setup_add_network">Дадаць сетку</string>
   <string name="wifi_setup_back">Назад</string>
   <string name="wifi_setup_cancel">Скасаваць</string>
-  <string name="wifi_setup_connect">Connect</string>
+  <string name="wifi_setup_connect">Падлучыцца</string>
   <string name="wifi_setup_description_connected">Націсніце &lt;b&gt;Далей&lt;/b&gt;, каб працягнуць наладку.
 
 Націсніце &lt;b&gt;Назад&lt;/b&gt;, каб падлучыцца да іншай сеткі Wi-Fi.</string>
-  <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
+  <string name="wifi_setup_description_connecting">Падлучэнне можа заняць некалькі хвілін…</string>
   <string name="wifi_setup_detail">Звесткі пра сетку</string>
   <string name="wifi_setup_eap_not_supported">"Падчас ўсталёўкі немагчыма наладзіць злучэнне з сеткай Wi-Fi з абаронай EAP. Вы можаце зрабіць гэта пазней у меню налад &gt; Бесправадныя сеткі&amp;."</string>
   <string name="wifi_setup_forget">Forget</string>
@@ -7222,7 +7222,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
   <string name="wifi_wps_available_first_item">WPS даступная</string>
   <string name="wifi_wps_available_second_item">" (WPS даступная)"</string>
   <string name="wifi_wps_connected">Падлучана да сеткі Wi-Fi %s</string>
-  <string name="wifi_wps_nfc_enter_password">Enter your network password</string>
+  <string name="wifi_wps_nfc_enter_password">Увядзіце свой сеткавы пароль</string>
   <string name="wifi_wps_onstart_pbc">Націсніце кнопку \"Бяспечнай наладкі Wi-Fi\" на вашым роўтары. Яна можа звацца \"WPS\" ці ўтрымліваць сімвал:</string>
   <string name="wifi_wps_onstart_pin">Увядзіце PIN %1$s на вашым роўтары. Наладка можа заняць да дзвюх хвілін.</string>
   <string name="wifi_wps_overlap_error">Выяўлены іншы сеанс Wi-Fi. Крыху пачакайце і паўтарыце спробу.</string>
