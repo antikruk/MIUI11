@@ -1286,7 +1286,7 @@
   <string name="permdesc_modifyAudioSettings">Дазваляе праграме змяняць глабальныя налады гуку.</string>
   <string name="permdesc_modifyNetworkAccounting">Дазваляе праграме змяняць метад уліку выкарыстання сеткі праграмамі. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_nfc">Дазваляе праграме ўзаемадзейнічаць з пазнакамі, карткамі і чытальнымі прыладамі Near Field Communication (NFC).</string>
-  <string name="permdesc_persistentActivity">Дазваляе праграме захоўваць некаторыя пастаянныя часткi ў памяцi. Гэта можа абмежаваць аб\'ём памяці, даступнай для іншых праграм, i запаволiць працу тэлефона.</string>
+  <string name="permdesc_persistentActivity">Дазваляе праграме захоўваць некаторыя сталыя часткi ў памяцi. Гэта можа абмежаваць аб\'ём памяці, даступнай для іншых праграм, i запаволiць працу тэлефона.</string>
   <string name="permdesc_processOutgoingCalls">Дазваляе праграме бачыць набраны нумар падчас выходнага выкліку з магчымасцю перанакіравання выкліку на іншы нумар або спынення выкліку.</string>
   <string name="permdesc_readCalendar">Гэтая праграма можа чытаць усе падзеі календара, захаваныя на вашым тэлефоне, і захоўваць даныя календара ці дзяліцца імі.</string>
   <string name="permdesc_readCallLog">Гэтая праграма можа чытаць ваш журнал выклікаў.</string>
@@ -1920,10 +1920,10 @@
   <string name="volume_ringtone">Гучнасць мелодыі</string>
   <string name="volume_unknown">Гучнасць</string>
   <string name="vpn_lockdown_config">Змяніць налады сеткі ці VPN</string>
-  <string name="vpn_lockdown_connected">Пастаянная сетка VPN падлучаная</string>
-  <string name="vpn_lockdown_connecting">Падлучэнне пастаяннай сеткі VPN…</string>
-  <string name="vpn_lockdown_disconnected">Адлучана ад пастаяннай сеткі VPN</string>
-  <string name="vpn_lockdown_error">"Не атрымалася падлучыцца да пастаяннай сеткі VPN"</string>
+  <string name="vpn_lockdown_connected">Сталы VPN падлучаны</string>
+  <string name="vpn_lockdown_connecting">Падлучэнне сталага VPN…</string>
+  <string name="vpn_lockdown_disconnected">Адлучана ад сталага VPN</string>
+  <string name="vpn_lockdown_error">"Не атрымалася падлучыцца да сталага VPN"</string>
   <string name="vpn_text">Націсніце, каб кіраваць сеткай.</string>
   <string name="vpn_text_long">Падлучана да %s. Націсніце, каб кiраваць сеткай.</string>
   <string name="vpn_title">Сетка VPN актываваная</string>
