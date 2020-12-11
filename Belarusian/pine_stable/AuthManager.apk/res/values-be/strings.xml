@@ -55,8 +55,8 @@
   <string name="HIPS_Perm_add_voicemail_Desc">даданне сістэмных галасавых паведамленняў</string>
   <string name="HIPS_Perm_background_start_activity">Адлюстраванне выплыўных акон падчас працы ў фонавым рэжыме</string>
   <string name="HIPS_Perm_background_start_activity_Desc">адлюстраванне выплыўных акон падчас працы ў фонавым рэжыме</string>
-  <string name="HIPS_Perm_deamon_notification">Пастаяннае апавяшчэнне</string>
-  <string name="HIPS_Perm_deamon_notification_Desc">паказ пастаянных апавяшчэнняў</string>
+  <string name="HIPS_Perm_deamon_notification">Сталае апавяшчэнне</string>
+  <string name="HIPS_Perm_deamon_notification_Desc">паказ сталых апавяшчэнняў</string>
   <string name="HIPS_Perm_get_accounts">Доступ да акаўнтаў на прыладзе</string>
   <string name="HIPS_Perm_get_accounts_Desc">доступ да ўсіх акаўнтаў, што захоўваюцца на прыладзе</string>
   <string name="HIPS_Perm_get_installed_apps">Атрыманне інфармацыі пра ўсталяваныя праграмы</string>
@@ -83,7 +83,7 @@
   <string name="HIPS_SecurityPrompt_Title">%1$s спрабуе: %2$s</string>
   <string name="Su_Package_Forbidden2">"не мае Root-доступу."</string>
   <string name="app_name">Кіраўнік дазволаў</string>
-  <string name="background_location_access_reminder_notification_content">У гэтай праграмы ёсць пастаянны доступ да вашага месцазнаходжання. Націсніце, каб змяніць.</string>
+  <string name="background_location_access_reminder_notification_content">У гэтай праграмы ёсць сталы доступ да вашага месцазнаходжання. Націсніце, каб змяніць.</string>
   <string name="background_location_access_reminder_notification_title">Праграма %s выкарыстала ваша месцазнаходжанне</string>
   <string name="current_permission_template">%1$s з %2$s</string>
   <string name="default_permission_description">выкананне невядомых дзеянняў</string>

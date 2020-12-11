@@ -183,7 +183,7 @@
         <item>Draw on top</item>
         <item>Access notifications</item>
         <item>Camera</item>
-        <item>Запіс аўдыя</item>
+        <item>Запіс аўдыё</item>
         <item>Play audio</item>
         <item>Read clipboard</item>
         <item>Modify clipboard</item>
@@ -250,7 +250,7 @@
         <item>draw on top</item>
         <item>access notifications</item>
         <item>camera</item>
-        <item>запіс аўдыя</item>
+        <item>запіс аўдыё</item>
         <item>play audio</item>
         <item>read clipboard</item>
         <item>modify clipboard</item>
@@ -2249,7 +2249,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="perm_hips_action">
         <item>Дазволіць</item>
         <item>Ask</item>
-        <item>Забараніць</item>
+        <item>Адхіліць</item>
     </string-array>
     <string-array name="permission_risk_privacy">
         <item>android.permission.ACCESS_COARSE_LOCATION</item>
@@ -2647,7 +2647,7 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Дазволіць</item>
-        <item>Забараніць</item>
+        <item>Адхіліць</item>
     </string-array>
     <string-array name="startup_hips_values">
         <item>2</item>
