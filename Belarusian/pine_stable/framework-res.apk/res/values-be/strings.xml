@@ -898,8 +898,8 @@
   <string name="lock_to_app_description_accessible">"Замацаванне экрана фіксуе яго ў адпаведным становішчы.
 
 Каб адмацаваць экран, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\"."</string>
-  <string name="lock_to_app_toast">Каб адмацаваць экран, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\".</string>
-  <string name="lock_to_app_toast_accessible">Каб адмацаваць экран, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\".</string>
+  <string name="lock_to_app_toast">Каб адмацаваць акно, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\".</string>
+  <string name="lock_to_app_toast_accessible">Каб адмацаваць акно, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\".</string>
   <string name="lock_to_app_unlock_password">Запытваць пароль перад адмацаваннем</string>
   <string name="lock_to_app_unlock_pattern">Запытваць графічны ключ перад адмацаваннем</string>
   <string name="lock_to_app_unlock_pin">Запытваць PIN-код перад адмацаваннем</string>
@@ -912,11 +912,11 @@
   <string name="lockscreen_carrier_default">Не абслугоўваецца</string>
   <string name="lockscreen_emergency_call">Экстранны выклік</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe">Вы няправільна спрабавалі разблакаваць тэлефон %1$d разы(оў). Пасля яшчэ %2$d спробаў ён будзе скінуты да завадскіх налад i карыстальнiцкiя даныя страцяцца.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Вы няправільна нарысавалі графічны ключ %1$d разы(оў). Пасля яшчэ %2$d няўдалых спробаў вам будзе прапанавана разблакаваць тэлефон увайшоўшы ў Google.
+  <string name="lockscreen_failed_attempts_almost_glogin">"Вы няправільна намалявалі графічны ключ %1$d разы(оў). Пасля яшчэ %2$d няўдалых спробаў вам будзе прапанавана разблакаваць тэлефон увайшоўшы ў Google.
 
  Паўтарыце спробу праз %3$d сек."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Вы няправільна спрабавалі разблакаваць тэлефон %d разы(оў). Цяпер ён будзе скінуты да завадскіх налад.</string>
-  <string name="lockscreen_forgot_pattern_button_text">Забыліся на ўзор?</string>
+  <string name="lockscreen_forgot_pattern_button_text">Забыліся на графічны ключ?</string>
   <string name="lockscreen_glogin_account_recovery_hint">\"Забыліся на імя карыстальніка або пароль?
 Наведайце \"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_glogin_checking_password">Праверка…</string>
@@ -925,7 +925,7 @@
   <string name="lockscreen_glogin_invalid_input">Хібнае імя карыстальніка ці пароль.</string>
   <string name="lockscreen_glogin_password_hint">Пароль</string>
   <string name="lockscreen_glogin_submit_button">Увайсці</string>
-  <string name="lockscreen_glogin_too_many_attempts">Занадта шмат спробаў нарысаваць графічны ключ</string>
+  <string name="lockscreen_glogin_too_many_attempts">Занадта шмат спробаў намаляваць графічны ключ</string>
   <string name="lockscreen_glogin_username_hint">Імя карыстальніка (электронная пошта)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Націсніце \"Меню\", каб разблакаваць.</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Націсніце \"Меню\", каб разблакаваць, або зрабіце экстранны выклік.</string>
@@ -936,9 +936,9 @@
   <string name="lockscreen_network_locked_message">Сетка заблакаваная</string>
   <string name="lockscreen_password_wrong">Паўтарыце спробу</string>
   <string name="lockscreen_pattern_correct">Правільна!</string>
-  <string name="lockscreen_pattern_instructions">Нарысуйце ўзор, каб разблакаваць</string>
+  <string name="lockscreen_pattern_instructions">Намалюйце графічны ключ, каб разблакаваць</string>
   <string name="lockscreen_pattern_wrong">Паспрабуйце яшчэ раз</string>
-  <string name="lockscreen_permanent_disabled_sim_instructions">"Ваша SIM-картка назаўсёды адключана.
+  <string name="lockscreen_permanent_disabled_sim_instructions">"Ваша SIM-картка назаўсёды адключаная.
 Звярніцеся да аператара сувязі, каб атрымаць новую SIM-картку."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">SIM-картка непрыдатная.</string>
   <string name="lockscreen_return_to_call">Вярнуцца да выкліку</string>
@@ -951,7 +951,7 @@
   <string name="lockscreen_sound_on_label">Гук уключаны</string>
   <string name="lockscreen_storage_locked">Разблакаваць для ўсіх функцый і даных</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Паўтарыце спробу праз %d секунд.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Вы няправільна нарысавалі графічны ключ %1$d разы(оў). 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Вы няправільна намалявалі графічны ключ %1$d разы(оў). 
 
 Паўтарыце спробу праз %2$d сек."</string>
   <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль %1$d разы(оў). 
@@ -961,10 +961,10 @@
 
 Паўтарыце спробу праз %2$d сек."</string>
   <string name="lockscreen_transport_ffw_description">Перамотка ўперад</string>
-  <string name="lockscreen_transport_next_description">Наступны шлях</string>
+  <string name="lockscreen_transport_next_description">Наступная кампазіцыя</string>
   <string name="lockscreen_transport_pause_description">Прыпыніць</string>
   <string name="lockscreen_transport_play_description">Прайграць</string>
-  <string name="lockscreen_transport_prev_description">Папярэдні шлях</string>
+  <string name="lockscreen_transport_prev_description">Папярэдняя кампазіцыя</string>
   <string name="lockscreen_transport_rew_description">Перамотка назад</string>
   <string name="lockscreen_transport_stop_description">Спыніць</string>
   <string name="lockscreen_unlock_label">Разблакаваць</string>
