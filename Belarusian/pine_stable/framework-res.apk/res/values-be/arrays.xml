@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Хатні</item>
+        <item>Працоўны</item>
+        <item>Іншы</item>
+        <item>Адвольны</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -17,25 +17,25 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Працоўны</item>
+        <item>Іншы</item>
+        <item>Адвольны</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Home</item>
-        <item>Mobile</item>
-        <item>Work</item>
-        <item>Work Fax</item>
-        <item>Home Fax</item>
-        <item>Pager</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Хатні</item>
+        <item>Мабільны</item>
+        <item>Працоўны</item>
+        <item>Працоўны факс</item>
+        <item>Хатні факс</item>
+        <item>Пэйджар</item>
+        <item>Іншы</item>
+        <item>Адвольны</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Хатні</item>
+        <item>Працоўны</item>
+        <item>Іншы</item>
+        <item>Адвольны</item>
     </string-array>
     <array name="config_keySystemUuidMapping"></array>
     <array name="carrier_properties"></array>
