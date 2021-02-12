@@ -203,13 +203,13 @@
   <string name="cancel">Скасаваць</string>
   <string name="candidates_style">&lt;u&gt;кандыдаты&lt;/u&gt;</string>
   <string name="capability_desc_canCaptureFingerprintGestures">"Можа распазнаваць жэсты на сканеры адбіткаў пальцаў прылады."</string>
-  <string name="capability_desc_canControlMagnification">"Кіраванне маштабам дысплея і пазіцыянаваннем."</string>
+  <string name="capability_desc_canControlMagnification">"Кіраваць маштабам дысплэя і пазіцыянаваннем."</string>
   <string name="capability_desc_canPerformGestures">Можна кранаць, праводзіць пальцам, маштабаваць, а таксама рабіць іншыя жэсты.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">У тым ліку асабістыя даныя, такія як нумары крэдытных карт і паролі.</string>
   <string name="capability_desc_canRequestTouchExploration">Агучваць элементы пры націсканні і дазволіць кіраванне прыладай пры дапамозе жэстаў.</string>
   <string name="capability_desc_canRetrieveWindowContent">"Аналізаваць змесціва актыўнага акна."</string>
   <string name="capability_title_canCaptureFingerprintGestures">Жэсты адбіткаў пальцаў</string>
-  <string name="capability_title_canControlMagnification">Кіраваць павелічэннем дысплея</string>
+  <string name="capability_title_canControlMagnification">Кіраваць павелічэннем дысплэя</string>
   <string name="capability_title_canPerformGestures">Рабіць жэсты</string>
   <string name="capability_title_canRequestFilterKeyEvents">Праглядаць тэкст, які вы набіраеце</string>
   <string name="capability_title_canRequestTouchExploration">Уключыць азнаямленне дотыкам</string>
@@ -1617,7 +1617,7 @@
   <string name="unsupported_compile_sdk_check_update">Праверыць на наяўнасць абнаўленняў</string>
   <string name="unsupported_compile_sdk_message">Праграма %1$s была створаная для несумяшчальнай версіі АС Android і можа паводзіць сябе непрадказальна. Можа быць даступна абноўленая версія праграмы.</string>
   <string name="unsupported_compile_sdk_show">Заўсёды паказваць</string>
-  <string name="unsupported_display_size_message">%1$s не падтрымлівае бягучыя памеры дысплея і можа паводзіць сябе непрадказальна.</string>
+  <string name="unsupported_display_size_message">%1$s не падтрымлівае бягучыя памеры дысплэя і можа паводзіць сябе непрадказальна.</string>
   <string name="unsupported_display_size_show">Заўсёды паказваць</string>
   <string name="untitled">&lt;Без назвы&gt;</string>
   <string name="upload_file">Абраць файл</string>
@@ -1784,7 +1784,7 @@
   <string name="wifi_wakeup_onboarding_title">Wi‑Fi уключыцца аўтаматычна</string>
   <string name="wifi_watchdog_network_disabled">"Немагчыма падлучыцца да Wi-Fi"</string>
   <string name="wifi_watchdog_network_disabled_detailed">" дрэннае злучэнне з інтэрнэтам."</string>
-  <string name="wireless_display_route_description">Бесправадны дысплей</string>
+  <string name="wireless_display_route_description">Бесправадны дысплэй</string>
   <string name="work_mode_off_message">Будуць уключаныя вашыя праграмы, апавяшчэнні, даныя і іншыя функцыі працоўнага профілю</string>
   <string name="work_mode_off_title">Уключыць працоўны профіль?</string>
   <string name="work_mode_turn_on">Уключыць</string>
